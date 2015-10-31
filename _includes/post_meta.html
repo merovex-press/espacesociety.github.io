@@ -1,7 +1,4 @@
-{% assign post = fred %}
-{% if post.tags.size > 0 %}
-{% capture tag_label %}
-{% if post.tags.size == 1 %}<i aria-hidden='true' class="fa fa-tag"></i>{% else %}<i aria-hidden='true' class="fa fa-tags"></i>{% endif %} {% endcapture %}
+{% assign post = fred %}{% if post.tags.size > 0 %}{% capture tag_label %}{% if post.tags.size == 1 %}<i aria-hidden='true' class="fa fa-tag"></i>{% else %}<i aria-hidden='true' class="fa fa-tags"></i>{% endif %}{% endcapture %}
 {% endif %}
 <p class='post-meta'>
   <span aria-hidden='true' class='fa fa-clock-o'></span><i class='sr-only'>Published on</i> {{ fred.date | date: '%-d %B %Y' }}
