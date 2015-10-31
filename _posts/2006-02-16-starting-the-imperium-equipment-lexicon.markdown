@@ -8,9 +8,8 @@ comments: true
 sharing: true
 footer: true
 group: Events
+photo:
+  hidden: true
 ---
 
-**February 16, 2006**
-<a name='teaser'></a>
 We have resumed lexicon building with the [Macropedia/Imperium Equipment](/macropedia/imperium-equipment) annex. This lexicon focuses on exceptional equipment availible during the Imperium.
-<a name='body'></a>

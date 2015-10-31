@@ -6,6 +6,8 @@ date: 2014-07-08 11:40:52 -0400
 sharing: true
 comments: true
 categories: 
+photo:
+  hidden: true
 ---
 
 I promised in 2012 to update the site. Life got in the way, but here it is.

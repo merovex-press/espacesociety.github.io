@@ -12,3 +12,20 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+gems:
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Rakefile
+  - _config.yml
+  - _sass
+  - _site
+  - _data
+  - config
+  - config.ru
+  - vendor
+
+## Site Specific
+cdn_url: https://s3.amazonaws.com/dausha

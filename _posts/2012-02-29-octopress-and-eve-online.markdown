@@ -8,14 +8,14 @@ comments: true
 sharing: true
 footer: true
 group: Events
+photo:
+  hidden: true
 ---
 
 
-****
-<a name='teaser'></a>
 As you can tell, I don't blog on Espace much these days. Most of the visitors head over to the [Astro Empires/](/astro-empires/) guides and pick up a few tips. This site has more than that, and it's about to change.
 
-<a name='body'></a>
+<!-- more -->
 Since this site started it has been managed with PmWiki. A great tool. Easy to modify. Easy to manage. I've been using PmWiki for nearly a decade. I'll be converting this site to Octopress. That's another way of saying the site will be statically generated. Octopress lets me manage the site pretty much the way I always do. But, static generation gives me a few capabilities I'm looking for at this point.
 
 Over the past year I've been tinkering with Eve Online. You see the section on the top bar. It's a fun game, though a bit of a time hog. One has to have the interest.

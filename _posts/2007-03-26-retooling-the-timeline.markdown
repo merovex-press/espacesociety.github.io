@@ -8,9 +8,9 @@ comments: true
 sharing: true
 footer: true
 group: Events
+photo:
+  hidden: true
 ---
 
-**March 24, 2007.**
-<a name='teaser'></a>
 After nearly a year hiatus, E-space Society is considering reforming to re-write the timeline. After the timeline is revised, we will likely move on to another lexicon game.
-<a name='body'></a>
+<!-- more -->

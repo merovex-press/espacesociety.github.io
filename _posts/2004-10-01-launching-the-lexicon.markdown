@@ -8,6 +8,8 @@ sharing: true
 footer: true
 image: dp-logo.png
 group: Events
+photo:
+  hidden: true
 ---
 
 <a name='teaser'></a>

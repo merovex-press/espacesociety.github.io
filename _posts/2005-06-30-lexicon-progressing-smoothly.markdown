@@ -8,6 +8,8 @@ comments: true
 sharing: true
 footer: true
 group: Events
+photo:
+  hidden: true
 ---
 
 <a name='teaser'></a>

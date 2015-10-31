@@ -8,8 +8,8 @@ comments: true
 sharing: true
 footer: true
 group: Events
+photo:
+  hidden: true
 ---
 
-<a name='teaser'></a>
 On **October 1, 2005**, We were still ten entries from completing our first Lexicon game.
-<a name='body'></a>
