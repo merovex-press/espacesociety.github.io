@@ -6,18 +6,17 @@ comments: true
 sharing: true
 footer: true
 group: AstroEmpires
+photo:
+  hidden: true
 ---
 
-
-****
-<a name='teaser'></a>
 Consider Patton's adage: "No man-made defense is defensible." Or Nathan
 Bedford Forrest's maxium, "A good offense is the best defense." Astro Empires
 has combat as its core. While a good offense is always wanted, being able to
 build strong defenses allows you to maintain a good offense. On five servers,
 I've built prings in scant weeks, roughly 50 days.
 
-<a name='body'></a>
+<!-- more -->
 How do I do it? I start before the beginning. As with any endeavor, you cannot
 attain your outcome without goals. If you want prings quickly, you have to
 decide you want them well before the server starts. If you have other goals,

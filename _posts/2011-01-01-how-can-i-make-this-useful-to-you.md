@@ -6,16 +6,13 @@ comments: true
 sharing: true
 footer: true
 group: AstroEmpires
+photo:
+  hidden: true
 ---
 
-
-****
-<a name='teaser'></a>
 It is the beginning of yet another year on Everyspace Society. Looking at the
 content generated over the past six years, and looking at the traffic we
 receive now, I chose to post this inaugural article for Astro Empires visitors.
-
-<a name='body'></a>
 
 First, welcome! Espace receives hundreds of visitors each week. You come here
 generally to read the [AstroEmpires/Small Fleet Doctrine](/astro-empires/small-fleet-doctrine) article, but there

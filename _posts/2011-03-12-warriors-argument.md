@@ -8,9 +8,9 @@ footer: true
 group: AstroEmpires
 ---
 
-****
-<a name='teaser'></a>
 Think about the food chain for a moment. Herbivores graze all day long on relatively nutrient-poor plants. They have huge guts (intestinal tracts) to extract as much of the nutrition as possible for their bodies. Day after day they spend nearly all of their time grazing. Then along comes a predator and aggressively pins down and eats one of the herbivores. Bam!
+
+<!-- more -->
 
 All of the nutrients that were so gradually and constantly accumulated in the tissues of the plant-eater become instant nutrition for the carnivore. It may be hard to witness, but the bloody feast is so rich in nutrients that the carnivore doesn't have to eat for a comparatively long time.
 
@@ -18,7 +18,6 @@ Now, the price of this lifestyle is that carnivores have to be cognizant and cle
 
 Do I have to tell you who is the herbivore and who is the carnivore in Astro Empires?
 
-<a name='body'></a>
 In a guild, who are the active members? Who is taking time to build social relationships? Who is not? Those who are quiet, who do not build the relationships are not carnivores&mdash;unless you have battle reports to the contrary. Off the top, we know they are herbivores.
 
 I researched online collaboration, in fact this site is a proof-of-concept in developing a Science Fiction milieu online. Statistically, twenty percent of any organization is active. Look at your guild, how many members does it have? If you have 20 members, expect four to be active. The number may vary, but expect a small guild to be a prime target because there are so few active players.

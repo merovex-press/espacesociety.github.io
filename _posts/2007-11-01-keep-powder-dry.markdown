@@ -6,10 +6,12 @@ comments: true
 sharing: true
 footer: true
 group: AstroEmpires
+photo:
+  hidden: true
 ---
 
 Heh. Heh. Heh. As you've heard me say before, I have a rival who has three bases in the same system as one of my Commerce bases (and 3 others in the region). So, I've been noticing him quietly building up forces, which compels me to build defenses. Of course, untested defenses are worse than no defenses at all...
-
+<!-- more -->
 This morning I walked a Corvette to his main base (110K fleet) to check his technologies. To do this, you go through the motions of attack until the system gives you the "before" fleet strength report (when you are asked to confirm the attack&mdash;DON'T). I copied his strength data and retreated the CV. The entire effort took less than 3 minutes including transit time (Slot 2 to Slot 3).
 
 I then plugged his stats into my BC, which reverse engineered his technology level. I am 3 levels ahead in Armour (Armour-21), 4 in Laser (Laser-19) and one level each in Plasma and Ion. At this point, I could be concerned, but in his fleet are 150 Frigates and no Cruisers. What have we said about Frigates, Class?
