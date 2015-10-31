@@ -2,7 +2,7 @@
 layout: page
 title: "Chovim Family"
 date: 2005-08-08T13:24:18+00:00
-comments: true
+permalink: /macropedia/chovim-family/
 sharing: true
 footer: true
 group: Macropedia

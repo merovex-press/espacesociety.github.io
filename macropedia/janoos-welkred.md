@@ -2,7 +2,7 @@
 layout: page
 title: "Janoos Welkred"
 date: 2005-08-12T22:58:57+00:00
-comments: true
+permalink: /macropedia/janoos-welkred/
 sharing: true
 footer: true
 group: Macropedia

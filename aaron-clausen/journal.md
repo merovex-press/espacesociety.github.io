@@ -2,7 +2,7 @@
 layout: page
 title: "Journal"
 date: 2005-01-14T21:02:06+00:00
-comments: true
+permalink: /aaron-clausen/journal/
 sharing: true
 footer: true
 group: AaronClausen

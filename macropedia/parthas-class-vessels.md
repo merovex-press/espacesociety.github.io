@@ -2,7 +2,7 @@
 layout: page
 title: "Parthas Class Vessels"
 date: 2005-10-18T21:25:59+00:00
-comments: true
+permalink: /macropedia/parthas-class-vessels/
 sharing: true
 footer: true
 group: Macropedia

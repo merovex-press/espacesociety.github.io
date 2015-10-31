@@ -2,7 +2,7 @@
 layout: page
 title: "Imperial Core Worlds"
 date: 2005-10-18T20:39:17+00:00
-comments: true
+permalink: /macropedia/imperial-core-worlds/
 sharing: true
 footer: true
 group: Macropedia

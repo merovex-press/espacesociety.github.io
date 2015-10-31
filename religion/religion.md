@@ -2,7 +2,7 @@
 layout: page
 title: "Religion"
 date: 2005-03-11T00:37:31+00:00
-comments: true
+permalink: /religion/religion/
 sharing: true
 footer: true
 group: Religion

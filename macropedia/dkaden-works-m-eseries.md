@@ -2,7 +2,7 @@
 layout: page
 title: "Dkaden Works M Eseries"
 date: 2006-02-23T21:30:22+00:00
-comments: true
+permalink: /macropedia/dkaden-works-m-eseries/
 sharing: true
 footer: true
 group: Macropedia

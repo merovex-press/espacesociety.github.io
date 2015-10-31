@@ -2,7 +2,7 @@
 layout: page
 title: "Emil Dabrian"
 date: 2005-08-28T15:24:46+00:00
-comments: true
+permalink: /macropedia/emil-dabrian/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Chogia Faith"
 date: 2005-08-04T19:32:33+00:00
-comments: true
+permalink: /macropedia/chogia-faith/
 sharing: true
 footer: true
 group: Macropedia

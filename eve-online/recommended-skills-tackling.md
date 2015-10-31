@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Tackling"
 date: 2011-11-17T00:00:34+00:00
-comments: true
+permalink: /eve-online/recommended-skills-tackling/
 sharing: true
 footer: true
 group: EveOnline

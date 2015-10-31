@@ -2,7 +2,7 @@
 layout: page
 title: "First Expanse"
 date: 2005-01-10T20:15:29+00:00
-comments: true
+permalink: /epsilon-indi/first-expanse/
 sharing: true
 footer: true
 group: EpsilonIndi

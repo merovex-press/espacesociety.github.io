@@ -2,7 +2,7 @@
 layout: page
 title: "The Imperial Congress"
 date: 2005-10-18T20:39:52+00:00
-comments: true
+permalink: /macropedia/imperial-congress/
 sharing: true
 footer: true
 group: Macropedia

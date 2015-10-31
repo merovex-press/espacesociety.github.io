@@ -2,7 +2,7 @@
 layout: page
 title: "Boris Helfstein"
 date: 2006-02-19T03:50:44+00:00
-comments: true
+permalink: /scholar/boris-helfstein/
 sharing: true
 footer: true
 group: Scholar

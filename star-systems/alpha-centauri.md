@@ -2,7 +2,7 @@
 layout: page
 title: "Alpha Centauri"
 date: 2005-06-28T23:49:34+00:00
-comments: true
+permalink: /star-systems/alpha-centauri/
 sharing: true
 footer: true
 group: StarSystems

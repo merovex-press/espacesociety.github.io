@@ -2,7 +2,7 @@
 layout: page
 title: "S Es Tre L"
 date: 2005-09-26T00:06:30+00:00
-comments: true
+permalink: /macropedia/s-es-tre-l/
 sharing: true
 footer: true
 group: Macropedia

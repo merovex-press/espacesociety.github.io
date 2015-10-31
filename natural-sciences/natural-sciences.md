@@ -2,7 +2,7 @@
 layout: page
 title: "Natural Sciences"
 date: 2005-07-31T20:33:47+00:00
-comments: true
+permalink: /natural-sciences/natural-sciences/
 sharing: true
 footer: true
 group: NaturalSciences

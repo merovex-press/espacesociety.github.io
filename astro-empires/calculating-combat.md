@@ -2,7 +2,7 @@
 layout: page
 title: "Calculating Combat"
 date: 2009-03-29T22:25:13+00:00
-comments: true
+permalink: /astro-empires/calculating-combat/
 sharing: true
 footer: true
 group: AstroEmpires

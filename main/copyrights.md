@@ -2,7 +2,7 @@
 layout: page
 title: "Copyrights"
 date: 2004-12-30T20:16:40+00:00
-comments: true
+permalink: /main/copyrights/
 sharing: true
 footer: true
 group: Main

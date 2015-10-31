@@ -2,7 +2,7 @@
 layout: page
 title: "Raoul Tammerik"
 date: 2005-09-30T17:15:43+00:00
-comments: true
+permalink: /macropedia/raoul-tammerik/
 sharing: true
 footer: true
 group: Macropedia

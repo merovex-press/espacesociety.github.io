@@ -2,7 +2,7 @@
 layout: page
 title: "Impact Of New F T Rule"
 date: 2009-04-15T00:40:24+00:00
-comments: true
+permalink: /astro-empires/new-fighter-rule-analysis/
 sharing: true
 footer: true
 group: AstroEmpires

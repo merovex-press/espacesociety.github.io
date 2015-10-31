@@ -2,7 +2,7 @@
 layout: page
 title: "The Langothian Rangers"
 date: 2005-10-18T20:46:30+00:00
-comments: true
+permalink: /macropedia/langothian-rangers/
 sharing: true
 footer: true
 group: Macropedia

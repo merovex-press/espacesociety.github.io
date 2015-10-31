@@ -2,7 +2,7 @@
 layout: page
 title: "Imperial Dominion"
 date: 2005-01-10T20:26:19+00:00
-comments: true
+permalink: /epsilon-indi/imperial-dominion/
 sharing: true
 footer: true
 group: EpsilonIndi

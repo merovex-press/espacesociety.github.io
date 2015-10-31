@@ -2,7 +2,7 @@
 layout: page
 title: "How Can I Make Espace Useful To You?"
 date: 2011-01-01T17:46:46+00:00
-comments: true
+permalink: /_posts/2011-01-01-how-can-i-make-this-useful-to-you/
 sharing: true
 footer: true
 group: AstroEmpires

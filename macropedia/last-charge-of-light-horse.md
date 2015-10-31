@@ -2,7 +2,7 @@
 layout: page
 title: "Untitled"
 date: 2005-10-18T20:47:35+00:00
-comments: true
+permalink: /macropedia/last-charge-of-light-horse/
 sharing: true
 footer: true
 group: Macropedia

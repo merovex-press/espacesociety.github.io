@@ -2,7 +2,7 @@
 layout: page
 title: "Telefreiber Auto Scout"
 date: 2006-03-02T01:54:57+00:00
-comments: true
+permalink: /macropedia/telefreiber-auto-scout/
 sharing: true
 footer: true
 group: Macropedia

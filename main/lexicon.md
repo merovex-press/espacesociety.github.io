@@ -2,13 +2,13 @@
 layout: page
 title: "Lexicon"
 date: 2005-09-14T23:27:13+00:00
-comments: true
+permalink: /main/lexicon/
 sharing: true
 footer: true
 group: Main
 ---
 
-[ Lexicon Game](http://www.20by20room.com/2003/11/lexicon_an_rpg.html ) is a way of role-playing out a setting's background. In E-Space's incarnation of ***Lexicon***, players portray scholars from different eras, scholars who do not restrain themselves to being professionals. They are opinionated, eccentric, and confrontational. As scholars, the players collaborate with one another to construct the [Macropedia/Macropedia](/macropedia/macropedia), a widely published encyclopedia of human understanding.
+[ Lexicon Game](http://www.20by20room.com/2003/11/lexicon_an_rpg.html ) is a way of role-playing out a setting's background. In E-Space's incarnation of ***Lexicon***, players portray scholars from different eras, scholars who do not restrain themselves to being professionals. They are opinionated, eccentric, and confrontational. As scholars, the players collaborate with one another to construct the [Macropedia/Macropedia](//), a widely published encyclopedia of human understanding.
 
 ## Rules
 
@@ -66,7 +66,7 @@ Pmwiki takes care of some of the housekeeping for us. All we need to do is add t
 * Scholars should have the following at the end of their bios ([=$period=] is the edition name):
  ----
  [==]
-Here is an [ example](/macropedia/scholar/isaac-taub?action=source-) of a schloar bio with the notation. This allows pmwiki to list all the authors of a given edition.
+Here is an [ example](//scholar/isaac-taub?action=source-) of a schloar bio with the notation. This allows pmwiki to list all the authors of a given edition.
 
 *At the end of each article the following should appear:
  ----

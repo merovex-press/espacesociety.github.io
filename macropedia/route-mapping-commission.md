@@ -2,7 +2,7 @@
 layout: page
 title: "Route Mapping Commission"
 date: 2005-10-01T15:23:36+00:00
-comments: true
+permalink: /macropedia/route-mapping-commission/
 sharing: true
 footer: true
 group: Macropedia

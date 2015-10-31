@@ -2,7 +2,7 @@
 layout: page
 title: "Rights Of The Imperial Citizen"
 date: 2005-09-30T18:03:26+00:00
-comments: true
+permalink: /macropedia/rights-of-the-imperial-citizen/
 sharing: true
 footer: true
 group: Macropedia

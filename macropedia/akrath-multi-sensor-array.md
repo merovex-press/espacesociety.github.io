@@ -2,7 +2,7 @@
 layout: page
 title: "Akrath Multi-Sensor Array"
 date: 2006-03-04T20:05:43+00:00
-comments: true
+permalink: /macropedia/akrath-multi-sensor-array/
 sharing: true
 footer: true
 group: Macropedia

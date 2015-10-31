@@ -2,7 +2,7 @@
 layout: page
 title: "Jubal I I "
 date: 2005-08-19T19:01:27+00:00
-comments: true
+permalink: /macropedia/jubal-two/
 sharing: true
 footer: true
 group: Macropedia

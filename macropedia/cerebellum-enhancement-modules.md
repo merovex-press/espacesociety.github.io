@@ -2,7 +2,7 @@
 layout: page
 title: "Cerebellum Enhancement Modules"
 date: 2006-03-13T18:59:27+00:00
-comments: true
+permalink: /macropedia/cerebellum-enhancement-modules/
 sharing: true
 footer: true
 group: Macropedia

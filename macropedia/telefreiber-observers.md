@@ -2,7 +2,7 @@
 layout: page
 title: "Telefreiber Observers"
 date: 2006-03-12T17:44:29+00:00
-comments: true
+permalink: /macropedia/telefreiber-observers/
 sharing: true
 footer: true
 group: Macropedia

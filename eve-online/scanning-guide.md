@@ -2,7 +2,7 @@
 layout: page
 title: "Learning To Use The Scanner"
 date: 2011-12-26T01:19:42+00:00
-comments: true
+permalink: /eve-online/scanning-guide/
 sharing: true
 footer: true
 group: EveOnline

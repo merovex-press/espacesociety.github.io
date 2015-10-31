@@ -2,7 +2,7 @@
 layout: page
 title: "Umarian Guard"
 date: 2005-10-18T21:56:07+00:00
-comments: true
+permalink: /macropedia/umarian-guard/
 sharing: true
 footer: true
 group: Macropedia

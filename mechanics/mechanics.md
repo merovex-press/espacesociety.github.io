@@ -2,7 +2,7 @@
 layout: page
 title: "Mechanics"
 date: 2005-06-26T20:19:15+00:00
-comments: true
+permalink: /mechanics/mechanics/
 sharing: true
 footer: true
 group: Mechanics

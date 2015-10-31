@@ -2,7 +2,7 @@
 layout: page
 title: "Hazadal"
 date: 2005-11-30T21:37:48+00:00
-comments: true
+permalink: /star-systems/hazadal/
 sharing: true
 footer: true
 group: StarSystems

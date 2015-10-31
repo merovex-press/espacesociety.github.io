@@ -2,7 +2,7 @@
 layout: page
 title: "Twist Of Fate"
 date: 2005-10-18T21:53:21+00:00
-comments: true
+permalink: /macropedia/twist-of-fate/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "E-Space Chronology"
 date: 2005-06-05T21:27:01+00:00
-comments: true
+permalink: /chronology/chronology/
 sharing: true
 footer: true
 group: Chronology

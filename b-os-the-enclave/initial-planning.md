@@ -2,7 +2,7 @@
 layout: page
 title: "Initial Planning"
 date: 2007-11-12T13:38:57+00:00
-comments: true
+permalink: /b-os-the-enclave/initial-planning/
 sharing: true
 footer: true
 group: BOSTheEnclave

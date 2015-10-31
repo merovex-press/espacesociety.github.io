@@ -2,7 +2,7 @@
 layout: page
 title: "Scouting"
 date: 2007-12-23T18:01:50+00:00
-comments: true
+permalink: /astro-empires/scouting/
 sharing: true
 footer: true
 group: AstroEmpires

@@ -2,7 +2,7 @@
 layout: page
 title: "Dreohedge Gevar"
 date: 2005-10-15T01:25:33+00:00
-comments: true
+permalink: /macropedia/dreohedge-gevar/
 sharing: true
 footer: true
 group: Macropedia

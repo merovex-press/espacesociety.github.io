@@ -2,7 +2,7 @@
 layout: page
 title: "Units At A Glance"
 date: 2008-10-18T02:01:43+00:00
-comments: true
+permalink: /astro-empires/units-at-a-glance/
 sharing: true
 footer: true
 group: AstroEmpires

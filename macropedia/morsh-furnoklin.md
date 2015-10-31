@@ -2,7 +2,7 @@
 layout: page
 title: "Morsh Furnoklin"
 date: 2005-09-19T22:13:00+00:00
-comments: true
+permalink: /macropedia/morsh-furnoklin/
 sharing: true
 footer: true
 group: Macropedia

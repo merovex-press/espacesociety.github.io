@@ -2,7 +2,7 @@
 layout: page
 title: "Vocabulary"
 date: 2009-01-23T17:39:00+00:00
-comments: true
+permalink: /astro-empires/vocabulary/
 sharing: true
 footer: true
 group: AstroEmpires

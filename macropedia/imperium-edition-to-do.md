@@ -2,7 +2,7 @@
 layout: page
 title: "Imperium Edition To Do"
 date: 2006-02-02T16:16:13+00:00
-comments: true
+permalink: /macropedia/imperium-edition-to-do/
 sharing: true
 footer: true
 group: Macropedia

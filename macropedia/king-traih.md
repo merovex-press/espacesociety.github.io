@@ -2,7 +2,7 @@
 layout: page
 title: "King Traih"
 date: 2006-01-21T19:03:10+00:00
-comments: true
+permalink: /macropedia/king-traih/
 sharing: true
 footer: true
 group: Macropedia

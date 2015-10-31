@@ -2,7 +2,7 @@
 layout: page
 title: "Galaxy Cluster Travel"
 date: 2007-10-02T14:16:52+00:00
-comments: true
+permalink: /astro-empires/galaxy-cluster-travel/
 sharing: true
 footer: true
 group: AstroEmpires

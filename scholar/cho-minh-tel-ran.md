@@ -2,7 +2,7 @@
 layout: page
 title: "Cho Minh Tel Ran"
 date: 2005-08-15T23:58:30+00:00
-comments: true
+permalink: /scholar/cho-minh-tel-ran/
 sharing: true
 footer: true
 group: Scholar

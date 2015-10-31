@@ -2,7 +2,7 @@
 layout: page
 title: "Search Wiki"
 date: 2004-10-20T14:34:19+00:00
-comments: true
+permalink: /main/search-wiki/
 sharing: true
 footer: true
 group: Main

@@ -2,7 +2,7 @@
 layout: page
 title: "Untara Drive Control"
 date: 2005-10-18T21:55:09+00:00
-comments: true
+permalink: /macropedia/untara-drive-control/
 sharing: true
 footer: true
 group: Macropedia

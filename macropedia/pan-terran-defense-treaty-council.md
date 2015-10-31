@@ -2,7 +2,7 @@
 layout: page
 title: "Pan Terran Defense Treaty Council"
 date: 2005-10-08T15:23:14+00:00
-comments: true
+permalink: /macropedia/pan-terran-defense-treaty-council/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Alaerian Cult"
 date: 2005-10-18T20:19:58+00:00
-comments: true
+permalink: /macropedia/alaerian-cult/
 sharing: true
 footer: true
 group: Macropedia

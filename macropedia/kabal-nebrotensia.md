@@ -2,7 +2,7 @@
 layout: page
 title: "Kabal Nebrotensia"
 date: 2005-10-15T02:43:40+00:00
-comments: true
+permalink: /macropedia/kabal-nebrotensia/
 sharing: true
 footer: true
 group: Macropedia

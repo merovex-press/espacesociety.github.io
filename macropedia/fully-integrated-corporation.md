@@ -2,7 +2,7 @@
 layout: page
 title: "Fully Integrated Corporation"
 date: 2005-09-13T12:34:54+00:00
-comments: true
+permalink: /macropedia/fully-integrated-corporation/
 sharing: true
 footer: true
 group: Macropedia

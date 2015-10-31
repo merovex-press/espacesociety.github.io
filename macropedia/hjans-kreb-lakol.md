@@ -2,7 +2,7 @@
 layout: page
 title: "Hjans Kreb Lakol"
 date: 2005-10-18T20:38:54+00:00
-comments: true
+permalink: /macropedia/hjans-kreb-lakol/
 sharing: true
 footer: true
 group: Macropedia

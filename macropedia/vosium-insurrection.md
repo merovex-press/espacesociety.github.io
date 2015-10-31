@@ -2,7 +2,7 @@
 layout: page
 title: "Vosium Insurrection"
 date: 2005-03-05T19:43:01+00:00
-comments: true
+permalink: /macropedia/vosium-insurrection/
 sharing: true
 footer: true
 group: Macropedia

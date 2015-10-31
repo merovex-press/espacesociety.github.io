@@ -2,7 +2,7 @@
 layout: page
 title: "Astro Empires"
 date: 2007-09-13T13:28:10+00:00
-comments: true
+permalink: /astro-empires/astro-empires/
 sharing: true
 footer: true
 group: AstroEmpires

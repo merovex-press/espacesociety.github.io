@@ -2,7 +2,7 @@
 layout: page
 title: "About The Imperium Series"
 date: 2011-07-19T05:05:56+00:00
-comments: true
+permalink: /events/2011-07-19-about-the-imperium-series/
 sharing: true
 footer: true
 group: Events

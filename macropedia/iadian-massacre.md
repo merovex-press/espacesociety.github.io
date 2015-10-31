@@ -2,7 +2,7 @@
 layout: page
 title: "Iadian Massacre"
 date: 2005-10-08T15:11:24+00:00
-comments: true
+permalink: /macropedia/iadian-massacre/
 sharing: true
 footer: true
 group: Macropedia

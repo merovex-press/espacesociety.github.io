@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Ewar"
 date: 2011-11-17T00:00:55+00:00
-comments: true
+permalink: /eve-online/recommended-skills-ewar/
 sharing: true
 footer: true
 group: EveOnline

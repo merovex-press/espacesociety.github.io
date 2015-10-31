@@ -2,7 +2,7 @@
 layout: page
 title: "38c-43c: Imperial Dominion"
 date: 2004-12-14T20:16:45+00:00
-comments: true
+permalink: /chronology/imperial-dominion/
 sharing: true
 footer: true
 group: Chronology
@@ -41,7 +41,7 @@ The old oligarchies that had evolved in these colonies during the FirstExpanse a
 
 A few worlds do not become part of this Imperium.  Some manage to maintain at least some independence, and some are forgotten worlds where technology to some degree or another has been lost.
 
-[Macropedia Terradoma - Imperium Edition](/macropedia/imperium-edition)
+[Macropedia Terradoma - Imperium Edition](//imperium-edition)
 
 -- [~AaronClausen](/chronology/~aaron-clausen) - 05 Dec 2004
 

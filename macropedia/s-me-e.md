@@ -2,7 +2,7 @@
 layout: page
 title: "Sibrnetik Matrix Ether-Enabled"
 date: 2006-02-12T05:12:54+00:00
-comments: true
+permalink: /macropedia/s-me-e/
 sharing: true
 footer: true
 group: Macropedia

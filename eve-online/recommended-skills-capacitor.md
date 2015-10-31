@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Capacitor"
 date: 2011-11-16T23:59:26+00:00
-comments: true
+permalink: /eve-online/recommended-skills-capacitor/
 sharing: true
 footer: true
 group: EveOnline

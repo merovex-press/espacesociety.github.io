@@ -2,7 +2,7 @@
 layout: page
 title: "Rainbow Maker"
 date: 2006-03-04T19:47:54+00:00
-comments: true
+permalink: /macropedia/rainbow-maker/
 sharing: true
 footer: true
 group: Macropedia

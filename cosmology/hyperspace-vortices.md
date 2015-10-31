@@ -2,7 +2,7 @@
 layout: page
 title: "Hyperspace Vortices"
 date: 2005-01-14T23:57:05+00:00
-comments: true
+permalink: /cosmology/hyperspace-vortices/
 sharing: true
 footer: true
 group: Cosmology

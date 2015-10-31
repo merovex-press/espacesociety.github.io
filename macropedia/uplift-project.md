@@ -2,7 +2,7 @@
 layout: page
 title: "Uplift Project"
 date: 2005-10-18T21:55:46+00:00
-comments: true
+permalink: /macropedia/uplift-project/
 sharing: true
 footer: true
 group: Macropedia

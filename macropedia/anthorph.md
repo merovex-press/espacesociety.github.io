@@ -2,7 +2,7 @@
 layout: page
 title: "Anthorph"
 date: 2005-08-07T03:41:06+00:00
-comments: true
+permalink: /macropedia/anthorph/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Skill Groups"
 date: 2011-11-05T23:25:18+00:00
-comments: true
+permalink: /eve-online/skill-groups/
 sharing: true
 footer: true
 group: EveOnline

@@ -2,7 +2,7 @@
 layout: page
 title: "Jupiter Rocket"
 date: 2005-10-18T20:42:47+00:00
-comments: true
+permalink: /macropedia/jupiter-rocket/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Hans Richter Kuber"
 date: 2006-01-21T20:18:15+00:00
-comments: true
+permalink: /macropedia/hans-richter-kuber/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Weng Zhu Li"
 date: 2005-10-18T21:58:39+00:00
-comments: true
+permalink: /macropedia/weng-zhu-li/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "New Guide"
 date: 2007-09-12T22:50:49+00:00
-comments: true
+permalink: /astro-empires/new-guide/
 sharing: true
 footer: true
 group: AstroEmpires

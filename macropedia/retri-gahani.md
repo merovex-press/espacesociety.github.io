@@ -2,7 +2,7 @@
 layout: page
 title: "Retri Gahani"
 date: 2005-08-07T05:37:22+00:00
-comments: true
+permalink: /macropedia/retri-gahani/
 sharing: true
 footer: true
 group: Macropedia

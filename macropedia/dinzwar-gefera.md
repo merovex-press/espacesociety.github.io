@@ -2,7 +2,7 @@
 layout: page
 title: "Dinzwar Gefera"
 date: 2005-10-18T20:30:10+00:00
-comments: true
+permalink: /macropedia/dinzwar-gefera/
 sharing: true
 footer: true
 group: Macropedia

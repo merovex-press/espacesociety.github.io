@@ -2,7 +2,7 @@
 layout: page
 title: "Black Hand"
 date: 2006-01-21T20:01:09+00:00
-comments: true
+permalink: /macropedia/black-hand/
 sharing: true
 footer: true
 group: Macropedia

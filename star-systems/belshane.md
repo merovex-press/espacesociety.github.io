@@ -2,7 +2,7 @@
 layout: page
 title: "Belshane"
 date: 2005-11-23T21:11:18+00:00
-comments: true
+permalink: /star-systems/belshane/
 sharing: true
 footer: true
 group: StarSystems
@@ -52,7 +52,7 @@ Despite the planet's marginal environment, the Belshae's technical abilities and
 
 The first FTL vessels arrived, they were largely hoping to find a mineral-rich world.  Instead they found a thriving civilization of nearly eight hundred million people, possessing advanced space travel technology.  The Belshae, however, realized that the universe had changed substantially, and did their best to catch up with this new age of interstellar travel, managing within a few decades to build their own vessels capable of travelling the Soup.
 
-Foolishly, the Belshae went to war against NovyaSiberia. and the ensuing [Novya Siberia-Belshane War](/macropedia/novya-siberia-belshane-war) was a disaster.  The Belshae, who had fought furiously against the emerging Macropedia/TerranRepublic were now forced into it.
+Foolishly, the Belshae went to war against NovyaSiberia. and the ensuing [Novya Siberia-Belshane War](//novya-siberia-belshane-war) was a disaster.  The Belshae, who had fought furiously against the emerging Macropedia/TerranRepublic were now forced into it.
 
 ### The Imperium Era
 
@@ -62,7 +62,7 @@ With the failure of the Emperors, Belshane began constructing its own fleet and,
 
 ## References
 # NovyaSiberia
-# [Novya Siberia-Belshane War](/macropedia/novya-siberia-belshane-war)
+# [Novya Siberia-Belshane War](//novya-siberia-belshane-war)
 # Macropedia/FemaronFelard
 # [First Expanse](/chronology/first-expanse)
 # Macropedia/RanksAndTitlesOfTheEmpire

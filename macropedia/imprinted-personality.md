@@ -2,7 +2,7 @@
 layout: page
 title: "Imprinted Personality"
 date: 2006-03-12T17:37:45+00:00
-comments: true
+permalink: /macropedia/imprinted-personality/
 sharing: true
 footer: true
 group: Macropedia

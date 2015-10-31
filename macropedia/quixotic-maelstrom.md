@@ -2,7 +2,7 @@
 layout: page
 title: "Quixotic Maelstrom"
 date: 2005-10-18T21:29:30+00:00
-comments: true
+permalink: /macropedia/quixotic-maelstrom/
 sharing: true
 footer: true
 group: Macropedia

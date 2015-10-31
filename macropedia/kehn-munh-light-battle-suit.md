@@ -2,7 +2,7 @@
 layout: page
 title: "Kehn Munh Light Battle Suit"
 date: 2006-02-19T04:42:50+00:00
-comments: true
+permalink: /macropedia/kehn-munh-light-battle-suit/
 sharing: true
 footer: true
 group: Macropedia

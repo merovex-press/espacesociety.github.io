@@ -2,7 +2,7 @@
 layout: page
 title: "Disruptor Bomb"
 date: 2006-03-01T22:58:06+00:00
-comments: true
+permalink: /macropedia/disruptor-bomb/
 sharing: true
 footer: true
 group: Macropedia

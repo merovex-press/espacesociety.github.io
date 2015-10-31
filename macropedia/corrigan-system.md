@@ -2,7 +2,7 @@
 layout: page
 title: "Corrigan System"
 date: 2005-09-14T17:46:30+00:00
-comments: true
+permalink: /macropedia/corrigan-system/
 sharing: true
 footer: true
 group: Macropedia

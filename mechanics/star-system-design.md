@@ -2,7 +2,7 @@
 layout: page
 title: "Star System Design"
 date: 2005-01-24T00:18:29+00:00
-comments: true
+permalink: /mechanics/star-system-design/
 sharing: true
 footer: true
 group: Mechanics

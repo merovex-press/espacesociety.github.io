@@ -2,7 +2,7 @@
 layout: page
 title: "Anthorph Free State"
 date: 2005-09-09T22:07:57+00:00
-comments: true
+permalink: /macropedia/anthorph-free-state/
 sharing: true
 footer: true
 group: Macropedia

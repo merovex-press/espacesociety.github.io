@@ -2,7 +2,7 @@
 layout: page
 title: "Fteigar Alloys"
 date: 2005-08-05T22:24:54+00:00
-comments: true
+permalink: /macropedia/fteigar-alloys/
 sharing: true
 footer: true
 group: Macropedia

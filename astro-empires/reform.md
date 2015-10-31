@@ -2,7 +2,7 @@
 layout: page
 title: "The Article Of Reform"
 date: 2008-05-12T22:41:52+00:00
-comments: true
+permalink: /astro-empires/reform/
 sharing: true
 footer: true
 group: AstroEmpires

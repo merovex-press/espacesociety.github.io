@@ -2,7 +2,7 @@
 layout: page
 title: "Academy Of The Imperial Fleet"
 date: 2005-08-31T00:15:49+00:00
-comments: true
+permalink: /macropedia/academy-of-the-imperial-fleet/
 sharing: true
 footer: true
 group: Macropedia

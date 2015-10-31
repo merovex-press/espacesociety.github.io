@@ -2,7 +2,7 @@
 layout: page
 title: "Dictionary"
 date: 2004-12-12T20:32:00+00:00
-comments: true
+permalink: /main/dictionary/
 sharing: true
 footer: true
 group: Main

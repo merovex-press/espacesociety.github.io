@@ -2,7 +2,7 @@
 layout: page
 title: "Lenda Tawmerik"
 date: 2005-10-18T21:08:54+00:00
-comments: true
+permalink: /macropedia/lenda-tawmerik/
 sharing: true
 footer: true
 group: Macropedia

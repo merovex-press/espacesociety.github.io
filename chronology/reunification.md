@@ -2,7 +2,7 @@
 layout: page
 title: "57c-59c: Reunification"
 date: 2007-03-26T01:46:11+00:00
-comments: true
+permalink: /chronology/reunification/
 sharing: true
 footer: true
 group: Chronology
@@ -16,7 +16,7 @@ Memories of the Old Imperium were not entirely lost, and many of these interstel
 
 The desire for peace came to be very great during this time.  Many feared that the fledgling interstellar civilizations might again be snuffed out by warfare.  Out of this came a wide-spread sentiment, even among the ruling and military classes, that humanity needed to be reunited under a single government.
 
-Still, historians and philosophers of this age were well aware of the Imperium's many failings, and looked to that ancient state's roots in the short-lived [Macropedia/Terran Republic](/macropedia/terran-republic) as the inspiration for their own new human-wide interstellar state.  New humanistic philosophies and a growing political liberalism convinced many that the new state must be a republic, with greater respect and recognition of human rights, and less upon the rights and privileges of governments.
+Still, historians and philosophers of this age were well aware of the Imperium's many failings, and looked to that ancient state's roots in the short-lived [Macropedia/Terran Republic](//terran-republic) as the inspiration for their own new human-wide interstellar state.  New humanistic philosophies and a growing political liberalism convinced many that the new state must be a republic, with greater respect and recognition of human rights, and less upon the rights and privileges of governments.
 
 By no means was this unification process an easy one, and not all the interstellar states were as keen to permitting their own power to be supplanted by some new republic.  Negotiations were long and difficult, testing the resolve of the numerous diplomats, politicians, citizens, merchants and theorists that gathered to create a functioning government out of an ideal.  War was still a threat during this period, but the idealists stood their ground even in the midst of such threats.
 

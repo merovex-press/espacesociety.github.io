@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Gunnery"
 date: 2011-11-16T23:57:02+00:00
-comments: true
+permalink: /eve-online/recommended-skills-gunnery/
 sharing: true
 footer: true
 group: EveOnline

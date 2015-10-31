@@ -2,7 +2,7 @@
 layout: page
 title: "Elenarai Fathame"
 date: 2005-08-28T16:30:29+00:00
-comments: true
+permalink: /macropedia/elenarai-fathame/
 sharing: true
 footer: true
 group: Macropedia

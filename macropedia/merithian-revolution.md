@@ -2,7 +2,7 @@
 layout: page
 title: "Merithian Revolution"
 date: 2005-09-17T17:49:06+00:00
-comments: true
+permalink: /macropedia/merithian-revolution/
 sharing: true
 footer: true
 group: Macropedia

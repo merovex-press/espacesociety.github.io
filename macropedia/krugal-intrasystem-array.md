@@ -2,7 +2,7 @@
 layout: page
 title: "Krugal Intrasystem Array"
 date: 2006-03-07T00:31:33+00:00
-comments: true
+permalink: /macropedia/krugal-intrasystem-array/
 sharing: true
 footer: true
 group: Macropedia

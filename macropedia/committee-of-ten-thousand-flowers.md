@@ -2,7 +2,7 @@
 layout: page
 title: "Committee Of Ten Thousand Flowers"
 date: 2005-07-31T20:51:31+00:00
-comments: true
+permalink: /macropedia/committee-of-ten-thousand-flowers/
 sharing: true
 footer: true
 group: Macropedia

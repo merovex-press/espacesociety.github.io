@@ -2,7 +2,7 @@
 layout: page
 title: "Planet Guide"
 date: 2007-10-04T01:27:56+00:00
-comments: true
+permalink: /astro-empires/planet-guide/
 sharing: true
 footer: true
 group: AstroEmpires

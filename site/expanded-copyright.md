@@ -2,7 +2,7 @@
 layout: page
 title: "Everyspace Society Copyright Statement"
 date: 2006-01-02T01:18:31+00:00
-comments: true
+permalink: /site/expanded-copyright/
 sharing: true
 footer: true
 group: Site

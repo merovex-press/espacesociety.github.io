@@ -2,7 +2,7 @@
 layout: page
 title: "Sigma Draconis"
 date: 2005-06-29T00:01:41+00:00
-comments: true
+permalink: /star-systems/sigma-draconis/
 sharing: true
 footer: true
 group: StarSystems
@@ -13,7 +13,7 @@ group: StarSystems
 ## Overview
 a.k.a. Ngyhonh
 
-**Sigma Draconis** is a K****0V star 18.81ly from Terra. It is also known as the Nguyonh system, home of the [Nguyonhi](/macropedia/bang-hai-nok-incident), and the capital of the Macropedia/KingTraihLeague for some time.
+**Sigma Draconis** is a K****0V star 18.81ly from Terra. It is also known as the Nguyonh system, home of the [Nguyonhi](//bang-hai-nok-incident), and the capital of the Macropedia/KingTraihLeague for some time.
 
 ### Ong Tuhn
 

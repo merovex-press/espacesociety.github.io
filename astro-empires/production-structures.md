@@ -2,7 +2,7 @@
 layout: page
 title: "Production Structures"
 date: 2008-11-02T15:13:41+00:00
-comments: true
+permalink: /astro-empires/production-structures/
 sharing: true
 footer: true
 group: AstroEmpires

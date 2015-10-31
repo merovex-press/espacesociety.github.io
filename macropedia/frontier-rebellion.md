@@ -2,7 +2,7 @@
 layout: page
 title: "Frontier Rebellion"
 date: 2005-08-06T14:19:36+00:00
-comments: true
+permalink: /macropedia/frontier-rebellion/
 sharing: true
 footer: true
 group: Macropedia

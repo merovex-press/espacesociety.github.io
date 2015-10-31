@@ -2,7 +2,7 @@
 layout: page
 title: "Woth Of Voushniya"
 date: 2005-10-18T21:58:51+00:00
-comments: true
+permalink: /macropedia/woth/
 sharing: true
 footer: true
 group: Macropedia

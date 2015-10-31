@@ -2,7 +2,7 @@
 layout: page
 title: "Astro Space Efficiency Study"
 date: 2007-10-29T23:03:59+00:00
-comments: true
+permalink: /astro-empires/advanced-base-guide-analysis/
 sharing: true
 footer: true
 group: AstroEmpires

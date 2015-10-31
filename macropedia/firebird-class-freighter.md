@@ -2,7 +2,7 @@
 layout: page
 title: "Firebird Class Freighter"
 date: 2006-03-13T21:50:15+00:00
-comments: true
+permalink: /macropedia/firebird-class-freighter/
 sharing: true
 footer: true
 group: Macropedia

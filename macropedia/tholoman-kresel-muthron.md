@@ -2,7 +2,7 @@
 layout: page
 title: "Tholoman Kresel Muthron"
 date: 2005-09-09T20:18:29+00:00
-comments: true
+permalink: /macropedia/tholoman-kresel-muthron/
 sharing: true
 footer: true
 group: Macropedia

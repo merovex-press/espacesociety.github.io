@@ -2,7 +2,7 @@
 layout: page
 title: "Pulse Cannon"
 date: 2006-03-04T19:30:32+00:00
-comments: true
+permalink: /macropedia/pulse-cannon/
 sharing: true
 footer: true
 group: Macropedia

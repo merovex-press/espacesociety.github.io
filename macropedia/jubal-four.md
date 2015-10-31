@@ -2,7 +2,7 @@
 layout: page
 title: "Jubal I V"
 date: 2005-10-18T20:42:34+00:00
-comments: true
+permalink: /macropedia/jubal-four/
 sharing: true
 footer: true
 group: Macropedia

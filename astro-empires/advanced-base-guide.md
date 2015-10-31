@@ -2,7 +2,7 @@
 layout: page
 title: "Advanced Base Guide"
 date: 2007-10-12T15:53:13+00:00
-comments: true
+permalink: /astro-empires/advanced-base-guide/
 sharing: true
 footer: true
 group: AstroEmpires

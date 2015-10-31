@@ -2,7 +2,7 @@
 layout: page
 title: "Vadian Free Republic"
 date: 2005-09-04T19:53:27+00:00
-comments: true
+permalink: /macropedia/vadian-free-republic/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Alistair Cormwite"
 date: 2005-08-07T05:26:11+00:00
-comments: true
+permalink: /macropedia/alistair-cormwite/
 sharing: true
 footer: true
 group: Macropedia

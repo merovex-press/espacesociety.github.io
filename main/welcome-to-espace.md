@@ -2,7 +2,7 @@
 layout: page
 title: "Welcome To Everyspace!"
 date: 2005-10-01T16:17:45+00:00
-comments: true
+permalink: /main/welcome-to-espace/
 sharing: true
 footer: true
 group: Main

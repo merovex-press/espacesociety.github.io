@@ -2,7 +2,7 @@
 layout: page
 title: "Icarus Flyers"
 date: 2006-03-21T18:45:03+00:00
-comments: true
+permalink: /macropedia/icarus-flyers/
 sharing: true
 footer: true
 group: Macropedia

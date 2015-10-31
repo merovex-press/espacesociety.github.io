@@ -2,7 +2,7 @@
 layout: page
 title: "Cel-Tainu Astrophysical Research Corporation"
 date: 2005-10-18T20:24:20+00:00
-comments: true
+permalink: /macropedia/celtainu/
 sharing: true
 footer: true
 group: Macropedia

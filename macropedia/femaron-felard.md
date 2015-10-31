@@ -2,7 +2,7 @@
 layout: page
 title: "Femaron Felard"
 date: 2005-08-07T03:40:34+00:00
-comments: true
+permalink: /macropedia/femaron-felard/
 sharing: true
 footer: true
 group: Macropedia

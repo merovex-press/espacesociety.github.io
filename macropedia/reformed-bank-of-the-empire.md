@@ -2,7 +2,7 @@
 layout: page
 title: "Reformed Bank Of The Empire"
 date: 2005-10-18T21:30:45+00:00
-comments: true
+permalink: /macropedia/reformed-bank-of-the-empire/
 sharing: true
 footer: true
 group: Macropedia

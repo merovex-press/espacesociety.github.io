@@ -2,7 +2,7 @@
 layout: page
 title: "Counsel Of Concerned Scientists"
 date: 2005-08-31T19:59:17+00:00
-comments: true
+permalink: /macropedia/counsel-of-concerned-scientists/
 sharing: true
 footer: true
 group: Macropedia

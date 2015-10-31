@@ -2,7 +2,7 @@
 layout: page
 title: "Wars Of Expansion"
 date: 2005-09-13T23:13:14+00:00
-comments: true
+permalink: /macropedia/wars-of-expansion/
 sharing: true
 footer: true
 group: Macropedia

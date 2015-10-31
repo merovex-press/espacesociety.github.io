@@ -2,7 +2,7 @@
 layout: page
 title: "King Traih League"
 date: 2005-09-24T16:57:31+00:00
-comments: true
+permalink: /macropedia/king-traih-league/
 sharing: true
 footer: true
 group: Macropedia

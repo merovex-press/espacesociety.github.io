@@ -2,7 +2,7 @@
 layout: page
 title: "Literature And Rhetoric"
 date: 2005-03-09T21:59:36+00:00
-comments: true
+permalink: /literature-and-rhetoric/literature-and-rhetoric/
 sharing: true
 footer: true
 group: LiteratureAndRhetoric

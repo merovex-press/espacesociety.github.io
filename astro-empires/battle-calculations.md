@@ -2,7 +2,7 @@
 layout: page
 title: "Battle Calculations"
 date: 2007-10-21T14:57:48+00:00
-comments: true
+permalink: /astro-empires/battle-calculations/
 sharing: true
 footer: true
 group: AstroEmpires

@@ -2,7 +2,7 @@
 layout: page
 title: "Corporations"
 date: 2011-10-22T14:26:15+00:00
-comments: true
+permalink: /milieu/corporations/
 sharing: true
 footer: true
 group: Milieu

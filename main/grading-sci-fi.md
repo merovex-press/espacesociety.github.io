@@ -2,7 +2,7 @@
 layout: page
 title: "Grading S F For Realism"
 date: 2006-01-01T22:56:46+00:00
-comments: true
+permalink: /main/grading-sci-fi/
 sharing: true
 footer: true
 group: Main

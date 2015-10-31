@@ -2,7 +2,7 @@
 layout: page
 title: "44c-56c: Second Decline"
 date: 2007-03-26T01:45:49+00:00
-comments: true
+permalink: /chronology/second-decline/
 sharing: true
 footer: true
 group: Chronology

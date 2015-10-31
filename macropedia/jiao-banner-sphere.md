@@ -2,7 +2,7 @@
 layout: page
 title: "The Jiao-Banner Sphere"
 date: 2005-10-18T20:41:52+00:00
-comments: true
+permalink: /macropedia/jiao-banner-sphere/
 sharing: true
 footer: true
 group: Macropedia

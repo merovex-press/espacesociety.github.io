@@ -2,7 +2,7 @@
 layout: page
 title: "Neo Tawmeriks"
 date: 2005-09-20T20:41:15+00:00
-comments: true
+permalink: /macropedia/neo-tawmeriks/
 sharing: true
 footer: true
 group: Macropedia

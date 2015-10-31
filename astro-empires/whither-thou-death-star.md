@@ -2,7 +2,7 @@
 layout: page
 title: "Whither Thou Death Star"
 date: 2009-11-13T17:22:37+00:00
-comments: true
+permalink: /astro-empires/whither-thou-death-star/
 sharing: true
 footer: true
 group: AstroEmpires

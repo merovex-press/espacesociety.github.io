@@ -2,7 +2,7 @@
 layout: page
 title: "Xervius Lundrel"
 date: 2005-09-17T18:19:11+00:00
-comments: true
+permalink: /macropedia/xervius-lundrel/
 sharing: true
 footer: true
 group: Macropedia

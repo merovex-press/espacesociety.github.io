@@ -2,7 +2,7 @@
 layout: page
 title: "Canticle Of Hope"
 date: 2005-10-18T20:23:56+00:00
-comments: true
+permalink: /macropedia/canticle-of-hope/
 sharing: true
 footer: true
 group: Macropedia

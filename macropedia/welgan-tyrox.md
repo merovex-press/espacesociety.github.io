@@ -2,7 +2,7 @@
 layout: page
 title: "Welgan Tyrox"
 date: 2005-09-13T22:10:54+00:00
-comments: true
+permalink: /macropedia/welgan-tyrox/
 sharing: true
 footer: true
 group: Macropedia

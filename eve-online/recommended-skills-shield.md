@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Shield"
 date: 2011-11-17T00:00:18+00:00
-comments: true
+permalink: /eve-online/recommended-skills-shield/
 sharing: true
 footer: true
 group: EveOnline

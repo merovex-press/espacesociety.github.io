@@ -2,7 +2,7 @@
 layout: page
 title: "Liu-No-Ri Masters"
 date: 2005-10-18T20:47:17+00:00
-comments: true
+permalink: /macropedia/liu-no-ri-masters/
 sharing: true
 footer: true
 group: Macropedia

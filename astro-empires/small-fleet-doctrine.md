@@ -2,7 +2,7 @@
 layout: page
 title: "Small Fleet Doctrine"
 date: 2007-11-11T18:13:52+00:00
-comments: true
+permalink: /astro-empires/small-fleet-doctrine/
 sharing: true
 footer: true
 group: AstroEmpires

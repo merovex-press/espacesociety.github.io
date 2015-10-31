@@ -2,7 +2,7 @@
 layout: page
 title: "Nevian Schmizt"
 date: 2005-08-07T03:46:49+00:00
-comments: true
+permalink: /macropedia/nevian-schmizt/
 sharing: true
 footer: true
 group: Macropedia

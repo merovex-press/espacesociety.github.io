@@ -2,7 +2,7 @@
 layout: page
 title: "Welkred Communications"
 date: 2005-08-13T01:30:08+00:00
-comments: true
+permalink: /macropedia/welkred-communications/
 sharing: true
 footer: true
 group: Macropedia

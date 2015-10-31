@@ -2,7 +2,7 @@
 layout: page
 title: "Zophian Sisterhood"
 date: 2005-10-18T22:01:24+00:00
-comments: true
+permalink: /macropedia/zophian-sisterhood/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Attacking From The Back Of A Napkin"
 date: 2008-04-05T17:33:58+00:00
-comments: true
+permalink: /astro-empires/napkin-combat/
 sharing: true
 footer: true
 group: AstroEmpires

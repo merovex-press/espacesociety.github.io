@@ -2,7 +2,7 @@
 layout: page
 title: "Reth Tawmerik I"
 date: 2005-09-14T17:26:41+00:00
-comments: true
+permalink: /macropedia/reth-tawmerik-i/
 sharing: true
 footer: true
 group: Macropedia

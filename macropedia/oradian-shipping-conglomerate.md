@@ -2,7 +2,7 @@
 layout: page
 title: "Oradian Shipping Conglomerate"
 date: 2005-10-18T21:25:27+00:00
-comments: true
+permalink: /macropedia/oradian-shipping-conglomerate/
 sharing: true
 footer: true
 group: Macropedia

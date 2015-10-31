@@ -2,7 +2,7 @@
 layout: page
 title: "Mailing Lists"
 date: 2007-11-01T17:44:08+00:00
-comments: true
+permalink: /main/mailing-lists/
 sharing: true
 footer: true
 group: Main

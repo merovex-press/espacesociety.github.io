@@ -2,7 +2,7 @@
 layout: page
 title: "Planetary Ring Construction Guide"
 date: 2011-02-02T02:02:15+00:00
-comments: true
+permalink: /astro-empires/planetary-ring-construction-guide/
 sharing: true
 footer: true
 group: AstroEmpires

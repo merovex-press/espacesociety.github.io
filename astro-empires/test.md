@@ -2,7 +2,7 @@
 layout: page
 title: "Test"
 date: 2010-05-29T16:17:17+00:00
-comments: true
+permalink: /astro-empires/test/
 sharing: true
 footer: true
 group: AstroEmpires

@@ -2,7 +2,7 @@
 layout: page
 title: "Free Base Advice"
 date: 2010-02-15T01:30:33+00:00
-comments: true
+permalink: /astro-empires/free-base-advice/
 sharing: true
 footer: true
 group: AstroEmpires

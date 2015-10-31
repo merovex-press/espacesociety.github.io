@@ -2,7 +2,7 @@
 layout: page
 title: "Dazamine"
 date: 2005-06-28T23:32:51+00:00
-comments: true
+permalink: /star-systems/dazamine/
 sharing: true
 footer: true
 group: StarSystems

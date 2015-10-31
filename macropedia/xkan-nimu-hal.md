@@ -2,7 +2,7 @@
 layout: page
 title: "X'Kan Nimu Hal"
 date: 2005-10-18T21:59:25+00:00
-comments: true
+permalink: /macropedia/xkan-nimu-hal/
 sharing: true
 footer: true
 group: Macropedia

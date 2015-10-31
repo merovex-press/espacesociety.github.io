@@ -2,7 +2,7 @@
 layout: page
 title: "Fudge Rules"
 date: 2005-07-04T22:23:56+00:00
-comments: true
+permalink: /fudge-rules/fudge-rules/
 sharing: true
 footer: true
 group: FudgeRules

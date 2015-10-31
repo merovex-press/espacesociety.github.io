@@ -2,7 +2,7 @@
 layout: page
 title: "Antius Trevus One"
 date: 2005-09-11T18:23:48+00:00
-comments: true
+permalink: /macropedia/antius-trevus-one/
 sharing: true
 footer: true
 group: Macropedia

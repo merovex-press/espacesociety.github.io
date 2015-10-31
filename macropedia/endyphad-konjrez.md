@@ -2,7 +2,7 @@
 layout: page
 title: "Endyphad Konjrez"
 date: 2005-07-29T22:10:22+00:00
-comments: true
+permalink: /macropedia/endyphad-konjrez/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Weights And Measures"
 date: 2007-11-02T20:58:24+00:00
-comments: true
+permalink: /natural-sciences/weights-and-measures/
 sharing: true
 footer: true
 group: NaturalSciences

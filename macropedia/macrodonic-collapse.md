@@ -2,7 +2,7 @@
 layout: page
 title: "Macrodonic Collapse"
 date: 2005-10-18T21:09:08+00:00
-comments: true
+permalink: /macropedia/macrodonic-collapse/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Side Bar"
 date: 2011-01-01T19:09:44+00:00
-comments: true
+permalink: /astro-empires/side-bar/
 sharing: true
 footer: true
 group: AstroEmpires

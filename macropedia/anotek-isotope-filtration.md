@@ -2,7 +2,7 @@
 layout: page
 title: "Anotek Isotope Filtration"
 date: 2006-02-19T04:20:44+00:00
-comments: true
+permalink: /macropedia/anotek-isotope-filtration/
 sharing: true
 footer: true
 group: Macropedia

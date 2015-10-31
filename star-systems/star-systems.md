@@ -2,7 +2,7 @@
 layout: page
 title: "Star Systems"
 date: 2005-11-30T20:37:40+00:00
-comments: true
+permalink: /star-systems/star-systems/
 sharing: true
 footer: true
 group: StarSystems

@@ -2,7 +2,7 @@
 layout: page
 title: "Stellar Treaty"
 date: 2005-10-18T21:36:48+00:00
-comments: true
+permalink: /macropedia/stellar-treaty/
 sharing: true
 footer: true
 group: Macropedia

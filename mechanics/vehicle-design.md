@@ -2,7 +2,7 @@
 layout: page
 title: "Vehicle Design"
 date: 2005-06-26T20:31:06+00:00
-comments: true
+permalink: /mechanics/vehicle-design/
 sharing: true
 footer: true
 group: Mechanics

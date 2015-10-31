@@ -2,7 +2,7 @@
 layout: page
 title: "Dabrian Dynasty"
 date: 2005-09-11T01:08:30+00:00
-comments: true
+permalink: /macropedia/dabrian-dynasty/
 sharing: true
 footer: true
 group: Macropedia

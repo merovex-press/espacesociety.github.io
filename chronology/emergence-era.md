@@ -2,7 +2,7 @@
 layout: page
 title: "21c-24c: The Emergence Era"
 date: 2004-12-14T20:08:47+00:00
-comments: true
+permalink: /chronology/emergence-era/
 sharing: true
 footer: true
 group: Chronology

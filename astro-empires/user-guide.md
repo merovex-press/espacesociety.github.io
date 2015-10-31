@@ -2,7 +2,7 @@
 layout: page
 title: "User Guide"
 date: 2007-09-04T14:59:13+00:00
-comments: true
+permalink: /astro-empires/user-guide/
 sharing: true
 footer: true
 group: AstroEmpires

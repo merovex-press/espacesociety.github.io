@@ -2,7 +2,7 @@
 layout: page
 title: "The Hundred Bloody Days"
 date: 2005-07-31T22:21:44+00:00
-comments: true
+permalink: /macropedia/hundred-bloody-days/
 sharing: true
 footer: true
 group: Macropedia

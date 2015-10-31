@@ -2,7 +2,7 @@
 layout: page
 title: "Current Events"
 date: 2005-07-12T02:51:59+00:00
-comments: true
+permalink: /current-events/current-events/
 sharing: true
 footer: true
 group: CurrentEvents

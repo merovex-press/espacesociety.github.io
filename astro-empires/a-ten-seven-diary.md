@@ -2,7 +2,7 @@
 layout: page
 title: "A Ten-Seven Plan Diary"
 date: 2007-10-18T13:51:32+00:00
-comments: true
+permalink: /astro-empires/a-ten-seven-diary/
 sharing: true
 footer: true
 group: AstroEmpires

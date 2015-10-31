@@ -2,7 +2,7 @@
 layout: page
 title: "Macropedia Terradoma"
 date: 2005-10-18T22:51:12+00:00
-comments: true
+permalink: /macropedia/macropedia/
 sharing: true
 footer: true
 group: Macropedia

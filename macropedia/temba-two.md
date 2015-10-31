@@ -2,7 +2,7 @@
 layout: page
 title: "Temba Two"
 date: 2005-10-18T21:52:03+00:00
-comments: true
+permalink: /macropedia/temba-two/
 sharing: true
 footer: true
 group: Macropedia

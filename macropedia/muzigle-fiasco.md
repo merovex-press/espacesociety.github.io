@@ -2,7 +2,7 @@
 layout: page
 title: "The Muzigle Fiasco"
 date: 2005-10-18T21:19:41+00:00
-comments: true
+permalink: /macropedia/muzigle-fiasco/
 sharing: true
 footer: true
 group: Macropedia

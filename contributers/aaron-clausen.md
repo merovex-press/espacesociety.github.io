@@ -2,7 +2,7 @@
 layout: page
 title: "Aaron Clausen"
 date: 2005-01-02T03:03:31+00:00
-comments: true
+permalink: /contributers/aaron-clausen/
 sharing: true
 footer: true
 group: Contributers

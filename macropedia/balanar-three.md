@@ -2,7 +2,7 @@
 layout: page
 title: "Balanar Three"
 date: 2005-09-11T01:24:38+00:00
-comments: true
+permalink: /macropedia/balanar-three/
 sharing: true
 footer: true
 group: Macropedia

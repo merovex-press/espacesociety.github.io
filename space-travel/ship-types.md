@@ -2,7 +2,7 @@
 layout: page
 title: "Ship Types"
 date: 2007-11-09T15:00:19+00:00
-comments: true
+permalink: /space-travel/ship-types/
 sharing: true
 footer: true
 group: SpaceTravel

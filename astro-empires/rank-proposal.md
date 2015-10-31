@@ -2,7 +2,7 @@
 layout: page
 title: "Rank Proposal"
 date: 2007-10-02T15:06:11+00:00
-comments: true
+permalink: /astro-empires/rank-proposal/
 sharing: true
 footer: true
 group: AstroEmpires

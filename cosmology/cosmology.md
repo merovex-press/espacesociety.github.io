@@ -2,7 +2,7 @@
 layout: page
 title: "Cosmology"
 date: 2005-06-19T18:02:49+00:00
-comments: true
+permalink: /cosmology/cosmology/
 sharing: true
 footer: true
 group: Cosmology

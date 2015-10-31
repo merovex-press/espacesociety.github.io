@@ -2,7 +2,7 @@
 layout: page
 title: "Untitled"
 date: 2005-06-05T20:36:47+00:00
-comments: true
+permalink: /main/notes-for-contributers/
 sharing: true
 footer: true
 group: Main

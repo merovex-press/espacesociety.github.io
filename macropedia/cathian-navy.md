@@ -2,7 +2,7 @@
 layout: page
 title: "Cathian Navy"
 date: 2005-08-07T05:39:53+00:00
-comments: true
+permalink: /macropedia/cathian-navy/
 sharing: true
 footer: true
 group: Macropedia

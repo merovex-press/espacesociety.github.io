@@ -2,7 +2,7 @@
 layout: page
 title: "Books"
 date: 2010-10-16T17:20:33+00:00
-comments: true
+permalink: /site/books/
 sharing: true
 footer: true
 group: Site
@@ -16,9 +16,9 @@ group: Site
 
 <div class=''>
 ## Macropedia
-* [Overview](/macropedia/macropedia)
+* [Overview](//)
 * [Milieu/Milieu](/milieu/milieu)
-* [Macropedia/Imperium Edition](/macropedia/imperium-edition)
-* [Macropedia/Original Edition](/macropedia/original-edition)
+* [Macropedia/Imperium Edition](//imperium-edition)
+* [Macropedia/Original Edition](//original-edition)
 * [Chronology/Chronology](/chronology/chronology)
 </div>

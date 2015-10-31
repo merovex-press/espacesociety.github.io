@@ -2,7 +2,7 @@
 layout: page
 title: "Entering The Terran Decline"
 date: 2005-10-18T20:32:03+00:00
-comments: true
+permalink: /macropedia/entering-first-decline/
 sharing: true
 footer: true
 group: Macropedia

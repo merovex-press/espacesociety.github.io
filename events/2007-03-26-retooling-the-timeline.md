@@ -2,7 +2,7 @@
 layout: page
 title: "Retooling The Timeline"
 date: 2007-03-26T16:06:56+00:00
-comments: true
+permalink: /events/2007-03-26-retooling-the-timeline/
 sharing: true
 footer: true
 group: Events

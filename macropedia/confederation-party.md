@@ -2,7 +2,7 @@
 layout: page
 title: "Confederation Party"
 date: 2005-07-31T22:09:08+00:00
-comments: true
+permalink: /macropedia/confederation-party/
 sharing: true
 footer: true
 group: Macropedia

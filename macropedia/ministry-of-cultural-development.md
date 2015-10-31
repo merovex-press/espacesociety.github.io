@@ -2,7 +2,7 @@
 layout: page
 title: "Ministry Of Cultural Development"
 date: 2005-09-20T19:32:08+00:00
-comments: true
+permalink: /macropedia/ministry-of-cultural-development/
 sharing: true
 footer: true
 group: Macropedia

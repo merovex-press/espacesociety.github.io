@@ -2,7 +2,7 @@
 layout: page
 title: "Original Edition Phantom Entries List"
 date: 2005-11-07T22:54:11+00:00
-comments: true
+permalink: /macropedia/original-edition-phantom-entries-list/
 sharing: true
 footer: true
 group: Macropedia

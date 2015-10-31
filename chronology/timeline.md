@@ -2,7 +2,7 @@
 layout: page
 title: "The E-Space Time Line"
 date: 2005-06-12T20:46:27+00:00
-comments: true
+permalink: /chronology/timeline/
 sharing: true
 footer: true
 group: Chronology
@@ -37,7 +37,7 @@ Following the collapse of the interstellar community. The colonies adapt as best
 
 An oligarchy forms among several prosperous colonies, who steadily begin adding other colonies. Eventually, a few powerful families control this oligarchy and from this caste, an Imperitor is founded. Most major colonies are reabsorbed, though many smaller, or difficult to reach colonies remain independent and forgotten. Rise of the Mecha Clans.
 
-This period is more clearly discussed in the [Macropedia Terradoma: Imperium Edition](/macropedia/imperium-edition) and the [Imperial timeline](/macropedia/imperium-macropedia-timeline).
+This period is more clearly discussed in the [Macropedia Terradoma: Imperium Edition](//imperium-edition) and the [Imperial timeline](//imperium-macropedia-timeline).
          
 ##44C-56C: Second Decline
 

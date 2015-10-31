@@ -2,7 +2,7 @@
 layout: page
 title: "Past"
 date: 2005-07-12T02:49:18+00:00
-comments: true
+permalink: /current-events/past/
 sharing: true
 footer: true
 group: CurrentEvents

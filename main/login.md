@@ -2,7 +2,7 @@
 layout: page
 title: "Login"
 date: 2005-04-23T21:36:14+00:00
-comments: true
+permalink: /main/login/
 sharing: true
 footer: true
 group: Main

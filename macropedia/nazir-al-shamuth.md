@@ -2,7 +2,7 @@
 layout: page
 title: "Nazir Al Shamuth"
 date: 2005-07-10T22:04:25+00:00
-comments: true
+permalink: /macropedia/nazir-al-shamuth/
 sharing: true
 footer: true
 group: Macropedia

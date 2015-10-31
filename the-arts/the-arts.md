@@ -2,7 +2,7 @@
 layout: page
 title: "The Arts"
 date: 2005-01-17T02:43:28+00:00
-comments: true
+permalink: /the-arts/the-arts/
 sharing: true
 footer: true
 group: TheArts

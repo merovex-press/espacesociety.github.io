@@ -2,7 +2,7 @@
 layout: page
 title: "Negadisruptor"
 date: 2006-02-17T23:33:06+00:00
-comments: true
+permalink: /macropedia/negadisruptor/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Base Defense Guide"
 date: 2008-11-19T00:09:36+00:00
-comments: true
+permalink: /astro-empires/base-defense-guide/
 sharing: true
 footer: true
 group: AstroEmpires

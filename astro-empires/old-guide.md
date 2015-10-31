@@ -2,7 +2,7 @@
 layout: page
 title: "Old Guide"
 date: 2007-10-12T03:20:28+00:00
-comments: true
+permalink: /astro-empires/old-guide/
 sharing: true
 footer: true
 group: AstroEmpires

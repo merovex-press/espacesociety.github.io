@@ -2,7 +2,7 @@
 layout: page
 title: "E-Space"
 date: 2005-10-01T16:17:45+00:00
-comments: true
+permalink: /main/main/
 sharing: true
 footer: true
 group: Main

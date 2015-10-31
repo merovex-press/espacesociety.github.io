@@ -2,7 +2,7 @@
 layout: page
 title: "Efficiency Ratio"
 date: 2010-02-10T15:47:37+00:00
-comments: true
+permalink: /astro-empires/efficiency-ratio/
 sharing: true
 footer: true
 group: AstroEmpires

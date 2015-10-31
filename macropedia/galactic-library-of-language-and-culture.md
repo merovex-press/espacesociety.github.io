@@ -2,7 +2,7 @@
 layout: page
 title: "Galactic Library Of Language And Culture"
 date: 2005-08-03T19:55:41+00:00
-comments: true
+permalink: /macropedia/galactic-library-of-language-and-culture/
 sharing: true
 footer: true
 group: Macropedia

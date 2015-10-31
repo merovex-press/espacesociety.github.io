@@ -2,7 +2,7 @@
 layout: page
 title: "Effective Base Defense"
 date: 2007-09-12T22:45:14+00:00
-comments: true
+permalink: /astro-empires/effective-base-defense/
 sharing: true
 footer: true
 group: AstroEmpires

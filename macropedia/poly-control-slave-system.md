@@ -2,7 +2,7 @@
 layout: page
 title: "Poly-Control Slave System"
 date: 2006-03-09T01:56:28+00:00
-comments: true
+permalink: /macropedia/poly-control-slave-system/
 sharing: true
 footer: true
 group: Macropedia

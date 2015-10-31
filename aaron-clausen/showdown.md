@@ -2,7 +2,7 @@
 layout: page
 title: "Showdown"
 date: 2005-08-23T19:33:40+00:00
-comments: true
+permalink: /aaron-clausen/showdown/
 sharing: true
 footer: true
 group: AaronClausen
@@ -115,7 +115,7 @@ The Orthodoxy Officer looked ready to wield one of her nastier powers, and Shero
 
 The words stuck in Sherov's mouth.  His association with the PerkentovCovenent was one of necessity.  He was a wanted man in the Imperium, charged and convicted in absentia for mutiny and insubordination.  The Authorities saw his value, and in return for breaking him out of the prison he was destined to spend a lifetime, they had demanded his services in conquering Zabrathan 8. 
 
-Until recently he had thought the deal a good one.  He had little doubt that if he backed out of it, he'd be delivered to that worthless Imperial Agent, Lord Oshan Wishtar, who still held his meaningless title because of his talent for ignoring what the Covenenters were doing to the native populace.  Wishtar was doubtless being paid a heavy bribe to pretend that Sherov wasn't here, because delivery of an escaped criminal would make him a popular man back on the Imperial capital, [Corrigan](/macropedia/corrigan-system).
+Until recently he had thought the deal a good one.  He had little doubt that if he backed out of it, he'd be delivered to that worthless Imperial Agent, Lord Oshan Wishtar, who still held his meaningless title because of his talent for ignoring what the Covenenters were doing to the native populace.  Wishtar was doubtless being paid a heavy bribe to pretend that Sherov wasn't here, because delivery of an escaped criminal would make him a popular man back on the Imperial capital, [Corrigan](//corrigan-system).
 
 "Thank you, General." Amens said piously.  "I shall overlook the Major's outburst, but he best be warned that the Authorities take a dim view of hurtful speech.  Now what of the locals.  Have either of you a plan to keep them at bay."
 

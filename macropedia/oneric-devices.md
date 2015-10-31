@@ -2,7 +2,7 @@
 layout: page
 title: "Oneric Devices"
 date: 2005-10-18T21:24:55+00:00
-comments: true
+permalink: /macropedia/oneric-devices/
 sharing: true
 footer: true
 group: Macropedia

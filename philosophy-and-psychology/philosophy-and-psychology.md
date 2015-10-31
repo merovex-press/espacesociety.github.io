@@ -2,7 +2,7 @@
 layout: page
 title: "Philosophy And Psychology"
 date: 2005-08-02T04:48:25+00:00
-comments: true
+permalink: /philosophy-and-psychology/philosophy-and-psychology/
 sharing: true
 footer: true
 group: PhilosophyAndPsychology

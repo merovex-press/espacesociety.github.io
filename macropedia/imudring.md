@@ -2,7 +2,7 @@
 layout: page
 title: "Imudring"
 date: 2005-10-18T20:40:47+00:00
-comments: true
+permalink: /macropedia/imudring/
 sharing: true
 footer: true
 group: Macropedia

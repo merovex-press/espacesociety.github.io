@@ -2,7 +2,7 @@
 layout: page
 title: "Peace And Order Laws"
 date: 2005-10-08T16:06:16+00:00
-comments: true
+permalink: /macropedia/peace-and-order-laws/
 sharing: true
 footer: true
 group: Macropedia

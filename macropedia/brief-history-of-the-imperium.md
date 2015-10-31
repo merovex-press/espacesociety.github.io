@@ -2,7 +2,7 @@
 layout: page
 title: "Brief History Of The Imperium"
 date: 2007-08-08T20:25:05+00:00
-comments: true
+permalink: /macropedia/brief-history-of-the-imperium/
 sharing: true
 footer: true
 group: Macropedia

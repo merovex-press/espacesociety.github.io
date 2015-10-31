@@ -2,7 +2,7 @@
 layout: page
 title: "Fudge Copyright"
 date: 2006-01-02T01:12:57+00:00
-comments: true
+permalink: /site/fudge-copyright/
 sharing: true
 footer: true
 group: Site

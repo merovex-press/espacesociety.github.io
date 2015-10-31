@@ -2,7 +2,7 @@
 layout: page
 title: "The Krezil Stock Market Crash"
 date: 2005-10-18T20:45:19+00:00
-comments: true
+permalink: /macropedia/krezil-stock-market-crash/
 sharing: true
 footer: true
 group: Macropedia

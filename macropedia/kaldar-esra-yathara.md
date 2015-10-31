@@ -2,7 +2,7 @@
 layout: page
 title: "Kaldar Esra Yathara"
 date: 2005-10-16T16:29:42+00:00
-comments: true
+permalink: /macropedia/kaldar-esra-yathara/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Preferences"
 date: 2011-11-05T15:15:58+00:00
-comments: true
+permalink: /site/preferences/
 sharing: true
 footer: true
 group: Site

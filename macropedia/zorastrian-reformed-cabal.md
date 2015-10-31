@@ -2,7 +2,7 @@
 layout: page
 title: "Zorastrian Reformed Cabal"
 date: 2005-10-18T22:01:35+00:00
-comments: true
+permalink: /macropedia/zorastrian-reformed-cabal/
 sharing: true
 footer: true
 group: Macropedia

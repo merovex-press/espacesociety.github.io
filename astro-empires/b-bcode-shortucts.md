@@ -2,7 +2,7 @@
 layout: page
 title: "B Bcode Shortcuts"
 date: 2008-04-06T16:37:11+00:00
-comments: true
+permalink: /astro-empires/b-bcode-shortucts/
 sharing: true
 footer: true
 group: AstroEmpires

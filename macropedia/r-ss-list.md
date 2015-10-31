@@ -2,7 +2,7 @@
 layout: page
 title: "R Ss List"
 date: 2006-02-15T17:42:38+00:00
-comments: true
+permalink: /macropedia/r-ss-list/
 sharing: true
 footer: true
 group: Macropedia

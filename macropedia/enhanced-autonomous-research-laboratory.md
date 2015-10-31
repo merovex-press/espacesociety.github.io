@@ -2,7 +2,7 @@
 layout: page
 title: "Enhanced Autonomous Research Laboratory (E.A.R.L.)"
 date: 2005-08-07T03:44:35+00:00
-comments: true
+permalink: /macropedia/enhanced-autonomous-research-laboratory/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "63c-69c: Hegemony"
 date: 2007-03-26T01:41:32+00:00
-comments: true
+permalink: /chronology/hegemony/
 sharing: true
 footer: true
 group: Chronology

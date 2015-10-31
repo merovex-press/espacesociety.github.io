@@ -2,7 +2,7 @@
 layout: page
 title: "Unstable Particle Projectors"
 date: 2005-10-18T21:55:33+00:00
-comments: true
+permalink: /macropedia/unstable-particle-projectors/
 sharing: true
 footer: true
 group: Macropedia

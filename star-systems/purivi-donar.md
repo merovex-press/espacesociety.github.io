@@ -2,7 +2,7 @@
 layout: page
 title: "Purivi Donar System"
 date: 2005-06-29T00:10:57+00:00
-comments: true
+permalink: /star-systems/purivi-donar/
 sharing: true
 footer: true
 group: StarSystems

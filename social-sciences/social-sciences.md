@@ -2,7 +2,7 @@
 layout: page
 title: "Social Sciences"
 date: 2005-07-07T12:06:12+00:00
-comments: true
+permalink: /social-sciences/social-sciences/
 sharing: true
 footer: true
 group: SocialSciences

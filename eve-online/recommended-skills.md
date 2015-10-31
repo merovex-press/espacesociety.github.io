@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Core Skills"
 date: 2011-11-06T16:39:48+00:00
-comments: true
+permalink: /eve-online/recommended-skills/
 sharing: true
 footer: true
 group: EveOnline

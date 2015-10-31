@@ -2,7 +2,7 @@
 layout: page
 title: "Berryman Sensor Array"
 date: 2006-02-28T21:37:27+00:00
-comments: true
+permalink: /macropedia/berryman-sensor-array/
 sharing: true
 footer: true
 group: Macropedia

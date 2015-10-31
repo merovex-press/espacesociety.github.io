@@ -2,7 +2,7 @@
 layout: page
 title: "Rouphi Academy"
 date: 2005-09-20T20:43:04+00:00
-comments: true
+permalink: /macropedia/rouphi-academy/
 sharing: true
 footer: true
 group: Macropedia

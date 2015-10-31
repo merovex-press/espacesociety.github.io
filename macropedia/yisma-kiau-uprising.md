@@ -2,7 +2,7 @@
 layout: page
 title: "Yisma Kiau Uprising"
 date: 2005-10-18T21:59:52+00:00
-comments: true
+permalink: /macropedia/yisma-kiau-uprising/
 sharing: true
 footer: true
 group: Macropedia

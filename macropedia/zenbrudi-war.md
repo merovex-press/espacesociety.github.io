@@ -2,7 +2,7 @@
 layout: page
 title: "Zenbrudi War"
 date: 2005-09-17T17:46:25+00:00
-comments: true
+permalink: /macropedia/zenbrudi-war/
 sharing: true
 footer: true
 group: Macropedia

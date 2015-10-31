@@ -2,7 +2,7 @@
 layout: page
 title: "Raptor Combat Suit"
 date: 2006-03-16T20:47:10+00:00
-comments: true
+permalink: /macropedia/raptor-combat-suit/
 sharing: true
 footer: true
 group: Macropedia

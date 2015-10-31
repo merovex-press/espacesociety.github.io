@@ -2,7 +2,7 @@
 layout: page
 title: "Oneric Devices Talk"
 date: 2005-04-03T15:07:42+00:00
-comments: true
+permalink: /macropedia/oneric-devices-talk/
 sharing: true
 footer: true
 group: Macropedia

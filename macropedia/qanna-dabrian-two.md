@@ -2,7 +2,7 @@
 layout: page
 title: "Qanna Dabrian Two"
 date: 2005-10-18T21:29:02+00:00
-comments: true
+permalink: /macropedia/qanna-dabrian-two/
 sharing: true
 footer: true
 group: Macropedia

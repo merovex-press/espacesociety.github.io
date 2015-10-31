@@ -2,7 +2,7 @@
 layout: page
 title: "Advanced Base Guide F Aq"
 date: 2008-11-15T22:20:46+00:00
-comments: true
+permalink: /astro-empires/advanced-base-guide-f-aq/
 sharing: true
 footer: true
 group: AstroEmpires

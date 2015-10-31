@@ -2,7 +2,7 @@
 layout: page
 title: "Uvane Merith Province"
 date: 2005-09-17T17:58:27+00:00
-comments: true
+permalink: /macropedia/uvane-merith-province/
 sharing: true
 footer: true
 group: Macropedia

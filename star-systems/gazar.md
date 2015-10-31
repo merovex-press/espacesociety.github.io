@@ -2,7 +2,7 @@
 layout: page
 title: "Gazar"
 date: 2005-06-28T20:43:55+00:00
-comments: true
+permalink: /star-systems/gazar/
 sharing: true
 footer: true
 group: StarSystems

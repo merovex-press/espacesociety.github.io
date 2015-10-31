@@ -2,7 +2,7 @@
 layout: page
 title: "Popelof Project"
 date: 2005-10-18T21:27:48+00:00
-comments: true
+permalink: /macropedia/popelof-project/
 sharing: true
 footer: true
 group: Macropedia

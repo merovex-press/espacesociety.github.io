@@ -2,7 +2,7 @@
 layout: page
 title: "Imperial Court Of Cassation"
 date: 2005-09-17T18:38:15+00:00
-comments: true
+permalink: /macropedia/imperial-court-of-cassation/
 sharing: true
 footer: true
 group: Macropedia

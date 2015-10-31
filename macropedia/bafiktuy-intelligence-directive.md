@@ -2,7 +2,7 @@
 layout: page
 title: "Bafiktuy Intelligence Directive"
 date: 2005-10-18T20:22:43+00:00
-comments: true
+permalink: /macropedia/bafiktuy-intelligence-directive/
 sharing: true
 footer: true
 group: Macropedia

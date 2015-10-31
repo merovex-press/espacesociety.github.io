@@ -2,7 +2,7 @@
 layout: page
 title: "Terradom"
 date: 2004-12-16T23:12:51+00:00
-comments: true
+permalink: /macropedia/terradom/
 sharing: true
 footer: true
 group: Macropedia

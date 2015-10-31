@@ -2,7 +2,7 @@
 layout: page
 title: "Bang Hai Nok Incident"
 date: 2005-08-07T05:40:21+00:00
-comments: true
+permalink: /macropedia/bang-hai-nok-incident/
 sharing: true
 footer: true
 group: Macropedia

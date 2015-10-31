@@ -2,7 +2,7 @@
 layout: page
 title: "Ying Clan"
 date: 2005-09-17T18:56:59+00:00
-comments: true
+permalink: /macropedia/ying-clan/
 sharing: true
 footer: true
 group: Macropedia

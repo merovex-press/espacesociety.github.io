@@ -2,7 +2,7 @@
 layout: page
 title: "Phantom Entries List"
 date: 2005-11-07T22:55:59+00:00
-comments: true
+permalink: /macropedia/phantom-entries-list/
 sharing: true
 footer: true
 group: Macropedia

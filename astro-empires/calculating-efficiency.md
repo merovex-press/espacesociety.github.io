@@ -2,7 +2,7 @@
 layout: page
 title: "Calculating Efficiency"
 date: 2008-11-14T15:52:19+00:00
-comments: true
+permalink: /astro-empires/calculating-efficiency/
 sharing: true
 footer: true
 group: AstroEmpires

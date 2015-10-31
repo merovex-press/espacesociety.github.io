@@ -2,7 +2,7 @@
 layout: page
 title: "Nomon Pirates"
 date: 2005-10-18T21:23:44+00:00
-comments: true
+permalink: /macropedia/nomon-pirates/
 sharing: true
 footer: true
 group: Macropedia

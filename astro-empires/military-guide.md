@@ -2,7 +2,7 @@
 layout: page
 title: "Military Guide"
 date: 2007-10-04T00:49:42+00:00
-comments: true
+permalink: /astro-empires/military-guide/
 sharing: true
 footer: true
 group: AstroEmpires

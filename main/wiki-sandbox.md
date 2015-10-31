@@ -2,7 +2,7 @@
 layout: page
 title: "Wiki Sandbox"
 date: 2005-09-11T01:50:36+00:00
-comments: true
+permalink: /main/wiki-sandbox/
 sharing: true
 footer: true
 group: Main

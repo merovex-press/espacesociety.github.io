@@ -2,7 +2,7 @@
 layout: page
 title: "Social Links"
 date: 2010-12-10T03:25:36+00:00
-comments: true
+permalink: /site/social-links/
 sharing: true
 footer: true
 group: Site

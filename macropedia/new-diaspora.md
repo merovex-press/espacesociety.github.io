@@ -2,7 +2,7 @@
 layout: page
 title: "New Diaspora"
 date: 2005-10-18T21:22:37+00:00
-comments: true
+permalink: /macropedia/new-diaspora/
 sharing: true
 footer: true
 group: Macropedia

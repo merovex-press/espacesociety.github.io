@@ -2,7 +2,7 @@
 layout: page
 title: "Ascension Cults"
 date: 2005-08-07T05:37:02+00:00
-comments: true
+permalink: /macropedia/ascension-cults/
 sharing: true
 footer: true
 group: Macropedia

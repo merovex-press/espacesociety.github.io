@@ -2,7 +2,7 @@
 layout: page
 title: "Odni Planyeti"
 date: 2005-08-07T05:36:37+00:00
-comments: true
+permalink: /macropedia/odni-planyeti/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "24c-26c: The First Expanse"
 date: 2004-12-10T03:06:09+00:00
-comments: true
+permalink: /chronology/first-expanse/
 sharing: true
 footer: true
 group: Chronology

@@ -2,7 +2,7 @@
 layout: page
 title: "Octopress And Eve Online"
 date: 2012-02-29T11:35:55+00:00
-comments: true
+permalink: /events/2012-02-29-octopress-and-eve-online/
 sharing: true
 footer: true
 group: Events

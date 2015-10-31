@@ -2,7 +2,7 @@
 layout: page
 title: "Micro Drives"
 date: 2004-12-15T02:32:13+00:00
-comments: true
+permalink: /technology/micro-drives/
 sharing: true
 footer: true
 group: Technology

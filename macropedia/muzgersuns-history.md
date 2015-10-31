@@ -2,7 +2,7 @@
 layout: page
 title: "Muzgersun'S Human History"
 date: 2005-10-18T21:20:37+00:00
-comments: true
+permalink: /macropedia/muzgersuns-history/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Magnetic Fleas"
 date: 2006-03-22T18:26:26+00:00
-comments: true
+permalink: /macropedia/magnetic-fleas/
 sharing: true
 footer: true
 group: Macropedia

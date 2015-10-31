@@ -2,7 +2,7 @@
 layout: page
 title: "P Ve Tank And Damage"
 date: 2012-01-21T21:21:32+00:00
-comments: true
+permalink: /eve-online/pve-tank-and-damage/
 sharing: true
 footer: true
 group: EveOnline

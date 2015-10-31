@@ -2,7 +2,7 @@
 layout: page
 title: "Recent Changes"
 date: 2004-12-14T18:07:04+00:00
-comments: true
+permalink: /custom/recent-changes/
 sharing: true
 footer: true
 ---

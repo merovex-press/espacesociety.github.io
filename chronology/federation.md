@@ -2,7 +2,7 @@
 layout: page
 title: "78c-Beyond: Federation"
 date: 2007-03-26T01:42:18+00:00
-comments: true
+permalink: /chronology/federation/
 sharing: true
 footer: true
 group: Chronology

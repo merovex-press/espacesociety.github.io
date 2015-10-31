@@ -2,7 +2,7 @@
 layout: page
 title: "Ghen Changh Liu"
 date: 2005-09-03T16:14:33+00:00
-comments: true
+permalink: /macropedia/ghen-changh-liu/
 sharing: true
 footer: true
 group: Macropedia

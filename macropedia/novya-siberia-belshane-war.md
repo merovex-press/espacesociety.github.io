@@ -2,7 +2,7 @@
 layout: page
 title: "Novya Siberia Belshane War"
 date: 2005-10-18T21:24:25+00:00
-comments: true
+permalink: /macropedia/novya-siberia-belshane-war/
 sharing: true
 footer: true
 group: Macropedia

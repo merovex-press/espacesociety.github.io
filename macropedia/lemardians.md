@@ -2,7 +2,7 @@
 layout: page
 title: "Lemardians"
 date: 2005-08-07T03:47:37+00:00
-comments: true
+permalink: /macropedia/lemardians/
 sharing: true
 footer: true
 group: Macropedia

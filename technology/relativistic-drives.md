@@ -2,7 +2,7 @@
 layout: page
 title: "Relativistic Drives"
 date: 2004-12-14T20:10:35+00:00
-comments: true
+permalink: /technology/relativistic-drives/
 sharing: true
 footer: true
 group: Technology

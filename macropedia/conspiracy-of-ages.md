@@ -2,7 +2,7 @@
 layout: page
 title: "Conspiracy Of Ages"
 date: 2005-07-31T22:33:55+00:00
-comments: true
+permalink: /macropedia/conspiracy-of-ages/
 sharing: true
 footer: true
 group: Macropedia

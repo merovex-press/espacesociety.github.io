@@ -2,7 +2,7 @@
 layout: page
 title: "Deltai-Cathian League"
 date: 2005-09-03T14:44:21+00:00
-comments: true
+permalink: /macropedia/deltai-cathian-league/
 sharing: true
 footer: true
 group: Macropedia

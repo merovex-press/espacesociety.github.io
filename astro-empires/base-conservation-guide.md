@@ -2,7 +2,7 @@
 layout: page
 title: "Base Conservation Guide"
 date: 2007-10-20T16:06:26+00:00
-comments: true
+permalink: /astro-empires/base-conservation-guide/
 sharing: true
 footer: true
 group: AstroEmpires

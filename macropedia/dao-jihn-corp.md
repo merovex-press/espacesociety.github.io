@@ -2,7 +2,7 @@
 layout: page
 title: "Dao Jihn Corp"
 date: 2005-09-02T17:54:47+00:00
-comments: true
+permalink: /macropedia/dao-jihn-corp/
 sharing: true
 footer: true
 group: Macropedia

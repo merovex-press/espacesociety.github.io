@@ -2,7 +2,7 @@
 layout: page
 title: "Souldogle Prime"
 date: 2005-06-28T23:52:00+00:00
-comments: true
+permalink: /star-systems/souldogle-prime/
 sharing: true
 footer: true
 group: StarSystems

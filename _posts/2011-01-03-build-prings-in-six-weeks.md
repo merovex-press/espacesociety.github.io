@@ -2,7 +2,7 @@
 layout: page
 title: "Prings In Seven Weeks? Unsinn!"
 date: 2011-01-04T01:45:37+00:00
-comments: true
+permalink: /_posts/2011-01-03-build-prings-in-six-weeks/
 sharing: true
 footer: true
 group: AstroEmpires

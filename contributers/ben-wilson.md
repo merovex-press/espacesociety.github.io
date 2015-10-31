@@ -2,7 +2,7 @@
 layout: page
 title: "Ben Wilson"
 date: 2005-08-01T02:09:07+00:00
-comments: true
+permalink: /contributers/ben-wilson/
 sharing: true
 footer: true
 group: Contributers

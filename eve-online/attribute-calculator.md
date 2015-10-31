@@ -2,7 +2,7 @@
 layout: page
 title: "Attribute Calculator"
 date: 2011-11-05T23:18:36+00:00
-comments: true
+permalink: /eve-online/attribute-calculator/
 sharing: true
 footer: true
 group: EveOnline

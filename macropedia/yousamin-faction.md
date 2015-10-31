@@ -2,7 +2,7 @@
 layout: page
 title: "Yousamin Faction"
 date: 2005-08-23T18:39:51+00:00
-comments: true
+permalink: /macropedia/yousamin-faction/
 sharing: true
 footer: true
 group: Macropedia

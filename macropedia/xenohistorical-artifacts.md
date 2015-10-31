@@ -2,7 +2,7 @@
 layout: page
 title: "Xenohistorical Artifacts"
 date: 2005-10-18T21:59:01+00:00
-comments: true
+permalink: /macropedia/xenohistorical-artifacts/
 sharing: true
 footer: true
 group: Macropedia

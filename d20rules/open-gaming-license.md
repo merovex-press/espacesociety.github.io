@@ -2,7 +2,7 @@
 layout: page
 title: "Open Gaming License"
 date: 2005-10-04T03:02:23+00:00
-comments: true
+permalink: /d20rules/open-gaming-license/
 sharing: true
 footer: true
 group: D20Rules

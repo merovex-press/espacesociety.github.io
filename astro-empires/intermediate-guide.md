@@ -2,7 +2,7 @@
 layout: page
 title: "Intermediate Guide"
 date: 2007-09-26T11:36:40+00:00
-comments: true
+permalink: /astro-empires/intermediate-guide/
 sharing: true
 footer: true
 group: AstroEmpires

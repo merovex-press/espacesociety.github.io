@@ -2,7 +2,7 @@
 layout: page
 title: "Imperium Edition Schedule"
 date: 2005-03-04T20:05:27+00:00
-comments: true
+permalink: /macropedia/imperium-edition-schedule/
 sharing: true
 footer: true
 group: Macropedia

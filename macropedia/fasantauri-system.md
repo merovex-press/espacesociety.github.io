@@ -2,7 +2,7 @@
 layout: page
 title: "Fasantauri System"
 date: 2005-09-19T18:29:17+00:00
-comments: true
+permalink: /macropedia/fasantauri-system/
 sharing: true
 footer: true
 group: Macropedia

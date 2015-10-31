@@ -2,7 +2,7 @@
 layout: page
 title: "Language"
 date: 2005-01-17T02:42:37+00:00
-comments: true
+permalink: /language/language/
 sharing: true
 footer: true
 group: Language
@@ -53,10 +53,10 @@ There are literally thousands of articles to be found on the alteration of vario
 With thousands of languages, communication during the early years of this era were made very difficult.  The earliest systems to regain interstellar capabilities spoke a number of languages that had evolved from English, but these languages were so changed that it helped very little in finding some common ground.
 
 ### Iuthian
-With the formation of the [Macropedia/Terran Republic](/macropedia/terran-republic) the decision was made to pick one language as the language of diplomacy and politics.  Iuthian, a descendant of Juthathic, was selected due to its adoption by a large number of merchants.  It was shortlived in that position, but spawned probably the most important language of the Era.
+With the formation of the [Macropedia/Terran Republic](//terran-republic) the decision was made to pick one language as the language of diplomacy and politics.  Iuthian, a descendant of Juthathic, was selected due to its adoption by a large number of merchants.  It was shortlived in that position, but spawned probably the most important language of the Era.
 
 ### Hagurin
-An odd language in many respects, the written form predates the spoken language (see [Macropedia/Hagurin Character Set](/macropedia/hagurin-character-set)).  Once the written form was adopted as the standard language of the Imperium, work was done to create a spoken variant.  Based largely upon Iuthian, it became the language of commerce and official communications, and by the time of the High Imperium, was already supplanting other languages.
+An odd language in many respects, the written form predates the spoken language (see [Macropedia/Hagurin Character Set](//hagurin-character-set)).  Once the written form was adopted as the standard language of the Imperium, work was done to create a spoken variant.  Based largely upon Iuthian, it became the language of commerce and official communications, and by the time of the High Imperium, was already supplanting other languages.
 
 ### Oshiyanak
-The so-called "Philosopher's Language", it was descended from English, though heavily influenced by Hagurin for much of its vocabulary.  It was formed by a number of small societies after the formation of the Imperium, and was the language that the most important thinker of the Imperium age, [Macropedia/Hans Richter Kuber](/macropedia/hans-richter-kuber), wrote his greatest works in.  Following his example, increasing numbers of philosophers and theologians used the language, and a surprising number of holy books ended up being written in it.  Late in the Imperium, the [Macropedia/Librarian Society](/macropedia/librarian-society) began making efforts to unite the language with Hagurin, the written form of which Oshiyanak was recorded in.
+The so-called "Philosopher's Language", it was descended from English, though heavily influenced by Hagurin for much of its vocabulary.  It was formed by a number of small societies after the formation of the Imperium, and was the language that the most important thinker of the Imperium age, [Macropedia/Hans Richter Kuber](//hans-richter-kuber), wrote his greatest works in.  Following his example, increasing numbers of philosophers and theologians used the language, and a surprising number of holy books ended up being written in it.  Late in the Imperium, the [Macropedia/Librarian Society](//librarian-society) began making efforts to unite the language with Hagurin, the written form of which Oshiyanak was recorded in.

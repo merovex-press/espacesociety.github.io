@@ -2,7 +2,7 @@
 layout: page
 title: "Life Extension"
 date: 2005-10-11T20:16:57+00:00
-comments: true
+permalink: /natural-sciences/life-extension/
 sharing: true
 footer: true
 group: NaturalSciences
@@ -18,7 +18,7 @@ What was eventually discovered was that the brain itself imposed a barrier on li
 
 The coming of the [First Decline](/chronology/first-decline) seems to have ended much exploration into this area.  On planets where technologies remained largely intact, the average human could expect a lifespan of between 100 and 130 years.  On more barbarous planets, those lifespans dropped back to older averages, and sometimes even worse.
 
-One would think that the [Macropedia/Anthorph](/macropedia/anthorph) worlds would have seen much greater development in anti-senesence technologies.  On some worlds this did hold true, and some genetically altered populations have lifespans around 200 years.  However, the individual environmental pressures of each world meant that genetic alteration often was focused more on survival than on extending lifespans.
+One would think that the [Macropedia/Anthorph](//anthorph) worlds would have seen much greater development in anti-senesence technologies.  On some worlds this did hold true, and some genetically altered populations have lifespans around 200 years.  However, the individual environmental pressures of each world meant that genetic alteration often was focused more on survival than on extending lifespans.
 
 With the advent of the Imperium, there was a renewed interest in lifespan extension, particularly among the aristocracy.  With more powerful computer technologies, some of the limits of the brain's memory and personality capacity were overcome by implants.  As well, new genetic research actually allowed for the brain to be expanded and neural networks to be refashioned.  Still, these could only add perhaps a half a century before individuals began showing the old signs of cognitive senesence, and remapping the brain, while reducing that, would alter the personality beyond recognition.
 

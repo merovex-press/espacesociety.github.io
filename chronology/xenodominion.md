@@ -2,7 +2,7 @@
 layout: page
 title: "70c-77c: Third Decline Through Xenodominion"
 date: 2007-03-26T01:41:58+00:00
-comments: true
+permalink: /chronology/xenodominion/
 sharing: true
 footer: true
 group: Chronology

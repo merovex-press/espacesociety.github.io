@@ -2,7 +2,7 @@
 layout: page
 title: "Yauwza Magruder"
 date: 2005-10-18T22:00:16+00:00
-comments: true
+permalink: /macropedia/yauwza-magruder/
 sharing: true
 footer: true
 group: Macropedia

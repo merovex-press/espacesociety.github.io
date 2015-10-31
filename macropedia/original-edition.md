@@ -2,7 +2,7 @@
 layout: page
 title: "Original Edition"
 date: 2005-11-07T22:46:18+00:00
-comments: true
+permalink: /macropedia/original-edition/
 sharing: true
 footer: true
 group: Macropedia

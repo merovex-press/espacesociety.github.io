@@ -2,7 +2,7 @@
 layout: page
 title: "The Grand Reforms"
 date: 2005-10-18T20:36:29+00:00
-comments: true
+permalink: /macropedia/grand-reforms/
 sharing: true
 footer: true
 group: Macropedia

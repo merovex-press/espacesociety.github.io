@@ -2,7 +2,7 @@
 layout: page
 title: "Klister University"
 date: 2005-08-07T03:41:27+00:00
-comments: true
+permalink: /macropedia/klister-university/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Terran Republic"
 date: 2005-08-21T15:47:33+00:00
-comments: true
+permalink: /macropedia/terran-republic/
 sharing: true
 footer: true
 group: Macropedia

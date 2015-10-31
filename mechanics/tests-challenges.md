@@ -2,7 +2,7 @@
 layout: page
 title: "Tests Challenges"
 date: 2004-12-12T20:55:38+00:00
-comments: true
+permalink: /mechanics/tests-challenges/
 sharing: true
 footer: true
 group: Mechanics

@@ -2,7 +2,7 @@
 layout: page
 title: "Voshium Insurrection"
 date: 2005-10-18T21:56:43+00:00
-comments: true
+permalink: /macropedia/voshium-insurrection/
 sharing: true
 footer: true
 group: Macropedia

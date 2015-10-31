@@ -2,7 +2,7 @@
 layout: page
 title: "Periphery"
 date: 2005-09-04T19:49:28+00:00
-comments: true
+permalink: /macropedia/periphery/
 sharing: true
 footer: true
 group: Macropedia

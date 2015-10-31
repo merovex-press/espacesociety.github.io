@@ -2,7 +2,7 @@
 layout: page
 title: "Gravito Magnetic Sensor Sheaths"
 date: 2005-08-15T21:31:33+00:00
-comments: true
+permalink: /macropedia/gravito-magnetic-sensor-sheaths/
 sharing: true
 footer: true
 group: Macropedia

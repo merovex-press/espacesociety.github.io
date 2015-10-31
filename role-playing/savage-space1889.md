@@ -2,7 +2,7 @@
 layout: page
 title: "Savaged Space 1889!"
 date: 2010-05-31T14:46:32+00:00
-comments: true
+permalink: /role-playing/savage-space1889/
 sharing: true
 footer: true
 group: RolePlaying

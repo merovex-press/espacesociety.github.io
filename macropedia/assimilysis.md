@@ -2,7 +2,7 @@
 layout: page
 title: "Assimilysis"
 date: 2005-07-26T11:37:35+00:00
-comments: true
+permalink: /macropedia/assimilysis/
 sharing: true
 footer: true
 group: Macropedia

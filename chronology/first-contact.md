@@ -2,7 +2,7 @@
 layout: page
 title: "60c-62c: First Contact"
 date: 2007-03-26T01:40:54+00:00
-comments: true
+permalink: /chronology/first-contact/
 sharing: true
 footer: true
 group: Chronology

@@ -2,7 +2,7 @@
 layout: page
 title: "Federov Assault Rifle"
 date: 2006-03-16T22:53:54+00:00
-comments: true
+permalink: /macropedia/federov-assault-rifle/
 sharing: true
 footer: true
 group: Macropedia

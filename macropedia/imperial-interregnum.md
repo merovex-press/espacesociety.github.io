@@ -2,7 +2,7 @@
 layout: page
 title: "Imperial Interregnum"
 date: 2005-10-18T20:40:02+00:00
-comments: true
+permalink: /macropedia/imperial-interregnum/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Kazam-Re"
 date: 2005-10-18T20:43:44+00:00
-comments: true
+permalink: /macropedia/kazam-re/
 sharing: true
 footer: true
 group: Macropedia

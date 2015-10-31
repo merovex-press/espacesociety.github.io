@@ -2,7 +2,7 @@
 layout: page
 title: "Copyright"
 date: 2006-01-02T00:45:04+00:00
-comments: true
+permalink: /site/copyright/
 sharing: true
 footer: true
 group: Site

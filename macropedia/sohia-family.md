@@ -2,7 +2,7 @@
 layout: page
 title: "Sohia Family"
 date: 2005-10-18T21:33:22+00:00
-comments: true
+permalink: /macropedia/sohia-family/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Timeline Proposal"
 date: 2007-04-18T12:48:01+00:00
-comments: true
+permalink: /main/timeline-proposal/
 sharing: true
 footer: true
 group: Main

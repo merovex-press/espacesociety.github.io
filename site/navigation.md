@@ -2,7 +2,7 @@
 layout: page
 title: "Navigation"
 date: 2007-03-25T00:05:12+00:00
-comments: true
+permalink: /site/navigation/
 sharing: true
 footer: true
 group: Site

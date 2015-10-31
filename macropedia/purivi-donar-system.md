@@ -2,7 +2,7 @@
 layout: page
 title: "Purivi Donar System"
 date: 2005-07-10T22:06:59+00:00
-comments: true
+permalink: /macropedia/purivi-donar-system/
 sharing: true
 footer: true
 group: Macropedia

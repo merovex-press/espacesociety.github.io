@@ -2,7 +2,7 @@
 layout: page
 title: "Xenophobe Picket"
 date: 2006-03-09T01:30:28+00:00
-comments: true
+permalink: /macropedia/xenophobe-picket/
 sharing: true
 footer: true
 group: Macropedia

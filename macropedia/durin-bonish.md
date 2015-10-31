@@ -2,7 +2,7 @@
 layout: page
 title: "Durin Bonish"
 date: 2005-08-07T05:39:38+00:00
-comments: true
+permalink: /macropedia/durin-bonish/
 sharing: true
 footer: true
 group: Macropedia

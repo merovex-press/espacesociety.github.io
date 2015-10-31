@@ -2,7 +2,7 @@
 layout: page
 title: "Lexicon Progressing Smoothly"
 date: 2007-03-25T00:31:51+00:00
-comments: true
+permalink: /events/2005-06-30-lexicon-progressing-smoothly/
 sharing: true
 footer: true
 group: Events

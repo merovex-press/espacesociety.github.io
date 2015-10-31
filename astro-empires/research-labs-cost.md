@@ -2,7 +2,7 @@
 layout: page
 title: "Research Labs Cost"
 date: 2007-10-15T13:55:58+00:00
-comments: true
+permalink: /astro-empires/research-labs-cost/
 sharing: true
 footer: true
 group: AstroEmpires

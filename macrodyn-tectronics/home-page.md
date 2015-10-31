@@ -2,7 +2,7 @@
 layout: page
 title: "Home Page"
 date: 2004-12-12T20:36:11+00:00
-comments: true
+permalink: /macrodyn-tectronics/home-page/
 sharing: true
 footer: true
 group: MacrodynTectronics

@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Drones"
 date: 2011-11-16T23:55:58+00:00
-comments: true
+permalink: /eve-online/recommended-skills-drones/
 sharing: true
 footer: true
 group: EveOnline

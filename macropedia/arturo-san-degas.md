@@ -2,7 +2,7 @@
 layout: page
 title: "Arturo San Degas"
 date: 2005-09-13T14:00:22+00:00
-comments: true
+permalink: /macropedia/arturo-san-degas/
 sharing: true
 footer: true
 group: Macropedia

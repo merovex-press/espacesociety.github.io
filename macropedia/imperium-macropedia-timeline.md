@@ -2,7 +2,7 @@
 layout: page
 title: "Imperium Macropedia Timeline"
 date: 2005-08-31T21:06:46+00:00
-comments: true
+permalink: /macropedia/imperium-macropedia-timeline/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Gesceamian Choent"
 date: 2005-09-03T15:47:31+00:00
-comments: true
+permalink: /macropedia/gesceamian-choent/
 sharing: true
 footer: true
 group: Macropedia

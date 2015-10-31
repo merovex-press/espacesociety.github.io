@@ -2,7 +2,7 @@
 layout: page
 title: "Tithian Foundation"
 date: 2005-10-18T21:54:48+00:00
-comments: true
+permalink: /macropedia/tithian-foundation/
 sharing: true
 footer: true
 group: Macropedia

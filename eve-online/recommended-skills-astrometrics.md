@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Astrometrics"
 date: 2012-01-23T23:07:35+00:00
-comments: true
+permalink: /eve-online/recommended-skills-astrometrics/
 sharing: true
 footer: true
 group: EveOnline

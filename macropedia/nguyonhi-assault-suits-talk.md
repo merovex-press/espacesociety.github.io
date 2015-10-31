@@ -2,7 +2,7 @@
 layout: page
 title: "Nguyonhi Assault Suits Talk"
 date: 2005-03-06T16:57:05+00:00
-comments: true
+permalink: /macropedia/nguyonhi-assault-suits-talk/
 sharing: true
 footer: true
 group: Macropedia

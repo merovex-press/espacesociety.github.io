@@ -2,7 +2,7 @@
 layout: page
 title: "Witi Emplaser Incident"
 date: 2005-09-20T20:45:09+00:00
-comments: true
+permalink: /macropedia/witi-emplaser-incident/
 sharing: true
 footer: true
 group: Macropedia

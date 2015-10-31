@@ -2,7 +2,7 @@
 layout: page
 title: "Perez Family"
 date: 2005-10-18T21:26:20+00:00
-comments: true
+permalink: /macropedia/perez-family/
 sharing: true
 footer: true
 group: Macropedia

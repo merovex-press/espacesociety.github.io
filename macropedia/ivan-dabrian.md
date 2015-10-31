@@ -2,7 +2,7 @@
 layout: page
 title: "Ivan Dabrian"
 date: 2005-09-17T15:59:40+00:00
-comments: true
+permalink: /macropedia/ivan-dabrian/
 sharing: true
 footer: true
 group: Macropedia

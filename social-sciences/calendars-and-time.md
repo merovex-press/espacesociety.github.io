@@ -2,15 +2,11 @@
 layout: page
 title: "Calendars And Time"
 date: 2005-01-17T02:37:38+00:00
-comments: true
+permalink: /social-sciences/calendars-and-time/
 sharing: true
 footer: true
 group: SocialSciences
 ---
-
-# Calendars and Time
-
-
 
 ## Overview
 
@@ -28,7 +24,7 @@ During the non-unified periods, where multiple systems remained in communication
 
 ## Imperium Time
 
-During the heyday of the Imperium, time was established along a quasi-strict imperial time that coincided with the Regional time of the [Macropedia/ImperialCoreWorlds](/macropedia/imperial-core-worlds). All official correspondance was required to *only* show this date, but common practice found local or regional times were parenthetically inserted.
+During the heyday of the Imperium, time was established along a quasi-strict imperial time that coincided with the Regional time of the [Macropedia/ImperialCoreWorlds](//imperial-core-worlds). All official correspondance was required to *only* show this date, but common practice found local or regional times were parenthetically inserted.
 
 ## Early Problems of Time and FTL
 

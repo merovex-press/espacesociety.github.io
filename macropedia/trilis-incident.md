@@ -2,7 +2,7 @@
 layout: page
 title: "Trilis Incident"
 date: 2005-10-18T21:54:22+00:00
-comments: true
+permalink: /macropedia/trilis-incident/
 sharing: true
 footer: true
 group: Macropedia

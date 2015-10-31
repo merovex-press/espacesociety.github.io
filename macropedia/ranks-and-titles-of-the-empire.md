@@ -2,7 +2,7 @@
 layout: page
 title: "Ranks And Titles Of The Empire"
 date: 2005-10-18T21:32:33+00:00
-comments: true
+permalink: /macropedia/ranks-and-titles-of-the-empire/
 sharing: true
 footer: true
 group: Macropedia

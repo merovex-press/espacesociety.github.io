@@ -2,7 +2,7 @@
 layout: page
 title: "Petras Godane (Adm. I Sf)"
 date: 2005-10-18T21:27:39+00:00
-comments: true
+permalink: /macropedia/petras-godane/
 sharing: true
 footer: true
 group: Macropedia

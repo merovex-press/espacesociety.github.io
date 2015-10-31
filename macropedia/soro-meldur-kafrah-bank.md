@@ -2,7 +2,7 @@
 layout: page
 title: "Soro Meldur Kafrah Bank"
 date: 2005-10-18T21:40:04+00:00
-comments: true
+permalink: /macropedia/soro-meldur-kafrah-bank/
 sharing: true
 footer: true
 group: Macropedia

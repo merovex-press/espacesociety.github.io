@@ -2,7 +2,7 @@
 layout: page
 title: "Objective-Based Guide To Empire Building"
 date: 2009-05-31T16:23:45+00:00
-comments: true
+permalink: /astro-empires/objective-based-empire-guide/
 sharing: true
 footer: true
 group: AstroEmpires

@@ -2,7 +2,7 @@
 layout: page
 title: "Moscow Rules"
 date: 2007-11-02T12:32:34+00:00
-comments: true
+permalink: /fiction-notes/moscow-rules/
 sharing: true
 footer: true
 group: FictionNotes

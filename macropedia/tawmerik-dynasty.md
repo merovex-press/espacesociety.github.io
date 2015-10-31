@@ -2,7 +2,7 @@
 layout: page
 title: "Tawmerik Dynasty"
 date: 2005-10-18T21:51:54+00:00
-comments: true
+permalink: /macropedia/tawmerik-dynasty/
 sharing: true
 footer: true
 group: Macropedia

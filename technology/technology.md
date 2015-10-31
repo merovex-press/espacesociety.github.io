@@ -2,7 +2,7 @@
 layout: page
 title: "Technology"
 date: 2005-06-06T21:04:40+00:00
-comments: true
+permalink: /technology/technology/
 sharing: true
 footer: true
 group: Technology

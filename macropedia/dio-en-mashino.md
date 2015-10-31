@@ -2,7 +2,7 @@
 layout: page
 title: "Dio En Mashino"
 date: 2005-10-18T20:30:21+00:00
-comments: true
+permalink: /macropedia/dio-en-mashino/
 sharing: true
 footer: true
 group: Macropedia

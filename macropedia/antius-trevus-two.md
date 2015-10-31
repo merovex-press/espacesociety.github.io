@@ -2,7 +2,7 @@
 layout: page
 title: "Antius Trevus Two"
 date: 2006-01-21T20:05:16+00:00
-comments: true
+permalink: /macropedia/antius-trevus-two/
 sharing: true
 footer: true
 group: Macropedia

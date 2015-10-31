@@ -2,7 +2,7 @@
 layout: page
 title: "Minimalist Skills"
 date: 2005-07-04T22:05:22+00:00
-comments: true
+permalink: /mechanics/minimalist-skills/
 sharing: true
 footer: true
 group: FudgeRules

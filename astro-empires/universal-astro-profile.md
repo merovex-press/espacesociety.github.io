@@ -2,7 +2,7 @@
 layout: page
 title: "Universal Astro Profile"
 date: 2007-12-31T20:13:01+00:00
-comments: true
+permalink: /astro-empires/universal-astro-profile/
 sharing: true
 footer: true
 group: AstroEmpires

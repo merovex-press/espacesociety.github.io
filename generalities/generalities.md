@@ -2,7 +2,7 @@
 layout: page
 title: "Generalities"
 date: 2005-01-17T02:39:05+00:00
-comments: true
+permalink: /generalities/generalities/
 sharing: true
 footer: true
 group: Generalities

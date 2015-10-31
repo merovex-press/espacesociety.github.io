@@ -2,7 +2,7 @@
 layout: page
 title: "First Decline"
 date: 2005-01-10T20:24:48+00:00
-comments: true
+permalink: /epsilon-indi/first-decline/
 sharing: true
 footer: true
 group: EpsilonIndi

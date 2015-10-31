@@ -2,7 +2,7 @@
 layout: page
 title: "Waudbect Society"
 date: 2005-10-18T21:57:14+00:00
-comments: true
+permalink: /macropedia/waudbect-society/
 sharing: true
 footer: true
 group: Macropedia

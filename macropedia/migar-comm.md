@@ -2,7 +2,7 @@
 layout: page
 title: "Migar Comm"
 date: 2006-03-04T20:17:40+00:00
-comments: true
+permalink: /macropedia/migar-comm/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "System"
 date: 2005-01-10T03:08:24+00:00
-comments: true
+permalink: /epsilon-indi/system/
 sharing: true
 footer: true
 group: EpsilonIndi

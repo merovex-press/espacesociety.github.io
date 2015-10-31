@@ -2,7 +2,7 @@
 layout: page
 title: "Collaboration"
 date: 2009-12-15T02:59:26+00:00
-comments: true
+permalink: /astro-empires/collaboration/
 sharing: true
 footer: true
 group: AstroEmpires

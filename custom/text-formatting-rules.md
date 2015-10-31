@@ -2,7 +2,7 @@
 layout: page
 title: "Text Formatting Rules"
 date: 2004-12-14T18:07:04+00:00
-comments: true
+permalink: /custom/text-formatting-rules/
 sharing: true
 footer: true
 group: Custom

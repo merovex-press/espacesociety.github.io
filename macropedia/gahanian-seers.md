@@ -2,7 +2,7 @@
 layout: page
 title: "Gahanian Seers"
 date: 2005-10-18T20:34:49+00:00
-comments: true
+permalink: /macropedia/gahanian-seers/
 sharing: true
 footer: true
 group: Macropedia

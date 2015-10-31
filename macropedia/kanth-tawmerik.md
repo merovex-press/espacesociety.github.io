@@ -2,7 +2,7 @@
 layout: page
 title: "Kanth Tawmerik"
 date: 2005-10-18T20:46:14+00:00
-comments: true
+permalink: /macropedia/kanth-tawmerik/
 sharing: true
 footer: true
 group: Macropedia

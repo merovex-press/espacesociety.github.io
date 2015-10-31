@@ -2,7 +2,7 @@
 layout: page
 title: "Enhanced Soldier Systems"
 date: 2006-03-17T16:06:48+00:00
-comments: true
+permalink: /macropedia/enhanced-soldier-systems/
 sharing: true
 footer: true
 group: Macropedia

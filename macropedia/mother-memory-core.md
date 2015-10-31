@@ -2,7 +2,7 @@
 layout: page
 title: "Mother'S Memory Core"
 date: 2005-10-18T21:19:22+00:00
-comments: true
+permalink: /macropedia/mother-memory-core/
 sharing: true
 footer: true
 group: Macropedia

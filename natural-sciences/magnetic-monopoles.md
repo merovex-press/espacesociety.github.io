@@ -2,7 +2,7 @@
 layout: page
 title: "Magnetic Monopoles"
 date: 2005-06-19T18:04:13+00:00
-comments: true
+permalink: /natural-sciences/magnetic-monopoles/
 sharing: true
 footer: true
 group: NaturalSciences

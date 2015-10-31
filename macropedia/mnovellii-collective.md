@@ -2,7 +2,7 @@
 layout: page
 title: "Mnovellii Collective"
 date: 2005-10-08T15:25:20+00:00
-comments: true
+permalink: /macropedia/mnovellii-collective/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Sabanian Empire"
 date: 2005-10-18T21:40:13+00:00
-comments: true
+permalink: /macropedia/sabanian-empire/
 sharing: true
 footer: true
 group: Macropedia

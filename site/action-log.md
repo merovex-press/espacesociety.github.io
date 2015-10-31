@@ -2,7 +2,7 @@
 layout: page
 title: "Action Log"
 date: 2012-07-01T18:24:33+00:00
-comments: true
+permalink: /site/action-log/
 sharing: true
 footer: true
 group: Site
@@ -13,4 +13,4 @@ group: Site
  2012-07-01 14:24:30 - 208.115.113.83 -  -  - edit - [PmWiki.ParamName](/pm-wiki/param-name)
  2012-07-01 14:24:28 - 208.115.113.83 -  -  - browse - [PmWiki.GroupHeader](/pm-wiki/group-header)
  2012-07-01 14:24:27 - 208.115.113.83 -  -  - browse - [NaturalSciences.BraneHopping](/natural-sciences/brane-hopping)
- 2012-07-01 14:24:18 - 208.115.113.83 -  -  - browse - [Macropedia.UnlekSyndrome](/macropedia/unlek-syndrome)
+ 2012-07-01 14:24:18 - 208.115.113.83 -  -  - browse - [Macropedia.UnlekSyndrome](//unlek-syndrome)

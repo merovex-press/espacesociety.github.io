@@ -2,7 +2,7 @@
 layout: page
 title: "Hagurin Character Set"
 date: 2005-08-05T22:32:49+00:00
-comments: true
+permalink: /macropedia/hagurin-character-set/
 sharing: true
 footer: true
 group: Macropedia

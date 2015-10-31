@@ -2,7 +2,7 @@
 layout: page
 title: "Ether"
 date: 2006-03-01T22:39:29+00:00
-comments: true
+permalink: /macropedia/ether/
 sharing: true
 footer: true
 group: Macropedia

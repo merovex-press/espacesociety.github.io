@@ -2,7 +2,7 @@
 layout: page
 title: "Librarian Society"
 date: 2005-09-12T19:21:03+00:00
-comments: true
+permalink: /macropedia/librarian-society/
 sharing: true
 footer: true
 group: Macropedia

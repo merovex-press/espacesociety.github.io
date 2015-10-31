@@ -2,7 +2,7 @@
 layout: page
 title: "Muridian Avengers"
 date: 2005-10-18T21:19:52+00:00
-comments: true
+permalink: /macropedia/muridian-avengers/
 sharing: true
 footer: true
 group: Macropedia

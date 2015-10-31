@@ -2,7 +2,7 @@
 layout: page
 title: "Normalized Anthorph"
 date: 2005-10-18T21:21:40+00:00
-comments: true
+permalink: /macropedia/normalized-anthorph/
 sharing: true
 footer: true
 group: Macropedia

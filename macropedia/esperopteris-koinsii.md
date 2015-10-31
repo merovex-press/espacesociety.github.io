@@ -2,7 +2,7 @@
 layout: page
 title: "Esperopteris Koinsii"
 date: 2005-08-07T03:43:15+00:00
-comments: true
+permalink: /macropedia/esperopteris-koinsii/
 sharing: true
 footer: true
 group: Macropedia

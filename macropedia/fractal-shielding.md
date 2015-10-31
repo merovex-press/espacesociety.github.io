@@ -2,7 +2,7 @@
 layout: page
 title: "Fractal Shielding"
 date: 2005-09-17T18:27:20+00:00
-comments: true
+permalink: /macropedia/fractal-shielding/
 sharing: true
 footer: true
 group: Macropedia

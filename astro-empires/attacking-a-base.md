@@ -2,7 +2,7 @@
 layout: page
 title: "Efficient Base Attacks"
 date: 2007-11-06T15:54:29+00:00
-comments: true
+permalink: /astro-empires/attacking-a-base/
 sharing: true
 footer: true
 group: AstroEmpires

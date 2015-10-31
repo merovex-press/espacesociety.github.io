@@ -2,7 +2,7 @@
 layout: page
 title: "Hegemonic Economic Trade Group"
 date: 2005-10-18T20:38:00+00:00
-comments: true
+permalink: /macropedia/hegemonic-economic-trade-group/
 sharing: true
 footer: true
 group: Macropedia

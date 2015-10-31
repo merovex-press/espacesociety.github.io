@@ -2,7 +2,7 @@
 layout: page
 title: "Tycoon"
 date: 2011-11-05T23:23:51+00:00
-comments: true
+permalink: /eve-online/tycoon/
 sharing: true
 footer: true
 group: EveOnline

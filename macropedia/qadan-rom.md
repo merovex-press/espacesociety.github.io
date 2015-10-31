@@ -2,7 +2,7 @@
 layout: page
 title: "Qadan Rom"
 date: 2005-10-18T21:28:45+00:00
-comments: true
+permalink: /macropedia/qadan-rom/
 sharing: true
 footer: true
 group: Macropedia

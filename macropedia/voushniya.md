@@ -2,7 +2,7 @@
 layout: page
 title: "Voushniya"
 date: 2005-08-12T22:54:06+00:00
-comments: true
+permalink: /macropedia/voushniya/
 sharing: true
 footer: true
 group: Macropedia

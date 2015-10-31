@@ -2,7 +2,7 @@
 layout: page
 title: "Brane Theory"
 date: 2005-07-31T20:34:34+00:00
-comments: true
+permalink: /natural-sciences/brane-theory/
 sharing: true
 footer: true
 group: NaturalSciences

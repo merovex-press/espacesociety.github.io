@@ -2,7 +2,7 @@
 layout: page
 title: "Benita Perez"
 date: 2005-08-07T05:25:34+00:00
-comments: true
+permalink: /macropedia/benita-perez/
 sharing: true
 footer: true
 group: Macropedia

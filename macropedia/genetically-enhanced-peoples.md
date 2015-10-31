@@ -2,7 +2,7 @@
 layout: page
 title: "Genetically Enhanced Peoples"
 date: 2005-08-12T19:51:23+00:00
-comments: true
+permalink: /macropedia/genetically-enhanced-peoples/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Fleet Composition Advice"
 date: 2010-02-08T23:25:18+00:00
-comments: true
+permalink: /astro-empires/fleet-composition-advice/
 sharing: true
 footer: true
 group: AstroEmpires

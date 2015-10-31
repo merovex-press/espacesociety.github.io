@@ -2,7 +2,7 @@
 layout: page
 title: "Test Page"
 date: 2006-02-17T18:39:22+00:00
-comments: true
+permalink: /star-systems/test-page/
 sharing: true
 footer: true
 group: StarSystems

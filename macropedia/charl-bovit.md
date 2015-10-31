@@ -2,7 +2,7 @@
 layout: page
 title: "Charl Bovit"
 date: 2005-10-18T20:25:41+00:00
-comments: true
+permalink: /macropedia/charl-bovit/
 sharing: true
 footer: true
 group: Macropedia

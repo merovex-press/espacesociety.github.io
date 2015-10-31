@@ -2,7 +2,7 @@
 layout: page
 title: "Foot Menu"
 date: 2010-03-28T16:58:39+00:00
-comments: true
+permalink: /site/foot-menu/
 sharing: true
 footer: true
 group: Site
@@ -23,7 +23,7 @@ group: Site
 
 <div class=''>
 ## Macropedia
-* [Overview](/macropedia/macropedia)
+* [Overview](//)
 * [Milieu/Milieu](/milieu/milieu)
 
 

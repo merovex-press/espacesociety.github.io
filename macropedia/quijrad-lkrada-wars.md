@@ -2,7 +2,7 @@
 layout: page
 title: "Quijrad Lkrada Wars"
 date: 2005-07-31T21:51:23+00:00
-comments: true
+permalink: /macropedia/quijrad-lkrada-wars/
 sharing: true
 footer: true
 group: Macropedia

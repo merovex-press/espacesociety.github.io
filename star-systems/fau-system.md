@@ -2,7 +2,7 @@
 layout: page
 title: "Fau System"
 date: 2005-06-28T23:55:21+00:00
-comments: true
+permalink: /star-systems/fau-system/
 sharing: true
 footer: true
 group: StarSystems

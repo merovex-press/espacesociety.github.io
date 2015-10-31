@@ -2,7 +2,7 @@
 layout: page
 title: "Elkar Lemard"
 date: 2005-09-01T16:21:23+00:00
-comments: true
+permalink: /macropedia/elkar-lemard/
 sharing: true
 footer: true
 group: Macropedia

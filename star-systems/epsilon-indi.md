@@ -2,7 +2,7 @@
 layout: page
 title: "Epsilon Indi"
 date: 2005-06-28T23:08:16+00:00
-comments: true
+permalink: /star-systems/epsilon-indi/
 sharing: true
 footer: true
 group: StarSystems

@@ -2,7 +2,7 @@
 layout: page
 title: "Ipsum"
 date: 2007-03-24T23:22:35+00:00
-comments: true
+permalink: /site/ipsum/
 sharing: true
 footer: true
 group: Site

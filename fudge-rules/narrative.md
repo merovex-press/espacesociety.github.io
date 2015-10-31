@@ -2,7 +2,7 @@
 layout: page
 title: "Narrative"
 date: 2006-04-09T17:51:54+00:00
-comments: true
+permalink: /fudge-rules/narrative/
 sharing: true
 footer: true
 group: FudgeRules

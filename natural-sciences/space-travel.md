@@ -2,7 +2,7 @@
 layout: page
 title: "Space Travel"
 date: 2009-09-06T17:22:14+00:00
-comments: true
+permalink: /natural-sciences/space-travel/
 sharing: true
 footer: true
 group: NaturalSciences

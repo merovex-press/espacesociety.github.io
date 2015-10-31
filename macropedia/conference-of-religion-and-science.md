@@ -2,7 +2,7 @@
 layout: page
 title: "Conference Of Religion And Science"
 date: 2005-07-31T22:24:47+00:00
-comments: true
+permalink: /macropedia/conference-of-religion-and-science/
 sharing: true
 footer: true
 group: Macropedia

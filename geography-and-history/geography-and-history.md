@@ -2,7 +2,7 @@
 layout: page
 title: "Geography And History"
 date: 2005-11-20T20:07:29+00:00
-comments: true
+permalink: /geography-and-history/geography-and-history/
 sharing: true
 footer: true
 group: GeographyAndHistory

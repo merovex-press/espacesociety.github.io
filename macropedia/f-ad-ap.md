@@ -2,7 +2,7 @@
 layout: page
 title: "Fully Autonomous Data Acquisition Personalities "
 date: 2006-03-02T19:40:24+00:00
-comments: true
+permalink: /macropedia/f-ad-ap/
 sharing: true
 footer: true
 group: Macropedia

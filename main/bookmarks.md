@@ -2,7 +2,7 @@
 layout: page
 title: "Bookmarks"
 date: 2005-09-24T16:12:13+00:00
-comments: true
+permalink: /main/bookmarks/
 sharing: true
 footer: true
 group: Main

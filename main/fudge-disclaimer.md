@@ -2,7 +2,7 @@
 layout: page
 title: "Fudge Disclaimer"
 date: 2005-08-08T12:06:59+00:00
-comments: true
+permalink: /main/fudge-disclaimer/
 sharing: true
 footer: true
 group: Main

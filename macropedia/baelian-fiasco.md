@@ -2,7 +2,7 @@
 layout: page
 title: "Baelian Fiasco"
 date: 2005-09-17T16:13:48+00:00
-comments: true
+permalink: /macropedia/baelian-fiasco/
 sharing: true
 footer: true
 group: Macropedia

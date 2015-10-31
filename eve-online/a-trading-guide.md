@@ -2,7 +2,7 @@
 layout: page
 title: "A Trading Guide"
 date: 2011-11-09T11:39:47+00:00
-comments: true
+permalink: /eve-online/a-trading-guide/
 sharing: true
 footer: true
 group: EveOnline

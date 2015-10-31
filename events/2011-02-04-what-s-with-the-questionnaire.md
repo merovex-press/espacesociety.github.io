@@ -2,7 +2,7 @@
 layout: page
 title: "What'S With The #@$& Questionnaire?"
 date: 2011-02-04T17:02:52+00:00
-comments: true
+permalink: /events/2011-02-04-what-s-with-the-questionnaire/
 sharing: true
 footer: true
 group: Events

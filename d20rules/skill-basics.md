@@ -2,7 +2,7 @@
 layout: page
 title: "Skill Basics"
 date: 2005-10-04T02:36:41+00:00
-comments: true
+permalink: /d20rules/skill-basics/
 sharing: true
 footer: true
 group: D20Rules

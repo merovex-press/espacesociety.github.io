@@ -2,7 +2,7 @@
 layout: page
 title: "27c-37c: First Decline"
 date: 2005-07-08T11:17:26+00:00
-comments: true
+permalink: /chronology/first-decline/
 sharing: true
 footer: true
 group: Chronology

@@ -2,7 +2,7 @@
 layout: page
 title: "Qin Lop Shu"
 date: 2005-07-31T22:23:38+00:00
-comments: true
+permalink: /macropedia/qin-lop-shu/
 sharing: true
 footer: true
 group: Macropedia

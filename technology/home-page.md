@@ -2,7 +2,7 @@
 layout: page
 title: "Home Page"
 date: 2004-12-10T00:17:01+00:00
-comments: true
+permalink: /technology/home-page/
 sharing: true
 footer: true
 group: Technology

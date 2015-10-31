@@ -2,7 +2,7 @@
 layout: page
 title: "Rules For D20 Users"
 date: 2005-10-04T02:30:59+00:00
-comments: true
+permalink: /d20rules/d20rules/
 sharing: true
 footer: true
 group: D20Rules

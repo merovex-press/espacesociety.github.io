@@ -2,7 +2,7 @@
 layout: page
 title: "The Kaurium Government"
 date: 2005-10-18T20:43:33+00:00
-comments: true
+permalink: /macropedia/kaurium-government/
 sharing: true
 footer: true
 group: Macropedia

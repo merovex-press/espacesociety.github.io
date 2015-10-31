@@ -2,7 +2,7 @@
 layout: page
 title: "Wecing Doozium"
 date: 2005-10-18T21:58:20+00:00
-comments: true
+permalink: /macropedia/wecing-doozium/
 sharing: true
 footer: true
 group: Macropedia

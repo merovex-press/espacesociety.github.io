@@ -2,7 +2,7 @@
 layout: page
 title: "Messen Fremezulejo"
 date: 2005-10-18T21:20:25+00:00
-comments: true
+permalink: /macropedia/messen-fremezulejo/
 sharing: true
 footer: true
 group: Macropedia

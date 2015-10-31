@@ -2,7 +2,7 @@
 layout: page
 title: "Bitanium Fibre Exploration Corporation"
 date: 2005-07-29T23:40:19+00:00
-comments: true
+permalink: /macropedia/bitanium-fibre-exploration-corporation/
 sharing: true
 footer: true
 group: Macropedia

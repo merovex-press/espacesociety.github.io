@@ -2,7 +2,7 @@
 layout: page
 title: "Map References"
 date: 2007-08-31T22:07:14+00:00
-comments: true
+permalink: /astrography/map-references/
 sharing: true
 footer: true
 group: Astrography

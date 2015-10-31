@@ -2,7 +2,7 @@
 layout: page
 title: "Rival Map"
 date: 2010-11-24T17:41:46+00:00
-comments: true
+permalink: /galactic-loonies/rival-map/
 sharing: true
 footer: true
 group: GalacticLoonies

@@ -2,7 +2,7 @@
 layout: page
 title: "Milieu"
 date: 2005-04-24T02:45:01+00:00
-comments: true
+permalink: /milieu/milieu/
 sharing: true
 footer: true
 group: Milieu
@@ -64,7 +64,7 @@ Never send a dime word to do a twenty-dollar word's job. **Milieu** means backgr
      
 
 
-%25newwin%25[Macropedia](/macropedia/macropedia) 
+%25newwin%25[Macropedia](//) 
 
 
 ----

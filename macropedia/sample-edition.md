@@ -2,7 +2,7 @@
 layout: page
 title: "Sample Edition"
 date: 2004-12-17T16:55:14+00:00
-comments: true
+permalink: /macropedia/sample-edition/
 sharing: true
 footer: true
 group: Macropedia

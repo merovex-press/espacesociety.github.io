@@ -2,7 +2,7 @@
 layout: page
 title: "Auth Form"
 date: 2007-03-26T00:13:51+00:00
-comments: true
+permalink: /site/auth-form/
 sharing: true
 footer: true
 group: Site

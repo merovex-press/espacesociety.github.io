@@ -2,7 +2,7 @@
 layout: page
 title: "Serema Dabrian"
 date: 2007-07-23T21:24:57+00:00
-comments: true
+permalink: /macropedia/serema-dabrian/
 sharing: true
 footer: true
 group: Macropedia

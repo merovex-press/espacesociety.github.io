@@ -2,7 +2,7 @@
 layout: page
 title: "Hyperspace Vortices"
 date: 2004-12-14T20:14:56+00:00
-comments: true
+permalink: /chronology/hyperspace-vortices/
 sharing: true
 footer: true
 group: Chronology

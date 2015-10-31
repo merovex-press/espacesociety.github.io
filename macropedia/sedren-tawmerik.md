@@ -2,7 +2,7 @@
 layout: page
 title: "Sedren Tawmerik"
 date: 2005-10-18T21:50:53+00:00
-comments: true
+permalink: /macropedia/sedren-tawmerik/
 sharing: true
 footer: true
 group: Macropedia

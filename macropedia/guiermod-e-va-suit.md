@@ -2,7 +2,7 @@
 layout: page
 title: "Guiermod E Va Suit"
 date: 2006-03-12T16:42:55+00:00
-comments: true
+permalink: /macropedia/guiermod-e-va-suit/
 sharing: true
 footer: true
 group: Macropedia

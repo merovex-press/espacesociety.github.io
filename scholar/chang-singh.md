@@ -2,7 +2,7 @@
 layout: page
 title: "Chang Singh"
 date: 2005-09-17T18:53:53+00:00
-comments: true
+permalink: /scholar/chang-singh/
 sharing: true
 footer: true
 group: Scholar

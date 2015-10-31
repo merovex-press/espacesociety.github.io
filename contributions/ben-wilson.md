@@ -2,7 +2,7 @@
 layout: page
 title: "Ben Wilson"
 date: 2005-07-31T20:40:54+00:00
-comments: true
+permalink: /contributions/ben-wilson/
 sharing: true
 footer: true
 group: Contributions
@@ -85,8 +85,8 @@ group: Contributions
 * [AstroEmpires.Articles](/astro-empires/articles)  . . . January 01, 2011, at 02:34 PM - * [==] * 
 * [AstroEmpires.2010-01-01-HowCanIMakeThisUsefulToYou](/astro-empires/2010-01-01-how-can-i-make-this-useful-to-you)  . . . January 01, 2011, at 12:46 PM - * [==] * 
 * [Site.LocalTemplates](/site/local-templates)  . . . December 19, 2010, at 10:28 AM - * [==] * 
-* [Macropedia.ImperiumEditionPrinted](/macropedia/imperium-edition-printed)  . . . December 19, 2010, at 10:06 AM - * [==] * 
-* [Macropedia.ImperiumEditionPrinted-Teaser](/macropedia/imperium-edition-printed-teaser)  . . . December 14, 2010, at 12:11 AM - * [==] * 
+* [Macropedia.ImperiumEditionPrinted](//imperium-edition-printed)  . . . December 19, 2010, at 10:06 AM - * [==] * 
+* [Macropedia.ImperiumEditionPrinted-Teaser](//imperium-edition-printed-teaser)  . . . December 14, 2010, at 12:11 AM - * [==] * 
 * [AstroEmpires.WhitherThouDeathStar](/astro-empires/whither-thou-death-star)  . . . December 10, 2010, at 12:54 AM - * [==] * 
 * [Main.GetEngaged](/main/get-engaged)  . . . December 09, 2010, at 10:58 PM - * [==] * 
 * [AstroEmpires.Index](/astro-empires/index)  . . . November 29, 2010, at 11:35 PM - * [==] * 
@@ -96,7 +96,7 @@ group: Contributions
 * [AstroEmpires.VeryAdvancedStructures](/astro-empires/very-advanced-structures)  . . . October 16, 2010, at 09:47 PM - * [==] * 
 * [Mechanics.SiteGenerator](/mechanics/site-generator)  . . . October 16, 2010, at 02:07 PM - * [==] * 
 * [AstroEmpires.Test](/astro-empires/test)  . . . October 16, 2010, at 01:18 PM - * [==] * 
-* [Macropedia.Macropedia](/macropedia/macropedia)  . . . October 15, 2010, at 01:11 PM - * [==] * 
+* [Macropedia.Macropedia](//)  . . . October 15, 2010, at 01:11 PM - * [==] * 
 * [NaturalSciences.BraneHopping](/natural-sciences/brane-hopping)  . . . June 07, 2010, at 07:33 PM - * [==] * 
 * [RolePlaying.SavageSpace1889](/role-playing/savage-space1889)  . . . May 31, 2010, at 01:24 PM - * [==] * 
 * [AstroEmpires.BaseGuideBOS](/astro-empires/base-guide-b-os)  . . . March 29, 2010, at 07:03 PM - * [==] * 
@@ -124,7 +124,7 @@ group: Contributions
 * [Main.GradingSciFi](/main/grading-sci-fi)  . . . September 05, 2009, at 11:34 AM - * [==] * 
 * [Contributers.MateuszCzaplinski](/contributers/mateusz-czaplinski)  . . . June 04, 2009, at 11:24 PM - * [==] * 
 * [Campaigns.Campaigns](/campaigns/campaigns)  . . . June 04, 2009, at 11:23 PM - * [==] * 
-* [Macropedia.ImperiumEditionPrinted-Draft](/macropedia/imperium-edition-printed-draft)  . . . June 01, 2009, at 07:37 PM - * [==] * 
+* [Macropedia.ImperiumEditionPrinted-Draft](//imperium-edition-printed-draft)  . . . June 01, 2009, at 07:37 PM - * [==] * 
 * [Site.SiteHeader](/site/site-header)  . . . June 01, 2009, at 07:25 PM - * [==] * 
 * [AstroEmpires.ObjectiveBasedEmpireGuide](/astro-empires/objective-based-empire-guide)  . . . May 31, 2009, at 12:35 PM - * [==] * 
 * [AstroEmpires.CalculatingCombat](/astro-empires/calculating-combat)  . . . March 29, 2009, at 06:26 PM - * [==] * 
@@ -186,7 +186,7 @@ group: Contributions
 * [Chronology.EmergenceEra](/chronology/emergence-era)  . . . August 19, 2007, at 04:34 PM - * [==] * 
 * [SiteAdmin.SiteAdmin](/site-admin/site-admin)  . . . August 05, 2007, at 10:22 AM - * [==] * 
 * [Contributers.BenWilson](/contributers/ben-wilson)  . . . July 29, 2007, at 08:48 AM - * [==] * 
-* [Macropedia.OriginalEdition](/macropedia/original-edition)  . . . July 28, 2007, at 01:30 PM - * [==] * 
+* [Macropedia.OriginalEdition](//original-edition)  . . . July 28, 2007, at 01:30 PM - * [==] * 
 * [Chronology.Federation](/chronology/federation)  . . . July 28, 2007, at 01:08 PM - * [==] * 
 * [Chronology.Xenodominion](/chronology/xenodominion)  . . . July 28, 2007, at 01:08 PM - * [==] * 
 * [Chronology.Hegemony](/chronology/hegemony)  . . . July 28, 2007, at 01:05 PM - * [==] * 
@@ -195,7 +195,7 @@ group: Contributions
 * [Chronology.ImperialDominion](/chronology/imperial-dominion)  . . . July 28, 2007, at 01:03 PM - * [==] * 
 * [Chronology.FirstDecline](/chronology/first-decline)  . . . July 28, 2007, at 01:03 PM - * [==] * 
 * [Site.Navigation](/site/navigation)  . . . July 28, 2007, at 01:01 PM - * [==] * 
-* [Macropedia.ImperiumEdition](/macropedia/imperium-edition)  . . . July 28, 2007, at 12:00 PM - * [==] * 
+* [Macropedia.ImperiumEdition](//imperium-edition)  . . . July 28, 2007, at 12:00 PM - * [==] * 
 * [Chronology.Chronology](/chronology/chronology)  . . . July 28, 2007, at 11:07 AM - * [==] * 
 * [Language.Language](/language/language)  . . . July 09, 2007, at 04:04 PM - * [==] * 
 * [Category.Chronology](/category/chronology)  . . . July 04, 2007, at 10:20 PM - * [==] * 
@@ -211,56 +211,56 @@ group: Contributions
 * [Events.Events-2007-03-24](/events/events-2007-03-24)  . . . March 26, 2007, at 12:06 PM - * [==] * 
 * [Chronology.Timeline](/chronology/timeline)  . . . March 25, 2007, at 09:20 PM - * [==] * 
 * [Scholar.IsaacTaub](/scholar/isaac-taub)  . . . March 25, 2007, at 08:26 PM - * [==] * 
-* [Macropedia.BalanarThree](/macropedia/balanar-three)  . . . May 07, 2006, at 05:29 PM - * [==] * 
+* [Macropedia.BalanarThree](//balanar-three)  . . . May 07, 2006, at 05:29 PM - * [==] * 
 * [FudgeRules.Narrative](/fudge-rules/narrative)  . . . April 09, 2006, at 03:07 PM - * [==] * 
 * [FudgeRules.FudgeRules](/fudge-rules/fudge-rules)  . . . April 09, 2006, at 01:41 PM - * [==] * 
-* [Macropedia.Template](/macropedia/template)  . . . April 04, 2006, at 07:54 PM - * [==] * 
-* [Macropedia.MacabiteLiferaft](/macropedia/macabite-liferaft)  . . . April 04, 2006, at 07:52 PM - * [==] * 
-* [Macropedia.FederovAssaultRifle](/macropedia/federov-assault-rifle)  . . . April 04, 2006, at 04:29 PM - * [==] * 
-* [Macropedia.ImperiumEquipment](/macropedia/imperium-equipment)  . . . April 04, 2006, at 04:26 PM - * [==] * 
-* [Macropedia.MacabiteLiferaft-Draft](/macropedia/macabite-liferaft-draft)  . . . April 04, 2006, at 03:46 PM - * [==] * 
-* [Macropedia.TelefreiberObservers](/macropedia/telefreiber-observers)  . . . March 12, 2006, at 12:49 PM - * [==] * 
-* [Macropedia.TelefreiberObservers-Draft](/macropedia/telefreiber-observers-draft)  . . . March 12, 2006, at 12:44 PM - * [==] * 
-* [Macropedia.ImprintedPersonality](/macropedia/imprinted-personality)  . . . March 12, 2006, at 12:37 PM - * [=Initially Written=] * 
-* [Macropedia.GuiermodEVASuit](/macropedia/guiermod-e-va-suit)  . . . March 12, 2006, at 12:00 PM - * [=initially written.=] * 
-* [Macropedia.GuiermodEVASuit-Draft](/macropedia/guiermod-e-va-suit-draft)  . . . March 12, 2006, at 11:58 AM - * [==] * 
-* [Macropedia.FADAP](/macropedia/f-ad-ap)  . . . March 02, 2006 at 15:40 CST (GMT -6) - * [==] * 
-* [Macropedia.TelefreiberAutoScout](/macropedia/telefreiber-auto-scout)  . . . March 02, 2006 at 00:07 CST (GMT -6) - * [==] * 
-* [Macropedia.Voushniya](/macropedia/voushniya)  . . . March 01, 2006 at 18:41 CST (GMT -6) - * [==] * 
-* [Macropedia.DisruptorBomb](/macropedia/disruptor-bomb)  . . . March 01, 2006 at 18:37 CST (GMT -6) - * [==] * 
-* [Macropedia.Ether](/macropedia/ether)  . . . March 01, 2006 at 17:56 CST (GMT -6) - * [==] * 
-* [Macropedia.AnotekIsotopeFiltration](/macropedia/anotek-isotope-filtration)  . . . March 01, 2006 at 17:40 CST (GMT -6) - * [==] * 
-* [Macropedia.BerrymanSensorArray](/macropedia/berryman-sensor-array)  . . . February 28, 2006 at 16:47 CST (GMT -6) - * [==] * 
-* [Macropedia.BerrymanSensorArray-Draft](/macropedia/berryman-sensor-array-draft)  . . . February 28, 2006 at 16:37 CST (GMT -6) - * [==] * 
-* [Macropedia.KehnMunhLightBattleSuit](/macropedia/kehn-munh-light-battle-suit)  . . . February 28, 2006 at 15:46 CST (GMT -6) - * [==] * 
-* [Macropedia.DkadenWorksMESeries](/macropedia/dkaden-works-m-eseries)  . . . February 23, 2006 at 16:30 CST (GMT -6) - * [=Initially composed article.=] * 
-* [Macropedia.UntaraDriveControl](/macropedia/untara-drive-control)  . . . February 19, 2006 at 00:16 CST (GMT -6) - * [==] * 
-* [Macropedia.OnericDevices](/macropedia/oneric-devices)  . . . February 19, 2006 at 00:13 CST (GMT -6) - * [==] * 
-* [Macropedia.NguyonhiAssaultSuits](/macropedia/nguyonhi-assault-suits)  . . . February 19, 2006 at 00:08 CST (GMT -6) - * [==] * 
-* [Macropedia.JupiterRocket](/macropedia/jupiter-rocket)  . . . February 19, 2006 at 00:02 CST (GMT -6) - * [==] * 
+* [Macropedia.Template](//template)  . . . April 04, 2006, at 07:54 PM - * [==] * 
+* [Macropedia.MacabiteLiferaft](//macabite-liferaft)  . . . April 04, 2006, at 07:52 PM - * [==] * 
+* [Macropedia.FederovAssaultRifle](//federov-assault-rifle)  . . . April 04, 2006, at 04:29 PM - * [==] * 
+* [Macropedia.ImperiumEquipment](//imperium-equipment)  . . . April 04, 2006, at 04:26 PM - * [==] * 
+* [Macropedia.MacabiteLiferaft-Draft](//macabite-liferaft-draft)  . . . April 04, 2006, at 03:46 PM - * [==] * 
+* [Macropedia.TelefreiberObservers](//telefreiber-observers)  . . . March 12, 2006, at 12:49 PM - * [==] * 
+* [Macropedia.TelefreiberObservers-Draft](//telefreiber-observers-draft)  . . . March 12, 2006, at 12:44 PM - * [==] * 
+* [Macropedia.ImprintedPersonality](//imprinted-personality)  . . . March 12, 2006, at 12:37 PM - * [=Initially Written=] * 
+* [Macropedia.GuiermodEVASuit](//guiermod-e-va-suit)  . . . March 12, 2006, at 12:00 PM - * [=initially written.=] * 
+* [Macropedia.GuiermodEVASuit-Draft](//guiermod-e-va-suit-draft)  . . . March 12, 2006, at 11:58 AM - * [==] * 
+* [Macropedia.FADAP](//f-ad-ap)  . . . March 02, 2006 at 15:40 CST (GMT -6) - * [==] * 
+* [Macropedia.TelefreiberAutoScout](//telefreiber-auto-scout)  . . . March 02, 2006 at 00:07 CST (GMT -6) - * [==] * 
+* [Macropedia.Voushniya](//voushniya)  . . . March 01, 2006 at 18:41 CST (GMT -6) - * [==] * 
+* [Macropedia.DisruptorBomb](//disruptor-bomb)  . . . March 01, 2006 at 18:37 CST (GMT -6) - * [==] * 
+* [Macropedia.Ether](//ether)  . . . March 01, 2006 at 17:56 CST (GMT -6) - * [==] * 
+* [Macropedia.AnotekIsotopeFiltration](//anotek-isotope-filtration)  . . . March 01, 2006 at 17:40 CST (GMT -6) - * [==] * 
+* [Macropedia.BerrymanSensorArray](//berryman-sensor-array)  . . . February 28, 2006 at 16:47 CST (GMT -6) - * [==] * 
+* [Macropedia.BerrymanSensorArray-Draft](//berryman-sensor-array-draft)  . . . February 28, 2006 at 16:37 CST (GMT -6) - * [==] * 
+* [Macropedia.KehnMunhLightBattleSuit](//kehn-munh-light-battle-suit)  . . . February 28, 2006 at 15:46 CST (GMT -6) - * [==] * 
+* [Macropedia.DkadenWorksMESeries](//dkaden-works-m-eseries)  . . . February 23, 2006 at 16:30 CST (GMT -6) - * [=Initially composed article.=] * 
+* [Macropedia.UntaraDriveControl](//untara-drive-control)  . . . February 19, 2006 at 00:16 CST (GMT -6) - * [==] * 
+* [Macropedia.OnericDevices](//oneric-devices)  . . . February 19, 2006 at 00:13 CST (GMT -6) - * [==] * 
+* [Macropedia.NguyonhiAssaultSuits](//nguyonhi-assault-suits)  . . . February 19, 2006 at 00:08 CST (GMT -6) - * [==] * 
+* [Macropedia.JupiterRocket](//jupiter-rocket)  . . . February 19, 2006 at 00:02 CST (GMT -6) - * [==] * 
 * [Category.SurveillanceEquipment](/category/surveillance-equipment)  . . . February 19, 2006 at 00:01 CST (GMT -6) - * [==] * 
 * [Category.LuxuryEquipment](/category/luxury-equipment)  . . . February 19, 2006 at 00:01 CST (GMT -6) - * [==] * 
 * [Category.DataAndCommunicationsEquipment](/category/data-and-communications-equipment)  . . . February 19, 2006 at 00:01 CST (GMT -6) - * [==] * 
 * [Category.TransportationEquipment](/category/transportation-equipment)  . . . February 19, 2006 at 00:00 CST (GMT -6) - * [==] * 
 * [Category.CombatEquipment](/category/combat-equipment)  . . . February 19, 2006 at 00:00 CST (GMT -6) - * [==] * 
 * [Category.MiscellaneousEquipment](/category/miscellaneous-equipment)  . . . February 18, 2006 at 23:59 CST (GMT -6) - * [==] * 
-* [Macropedia.EsperopterisKoinsii](/macropedia/esperopteris-koinsii)  . . . February 18, 2006 at 23:59 CST (GMT -6) - * [==] * 
-* [Macropedia.ParthasClassVessels](/macropedia/parthas-class-vessels)  . . . February 18, 2006 at 23:53 CST (GMT -6) - * [==] * 
-* [Macropedia.DreohedgeGevar](/macropedia/dreohedge-gevar)  . . . February 18, 2006 at 23:52 CST (GMT -6) - * [==] * 
+* [Macropedia.EsperopterisKoinsii](//esperopteris-koinsii)  . . . February 18, 2006 at 23:59 CST (GMT -6) - * [==] * 
+* [Macropedia.ParthasClassVessels](//parthas-class-vessels)  . . . February 18, 2006 at 23:53 CST (GMT -6) - * [==] * 
+* [Macropedia.DreohedgeGevar](//dreohedge-gevar)  . . . February 18, 2006 at 23:52 CST (GMT -6) - * [==] * 
 * [Category.MedicalEquipment](/category/medical-equipment)  . . . February 18, 2006 at 23:49 CST (GMT -6) - * [==] * 
-* [Macropedia.FteigarAlloys](/macropedia/fteigar-alloys)  . . . February 18, 2006 at 23:47 CST (GMT -6) - * [==] * 
+* [Macropedia.FteigarAlloys](//fteigar-alloys)  . . . February 18, 2006 at 23:47 CST (GMT -6) - * [==] * 
 * [Scholar.BorisHelfstein](/scholar/boris-helfstein)  . . . February 18, 2006 at 22:50 CST (GMT -6) - * [==] * 
 * [Scholar.Scholar](/scholar/scholar)  . . . February 18, 2006 at 22:37 CST (GMT -6) - * [==] * 
-* [Macropedia.Negadisruptor](/macropedia/negadisruptor)  . . . February 18, 2006 at 12:06 CST (GMT -6) - * [==] * 
+* [Macropedia.Negadisruptor](//negadisruptor)  . . . February 18, 2006 at 12:06 CST (GMT -6) - * [==] * 
 * [Scholar.KvectonSharp](/scholar/kvecton-sharp)  . . . February 17, 2006 at 17:44 CST (GMT -6) - * [=Added scholar General Kvecton Sharp=] * 
 * [StarSystems.TestPage2](/star-systems/test-page2)  . . . February 17, 2006 at 16:19 CST (GMT -6) - * [==] * 
 * [StarSystems.TestPage](/star-systems/test-page)  . . . February 17, 2006 at 16:18 CST (GMT -6) - * [==] * 
 * [Site.AuthUser](/site/auth-user)  . . . February 17, 2006 at 15:13 CST (GMT -6) - * [==] * 
 * [StarSystems.ZebrathanEight](/star-systems/zebrathan-eight)  . . . February 17, 2006 at 13:38 CST (GMT -6) - * [==] * 
-* [Macropedia.SMEE](/macropedia/s-me-e)  . . . February 16, 2006 at 08:06 CST (GMT -6) - * [==] * 
-* [Macropedia.RSSList](/macropedia/r-ss-list)  . . . February 16, 2006 at 07:59 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperiumEditionIndex](/macropedia/imperium-edition-index)  . . . February 12, 2006 at 20:29 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperiumEquipmentIndex](/macropedia/imperium-equipment-index)  . . . February 12, 2006 at 20:01 CST (GMT -6) - * [==] * 
+* [Macropedia.SMEE](//s-me-e)  . . . February 16, 2006 at 08:06 CST (GMT -6) - * [==] * 
+* [Macropedia.RSSList](//r-ss-list)  . . . February 16, 2006 at 07:59 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperiumEditionIndex](//imperium-edition-index)  . . . February 12, 2006 at 20:29 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperiumEquipmentIndex](//imperium-equipment-index)  . . . February 12, 2006 at 20:01 CST (GMT -6) - * [==] * 
 * [Category.WeaponsAndArmor](/category/weapons-and-armor)  . . . February 12, 2006 at 19:43 CST (GMT -6) - * [==] * 
 * [Category.Tools](/category/tools)  . . . February 12, 2006 at 19:43 CST (GMT -6) - * [==] * 
 * [Category.SurveillanceAndCounter-Serveillance](/category/surveillance-and-counter-serveillance)  . . . February 12, 2006 at 19:42 CST (GMT -6) - * [==] * 
@@ -275,16 +275,16 @@ group: Contributions
 * [Category.Implants](/category/implants)  . . . February 12, 2006 at 19:38 CST (GMT -6) - * [==] * 
 * [Category.ContragravityEquipment](/category/contragravity-equipment)  . . . February 12, 2006 at 19:38 CST (GMT -6) - * [==] * 
 * [Category.InformationAndCommunicationEquipment](/category/information-and-communication-equipment)  . . . February 12, 2006 at 19:37 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperiumEquipment-Draft](/macropedia/imperium-equipment-draft)  . . . February 12, 2006 at 19:30 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperiumEquipment-Draft](//imperium-equipment-draft)  . . . February 12, 2006 at 19:30 CST (GMT -6) - * [==] * 
 * [Mechanics.VehicleDesign](/mechanics/vehicle-design)  . . . February 12, 2006 at 12:26 CST (GMT -6) - * [==] * 
-* [Macropedia.CommitteeTenThousandFlowers](/macropedia/committee-ten-thousand-flowers)  . . . February 12, 2006 at 12:15 CST (GMT -6) - * [==] * 
+* [Macropedia.CommitteeTenThousandFlowers](//committee-ten-thousand-flowers)  . . . February 12, 2006 at 12:15 CST (GMT -6) - * [==] * 
 * [Category.IsaacTaub](/category/isaac-taub)  . . . February 12, 2006 at 12:06 CST (GMT -6) - * [==] * 
 * [Catagory.IsaacTaub](/catagory/isaac-taub)  . . . February 12, 2006 at 12:06 CST (GMT -6) - * [==] * 
-* [Macropedia.KanthTawmerik](/macropedia/kanth-tawmerik)  . . . February 04, 2006 at 20:18 CST (GMT -6) - * [==] * 
+* [Macropedia.KanthTawmerik](//kanth-tawmerik)  . . . February 04, 2006 at 20:18 CST (GMT -6) - * [==] * 
 * [Site.PageListTemplates](/site/page-list-templates)  . . . February 02, 2006 at 12:22 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperiumEditionToDo](/macropedia/imperium-edition-to-do)  . . . February 02, 2006 at 11:16 CST (GMT -6) - * [==] * 
-* [Macropedia.BafiktuyIntelligenceDirective](/macropedia/bafiktuy-intelligence-directive)  . . . January 22, 2006 at 20:51 CST (GMT -6) - * [==] * 
-* [Macropedia.Assimilysis](/macropedia/assimilysis)  . . . January 22, 2006 at 20:43 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperiumEditionToDo](//imperium-edition-to-do)  . . . February 02, 2006 at 11:16 CST (GMT -6) - * [==] * 
+* [Macropedia.BafiktuyIntelligenceDirective](//bafiktuy-intelligence-directive)  . . . January 22, 2006 at 20:51 CST (GMT -6) - * [==] * 
+* [Macropedia.Assimilysis](//assimilysis)  . . . January 22, 2006 at 20:43 CST (GMT -6) - * [==] * 
 * [LiteratureAndRhetoric.LiteratureAndRhetoric](/literature-and-rhetoric/literature-and-rhetoric)  . . . January 22, 2006 at 20:41 CST (GMT -6) - * [==] * 
 * [Technology.SideBar](/technology/side-bar)  . . . January 22, 2006 at 20:41 CST (GMT -6) - * [==] * 
 * [Technology.Technology](/technology/technology)  . . . January 22, 2006 at 20:40 CST (GMT -6) - * [==] * 
@@ -296,207 +296,207 @@ group: Contributions
 * [Site.PagelistTemplate](/site/pagelist-template)  . . . January 01, 2006 at 20:41 CST (GMT -6) - * [==] * 
 * [Main.SiteMap](/main/site-map)  . . . January 01, 2006 at 20:25 CST (GMT -6) - * [==] * 
 * [Site.FudgeCopyright](/site/fudge-copyright)  . . . January 01, 2006 at 20:12 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperiumMacropediaTimeline](/macropedia/imperium-macropedia-timeline)  . . . December 14, 2005 at 20:00 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperiumMacropediaTimeline](//imperium-macropedia-timeline)  . . . December 14, 2005 at 20:00 CST (GMT -6) - * [==] * 
 * [Site.AllRecentChanges](/site/all-recent-changes)  . . . December 13, 2005 at 16:36 CST (GMT -6) - * [=removing mass changes I made in Oct 18, 2005=] * 
-* [Macropedia.RecentChanges](/macropedia/recent-changes)  . . . December 13, 2005 at 16:35 CST (GMT -6) - * [=Clearing changes=] * 
+* [Macropedia.RecentChanges](//recent-changes)  . . . December 13, 2005 at 16:35 CST (GMT -6) - * [=Clearing changes=] * 
 * [D20Rules.D20Rules](/d20rules/d20rules)  . . . December 13, 2005 at 14:36 CST (GMT -6) - * [==] * 
 * [Category.OpenLicense](/category/open-license)  . . . November 10, 2005 at 09:10 CST (GMT -6) - * [==] * 
 * [D20Rules.OpenGamingLicense](/d20rules/open-gaming-license)  . . . November 10, 2005 at 09:09 CST (GMT -6) - * [==] * 
-* [Macropedia.OriginalEditionPhantomEntriesList](/macropedia/original-edition-phantom-entries-list)  . . . November 07, 2005 at 17:56 CST (GMT -6) - * [==] * 
-* [Macropedia.PhantomEntriesList](/macropedia/phantom-entries-list)  . . . November 07, 2005 at 17:55 CST (GMT -6) - * [==] * 
+* [Macropedia.OriginalEditionPhantomEntriesList](//original-edition-phantom-entries-list)  . . . November 07, 2005 at 17:56 CST (GMT -6) - * [==] * 
+* [Macropedia.PhantomEntriesList](//phantom-entries-list)  . . . November 07, 2005 at 17:55 CST (GMT -6) - * [==] * 
 * [Main.Lexicon](/main/lexicon)  . . . October 18, 2005 at 18:37 CST (GMT -6) - * [==] * 
-* [Macropedia.ZorastrianReformedCabal](/macropedia/zorastrian-reformed-cabal)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
-* [Macropedia.ZophianSisterhood](/macropedia/zophian-sisterhood)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
-* [Macropedia.ZenbrudiWar](/macropedia/zenbrudi-war)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
-* [Macropedia.Zenbrudi](/macropedia/zenbrudi)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
-* [Macropedia.ZeltherRathianGroup](/macropedia/zelther-rathian-group)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
-* [Macropedia.YousaminFaction](/macropedia/yousamin-faction)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
-* [Macropedia.YatharanMigration](/macropedia/yatharan-migration)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
-* [Macropedia.YauwzaMagruder](/macropedia/yauwza-magruder)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
-* [Macropedia.YingShoDahnDriveWorks](/macropedia/ying-sho-dahn-drive-works)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
-* [Macropedia.YismaKiauUprising](/macropedia/yisma-kiau-uprising)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
-* [Macropedia.YingClan](/macropedia/ying-clan)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
-* [Macropedia.XkanNimuHal](/macropedia/xkan-nimu-hal)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
-* [Macropedia.XerviusLundrel](/macropedia/xervius-lundrel)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
-* [Macropedia.XenohistoricalArtifacts](/macropedia/xenohistorical-artifacts)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
-* [Macropedia.Woth](/macropedia/woth)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
-* [Macropedia.WengZhuLi](/macropedia/weng-zhu-li)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
-* [Macropedia.WecingDoozium](/macropedia/wecing-doozium)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
-* [Macropedia.WitiEmplaserIncident](/macropedia/witi-emplaser-incident)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
-* [Macropedia.WelganTyrox](/macropedia/welgan-tyrox)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
-* [Macropedia.WelkredCommunications](/macropedia/welkred-communications)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
-* [Macropedia.WaudbectSociety](/macropedia/waudbect-society)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
-* [Macropedia.WarsOfExpansion](/macropedia/wars-of-expansion)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
-* [Macropedia.VoshiumInsurrection](/macropedia/voshium-insurrection)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
-* [Macropedia.VeltraneFresVolon](/macropedia/veltrane-fres-volon)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
-* [Macropedia.VadianFreeRepublic](/macropedia/vadian-free-republic)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
-* [Macropedia.UmarianGuard](/macropedia/umarian-guard)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
-* [Macropedia.UvaneMerithProvince](/macropedia/uvane-merith-province)  . . . October 18, 2005 at 17:55 CST (GMT -6) - * [==] * 
-* [Macropedia.UpliftProject](/macropedia/uplift-project)  . . . October 18, 2005 at 17:55 CST (GMT -6) - * [==] * 
-* [Macropedia.UnstableParticleProjectors](/macropedia/unstable-particle-projectors)  . . . October 18, 2005 at 17:55 CST (GMT -6) - * [==] * 
-* [Macropedia.UnlekSyndrome](/macropedia/unlek-syndrome)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
-* [Macropedia.TithianFoundation](/macropedia/tithian-foundation)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
-* [Macropedia.TholomanKreselMuthron](/macropedia/tholoman-kresel-muthron)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
-* [Macropedia.TrilisIncident](/macropedia/trilis-incident)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
-* [Macropedia.TwistOfFate](/macropedia/twist-of-fate)  . . . October 18, 2005 at 17:53 CST (GMT -6) - * [==] * 
-* [Macropedia.TerranRepublic](/macropedia/terran-republic)  . . . October 18, 2005 at 17:53 CST (GMT -6) - * [==] * 
-* [Macropedia.TembaTwo](/macropedia/temba-two)  . . . October 18, 2005 at 17:52 CST (GMT -6) - * [==] * 
-* [Macropedia.TawmerikDynasty](/macropedia/tawmerik-dynasty)  . . . October 18, 2005 at 17:51 CST (GMT -6) - * [==] * 
-* [Macropedia.TaoSunni](/macropedia/tao-sunni)  . . . October 18, 2005 at 17:51 CST (GMT -6) - * [==] * 
-* [Macropedia.SedrenTawmerik](/macropedia/sedren-tawmerik)  . . . October 18, 2005 at 17:50 CST (GMT -6) - * [==] * 
-* [Macropedia.SabanianEmpire](/macropedia/sabanian-empire)  . . . October 18, 2005 at 17:40 CST (GMT -6) - * [==] * 
-* [Macropedia.SoroMeldurKafrahBank](/macropedia/soro-meldur-kafrah-bank)  . . . October 18, 2005 at 17:40 CST (GMT -6) - * [==] * 
-* [Macropedia.StellarTreaty](/macropedia/stellar-treaty)  . . . October 18, 2005 at 17:36 CST (GMT -6) - * [==] * 
-* [Macropedia.SohiaFamily](/macropedia/sohia-family)  . . . October 18, 2005 at 17:33 CST (GMT -6) - * [==] * 
-* [Macropedia.SESTreL](/macropedia/s-es-tre-l)  . . . October 18, 2005 at 17:33 CST (GMT -6) - * [==] * 
-* [Macropedia.RightsOfTheImperialCitizen](/macropedia/rights-of-the-imperial-citizen)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
-* [Macropedia.RanksAndTitlesOfTheEmpire](/macropedia/ranks-and-titles-of-the-empire)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
-* [Macropedia.RiojierCommonwealth](/macropedia/riojier-commonwealth)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
-* [Macropedia.RouteMappingCommission](/macropedia/route-mapping-commission)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
-* [Macropedia.ReformedBankOfTheEmpire](/macropedia/reformed-bank-of-the-empire)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
-* [Macropedia.RetriGahani](/macropedia/retri-gahani)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
-* [Macropedia.RethTawmerikI](/macropedia/reth-tawmerik-i)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
-* [Macropedia.RaoulTammerik](/macropedia/raoul-tammerik)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
-* [Macropedia.RouphiAcademy](/macropedia/rouphi-academy)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
-* [Macropedia.QuixoticMaelstrom](/macropedia/quixotic-maelstrom)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
-* [Macropedia.QuijradLkradaWars](/macropedia/quijrad-lkrada-wars)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
-* [Macropedia.QinLopShu](/macropedia/qin-lop-shu)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
-* [Macropedia.QannaDabrianTwo](/macropedia/qanna-dabrian-two)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
-* [Macropedia.QannaDabrian](/macropedia/qanna-dabrian)  . . . October 18, 2005 at 17:28 CST (GMT -6) - * [==] * 
-* [Macropedia.QadanRom](/macropedia/qadan-rom)  . . . October 18, 2005 at 17:28 CST (GMT -6) - * [==] * 
-* [Macropedia.Purivi-DonarSystem](/macropedia/purivi-donar-system)  . . . October 18, 2005 at 17:28 CST (GMT -6) - * [==] * 
-* [Macropedia.PrimitivePopulationRegression](/macropedia/primitive-population-regression)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
-* [Macropedia.PopelofProject](/macropedia/popelof-project)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
-* [Macropedia.PetrasGodane](/macropedia/petras-godane)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
-* [Macropedia.PerkentovCovenent](/macropedia/perkentov-covenent)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
-* [Macropedia.Periphery](/macropedia/periphery)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
-* [Macropedia.PerezFamily](/macropedia/perez-family)  . . . October 18, 2005 at 17:26 CST (GMT -6) - * [==] * 
-* [Macropedia.PeaceAndOrderLaws](/macropedia/peace-and-order-laws)  . . . October 18, 2005 at 17:26 CST (GMT -6) - * [==] * 
-* [Macropedia.PanTerranDefenseTreatyCouncil](/macropedia/pan-terran-defense-treaty-council)  . . . October 18, 2005 at 17:25 CST (GMT -6) - * [==] * 
-* [Macropedia.OradianShippingConglomerate](/macropedia/oradian-shipping-conglomerate)  . . . October 18, 2005 at 17:25 CST (GMT -6) - * [==] * 
-* [Macropedia.OdniPlanyeti](/macropedia/odni-planyeti)  . . . October 18, 2005 at 17:24 CST (GMT -6) - * [==] * 
-* [Macropedia.NovyaSiberiaBelshaneWar](/macropedia/novya-siberia-belshane-war)  . . . October 18, 2005 at 17:24 CST (GMT -6) - * [==] * 
-* [Macropedia.NomonPirates](/macropedia/nomon-pirates)  . . . October 18, 2005 at 17:23 CST (GMT -6) - * [==] * 
-* [Macropedia.NindusAzrahnFelard](/macropedia/nindus-azrahn-felard)  . . . October 18, 2005 at 17:23 CST (GMT -6) - * [==] * 
-* [Macropedia.NewDiaspora](/macropedia/new-diaspora)  . . . October 18, 2005 at 17:22 CST (GMT -6) - * [==] * 
-* [Macropedia.NeoTawmeriks](/macropedia/neo-tawmeriks)  . . . October 18, 2005 at 17:22 CST (GMT -6) - * [==] * 
-* [Macropedia.NazirAl-Shamuth](/macropedia/nazir-al-shamuth)  . . . October 18, 2005 at 17:22 CST (GMT -6) - * [==] * 
-* [Macropedia.NormalizedAnthorph](/macropedia/normalized-anthorph)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
-* [Macropedia.NevianSchmizt](/macropedia/nevian-schmizt)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
-* [Macropedia.MnovelliiCollective](/macropedia/mnovellii-collective)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
-* [Macropedia.MorshFurnoklin](/macropedia/morsh-furnoklin)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
-* [Macropedia.MerithianRevolution](/macropedia/merithian-revolution)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
-* [Macropedia.MuzgersunsHistory](/macropedia/muzgersuns-history)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
-* [Macropedia.MessenFremezulejo](/macropedia/messen-fremezulejo)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
-* [Macropedia.MysteriesOfTheDiaspora](/macropedia/mysteries-of-the-diaspora)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
-* [Macropedia.MuridianAvengers](/macropedia/muridian-avengers)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
-* [Macropedia.MuzigleFiasco](/macropedia/muzigle-fiasco)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
-* [Macropedia.MinistryOfCulturalDevelopment](/macropedia/ministry-of-cultural-development)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
-* [Macropedia.MotherMemoryCore](/macropedia/mother-memory-core)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
-* [Macropedia.MacrodonicCollapse](/macropedia/macrodonic-collapse)  . . . October 18, 2005 at 17:09 CST (GMT -6) - * [==] * 
-* [Macropedia.LendaTawmerik](/macropedia/lenda-tawmerik)  . . . October 18, 2005 at 17:08 CST (GMT -6) - * [==] * 
-* [Macropedia.LastChargeOfLightHorse](/macropedia/last-charge-of-light-horse)  . . . October 18, 2005 at 16:47 CST (GMT -6) - * [==] * 
-* [Macropedia.LiuNoRiMasters](/macropedia/liu-no-ri-masters)  . . . October 18, 2005 at 16:47 CST (GMT -6) - * [==] * 
-* [Macropedia.LibrarianSociety](/macropedia/librarian-society)  . . . October 18, 2005 at 16:47 CST (GMT -6) - * [==] * 
-* [Macropedia.Lemardians](/macropedia/lemardians)  . . . October 18, 2005 at 16:46 CST (GMT -6) - * [==] * 
-* [Macropedia.LangothianRangers](/macropedia/langothian-rangers)  . . . October 18, 2005 at 16:46 CST (GMT -6) - * [==] * 
-* [Macropedia.KaldarEsraYathara](/macropedia/kaldar-esra-yathara)  . . . October 18, 2005 at 16:46 CST (GMT -6) - * [==] * 
-* [Macropedia.KuberianMovement](/macropedia/kuberian-movement)  . . . October 18, 2005 at 16:45 CST (GMT -6) - * [==] * 
-* [Macropedia.KrezilStockMarketCrash](/macropedia/krezil-stock-market-crash)  . . . October 18, 2005 at 16:45 CST (GMT -6) - * [==] * 
-* [Macropedia.KlisterUniversity](/macropedia/klister-university)  . . . October 18, 2005 at 16:44 CST (GMT -6) - * [==] * 
-* [Macropedia.KingTraihLeague](/macropedia/king-traih-league)  . . . October 18, 2005 at 16:44 CST (GMT -6) - * [==] * 
-* [Macropedia.KemenFebrerSuwor](/macropedia/kemen-febrer-suwor)  . . . October 18, 2005 at 16:44 CST (GMT -6) - * [==] * 
-* [Macropedia.Kazam-Re](/macropedia/kazam-re)  . . . October 18, 2005 at 16:43 CST (GMT -6) - * [==] * 
-* [Macropedia.KauriumGovernment](/macropedia/kaurium-government)  . . . October 18, 2005 at 16:43 CST (GMT -6) - * [==] * 
-* [Macropedia.KabalNebrotensia](/macropedia/kabal-nebrotensia)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
-* [Macropedia.JubalFour](/macropedia/jubal-four)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
-* [Macropedia.JubalThree](/macropedia/jubal-three)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
-* [Macropedia.JubalTwo](/macropedia/jubal-two)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
-* [Macropedia.JiaoBannerSphere](/macropedia/jiao-banner-sphere)  . . . October 18, 2005 at 16:41 CST (GMT -6) - * [==] * 
-* [Macropedia.JanoosWelkred](/macropedia/janoos-welkred)  . . . October 18, 2005 at 16:41 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperialCourtOfCassation](/macropedia/imperial-court-of-cassation)  . . . October 18, 2005 at 16:41 CST (GMT -6) - * [==] * 
-* [Macropedia.IadianMassacre](/macropedia/iadian-massacre)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
-* [Macropedia.Imudring](/macropedia/imudring)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
-* [Macropedia.IvanDabrian](/macropedia/ivan-dabrian)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperialInterregnum](/macropedia/imperial-interregnum)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperialCongress](/macropedia/imperial-congress)  . . . October 18, 2005 at 16:39 CST (GMT -6) - * [==] * 
-* [Macropedia.ImperialCoreWorlds](/macropedia/imperial-core-worlds)  . . . October 18, 2005 at 16:39 CST (GMT -6) - * [==] * 
-* [Macropedia.HundredBloodyDays](/macropedia/hundred-bloody-days)  . . . October 18, 2005 at 16:39 CST (GMT -6) - * [==] * 
-* [Macropedia.HjansKrebLakol](/macropedia/hjans-kreb-lakol)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
-* [Macropedia.HelsmuntInstitute](/macropedia/helsmunt-institute)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
-* [Macropedia.Heljyks](/macropedia/heljyks)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
-* [Macropedia.HegemonicEconomicTradeGroup](/macropedia/hegemonic-economic-trade-group)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
-* [Macropedia.HagurinCharacterSet](/macropedia/hagurin-character-set)  . . . October 18, 2005 at 16:37 CST (GMT -6) - * [==] * 
-* [Macropedia.GawdainTawmerik](/macropedia/gawdain-tawmerik)  . . . October 18, 2005 at 16:37 CST (GMT -6) - * [==] * 
-* [Macropedia.GruyonhDoyu](/macropedia/gruyonh-doyu)  . . . October 18, 2005 at 16:37 CST (GMT -6) - * [==] * 
-* [Macropedia.GravitoMagneticSensorSheaths](/macropedia/gravito-magnetic-sensor-sheaths)  . . . October 18, 2005 at 16:36 CST (GMT -6) - * [==] * 
-* [Macropedia.GrandReforms](/macropedia/grand-reforms)  . . . October 18, 2005 at 16:36 CST (GMT -6) - * [==] * 
-* [Macropedia.GhenChanghLiu](/macropedia/ghen-changh-liu)  . . . October 18, 2005 at 16:36 CST (GMT -6) - * [==] * 
-* [Macropedia.GesceamianChoent](/macropedia/gesceamian-choent)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
-* [Macropedia.GieliadenSohia](/macropedia/gieliaden-sohia)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
-* [Macropedia.GeneticallyEnhancedPeoples](/macropedia/genetically-enhanced-peoples)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
-* [Macropedia.GalacticLibraryOfLanguageAndCulture](/macropedia/galactic-library-of-language-and-culture)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
-* [Macropedia.GahaniBariMonastery](/macropedia/gahani-bari-monastery)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
-* [Macropedia.GahanianSeers](/macropedia/gahanian-seers)  . . . October 18, 2005 at 16:34 CST (GMT -6) - * [==] * 
-* [Macropedia.FurnoklinTaschera](/macropedia/furnoklin-taschera)  . . . October 18, 2005 at 16:34 CST (GMT -6) - * [==] * 
-* [Macropedia.FullyIntegratedCorporation](/macropedia/fully-integrated-corporation)  . . . October 18, 2005 at 16:34 CST (GMT -6) - * [==] * 
-* [Macropedia.FrontierScoutFleet](/macropedia/frontier-scout-fleet)  . . . October 18, 2005 at 16:33 CST (GMT -6) - * [==] * 
-* [Macropedia.FrontierRebellion](/macropedia/frontier-rebellion)  . . . October 18, 2005 at 16:33 CST (GMT -6) - * [==] * 
-* [Macropedia.FractalShielding](/macropedia/fractal-shielding)  . . . October 18, 2005 at 16:33 CST (GMT -6) - * [==] * 
-* [Macropedia.FemaronFelard](/macropedia/femaron-felard)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
-* [Macropedia.FasantauriSystem](/macropedia/fasantauri-system)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
-* [Macropedia.ElenaraiFathame](/macropedia/elenarai-fathame)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
-* [Macropedia.EnteringFirstDecline](/macropedia/entering-first-decline)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
-* [Macropedia.EnhancedAutonomousResearchLaboratory](/macropedia/enhanced-autonomous-research-laboratory)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
-* [Macropedia.EnglePogroms](/macropedia/engle-pogroms)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
-* [Macropedia.EndyphadKonjrez](/macropedia/endyphad-konjrez)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
-* [Macropedia.EmilDabrian](/macropedia/emil-dabrian)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
-* [Macropedia.ElkarLemard](/macropedia/elkar-lemard)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
-* [Macropedia.EkreiterPlague](/macropedia/ekreiter-plague)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
-* [Macropedia.DurinBonish](/macropedia/durin-bonish)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
-* [Macropedia.DioEnMashino](/macropedia/dio-en-mashino)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
-* [Macropedia.DinzwarGefera](/macropedia/dinzwar-gefera)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
-* [Macropedia.DenudedEarthTheory](/macropedia/denuded-earth-theory)  . . . October 18, 2005 at 16:29 CST (GMT -6) - * [==] * 
-* [Macropedia.DeltaiCathianLeague](/macropedia/deltai-cathian-league)  . . . October 18, 2005 at 16:29 CST (GMT -6) - * [==] * 
-* [Macropedia.DaoJihnCorp](/macropedia/dao-jihn-corp)  . . . October 18, 2005 at 16:29 CST (GMT -6) - * [==] * 
-* [Macropedia.Dalludna](/macropedia/dalludna)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
-* [Macropedia.DabrianDynasty](/macropedia/dabrian-dynasty)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
-* [Macropedia.CounselOfConcernedScientists](/macropedia/counsel-of-concerned-scientists)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
-* [Macropedia.CorriganSystem](/macropedia/corrigan-system)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
-* [Macropedia.ConspiracyOfAges](/macropedia/conspiracy-of-ages)  . . . October 18, 2005 at 16:27 CST (GMT -6) - * [==] * 
-* [Macropedia.ConferenceOfReligionAndScience](/macropedia/conference-of-religion-and-science)  . . . October 18, 2005 at 16:27 CST (GMT -6) - * [==] * 
-* [Macropedia.ConfederationParty](/macropedia/confederation-party)  . . . October 18, 2005 at 16:27 CST (GMT -6) - * [==] * 
-* [Macropedia.CommitteeOfTen-ThousandFlowers](/macropedia/committee-of-ten-thousand-flowers)  . . . October 18, 2005 at 16:26 CST (GMT -6) - * [==] * 
-* [Macropedia.ChovimFamily](/macropedia/chovim-family)  . . . October 18, 2005 at 16:26 CST (GMT -6) - * [==] * 
-* [Macropedia.ChogiaFaith](/macropedia/chogia-faith)  . . . October 18, 2005 at 16:25 CST (GMT -6) - * [==] * 
-* [Macropedia.CharlBovit](/macropedia/charl-bovit)  . . . October 18, 2005 at 16:25 CST (GMT -6) - * [==] * 
-* [Macropedia.Celtainu](/macropedia/celtainu)  . . . October 18, 2005 at 16:24 CST (GMT -6) - * [==] * 
-* [Macropedia.CathianNavy](/macropedia/cathian-navy)  . . . October 18, 2005 at 16:24 CST (GMT -6) - * [==] * 
-* [Macropedia.CanticleOfHope](/macropedia/canticle-of-hope)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
-* [Macropedia.BitaniumFibreExplorationCorporation](/macropedia/bitanium-fibre-exploration-corporation)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
-* [Macropedia.BenitaPerez](/macropedia/benita-perez)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
-* [Macropedia.BangHaiNokIncident](/macropedia/bang-hai-nok-incident)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
-* [Macropedia.BaelianFiasco](/macropedia/baelian-fiasco)  . . . October 18, 2005 at 16:22 CST (GMT -6) - * [==] * 
-* [Macropedia.AscensionCults](/macropedia/ascension-cults)  . . . October 18, 2005 at 16:22 CST (GMT -6) - * [==] * 
-* [Macropedia.ArturoSanDegas](/macropedia/arturo-san-degas)  . . . October 18, 2005 at 16:21 CST (GMT -6) - * [==] * 
-* [Macropedia.AntiusTrevusOne](/macropedia/antius-trevus-one)  . . . October 18, 2005 at 16:21 CST (GMT -6) - * [==] * 
-* [Macropedia.AnthorphFreeState](/macropedia/anthorph-free-state)  . . . October 18, 2005 at 16:20 CST (GMT -6) - * [==] * 
-* [Macropedia.Anthorph](/macropedia/anthorph)  . . . October 18, 2005 at 16:20 CST (GMT -6) - * [==] * 
-* [Macropedia.AlistairCormwite](/macropedia/alistair-cormwite)  . . . October 18, 2005 at 16:20 CST (GMT -6) - * [==] * 
-* [Macropedia.AlaerianCult](/macropedia/alaerian-cult)  . . . October 18, 2005 at 16:19 CST (GMT -6) - * [==] * 
-* [Macropedia.AcademyOfTheImperialFleet](/macropedia/academy-of-the-imperial-fleet)  . . . October 18, 2005 at 16:19 CST (GMT -6) - * [==] * 
-* [Macropedia.PeaceOrderLaws](/macropedia/peace-order-laws)  . . . October 08, 2005 at 12:06 CST (GMT -6) - * [=fully named to Peace and Order Laws=] * 
-* [Macropedia.ConspiricyOfAges](/macropedia/conspiricy-of-ages)  . . . October 08, 2005 at 11:05 CST (GMT -6) - * [=misspelled title. =] * 
+* [Macropedia.ZorastrianReformedCabal](//zorastrian-reformed-cabal)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
+* [Macropedia.ZophianSisterhood](//zophian-sisterhood)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
+* [Macropedia.ZenbrudiWar](//zenbrudi-war)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
+* [Macropedia.Zenbrudi](//zenbrudi)  . . . October 18, 2005 at 18:01 CST (GMT -6) - * [==] * 
+* [Macropedia.ZeltherRathianGroup](//zelther-rathian-group)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
+* [Macropedia.YousaminFaction](//yousamin-faction)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
+* [Macropedia.YatharanMigration](//yatharan-migration)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
+* [Macropedia.YauwzaMagruder](//yauwza-magruder)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
+* [Macropedia.YingShoDahnDriveWorks](//ying-sho-dahn-drive-works)  . . . October 18, 2005 at 18:00 CST (GMT -6) - * [==] * 
+* [Macropedia.YismaKiauUprising](//yisma-kiau-uprising)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
+* [Macropedia.YingClan](//ying-clan)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
+* [Macropedia.XkanNimuHal](//xkan-nimu-hal)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
+* [Macropedia.XerviusLundrel](//xervius-lundrel)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
+* [Macropedia.XenohistoricalArtifacts](//xenohistorical-artifacts)  . . . October 18, 2005 at 17:59 CST (GMT -6) - * [==] * 
+* [Macropedia.Woth](//woth)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
+* [Macropedia.WengZhuLi](//weng-zhu-li)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
+* [Macropedia.WecingDoozium](//wecing-doozium)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
+* [Macropedia.WitiEmplaserIncident](//witi-emplaser-incident)  . . . October 18, 2005 at 17:58 CST (GMT -6) - * [==] * 
+* [Macropedia.WelganTyrox](//welgan-tyrox)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
+* [Macropedia.WelkredCommunications](//welkred-communications)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
+* [Macropedia.WaudbectSociety](//waudbect-society)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
+* [Macropedia.WarsOfExpansion](//wars-of-expansion)  . . . October 18, 2005 at 17:57 CST (GMT -6) - * [==] * 
+* [Macropedia.VoshiumInsurrection](//voshium-insurrection)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
+* [Macropedia.VeltraneFresVolon](//veltrane-fres-volon)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
+* [Macropedia.VadianFreeRepublic](//vadian-free-republic)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
+* [Macropedia.UmarianGuard](//umarian-guard)  . . . October 18, 2005 at 17:56 CST (GMT -6) - * [==] * 
+* [Macropedia.UvaneMerithProvince](//uvane-merith-province)  . . . October 18, 2005 at 17:55 CST (GMT -6) - * [==] * 
+* [Macropedia.UpliftProject](//uplift-project)  . . . October 18, 2005 at 17:55 CST (GMT -6) - * [==] * 
+* [Macropedia.UnstableParticleProjectors](//unstable-particle-projectors)  . . . October 18, 2005 at 17:55 CST (GMT -6) - * [==] * 
+* [Macropedia.UnlekSyndrome](//unlek-syndrome)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
+* [Macropedia.TithianFoundation](//tithian-foundation)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
+* [Macropedia.TholomanKreselMuthron](//tholoman-kresel-muthron)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
+* [Macropedia.TrilisIncident](//trilis-incident)  . . . October 18, 2005 at 17:54 CST (GMT -6) - * [==] * 
+* [Macropedia.TwistOfFate](//twist-of-fate)  . . . October 18, 2005 at 17:53 CST (GMT -6) - * [==] * 
+* [Macropedia.TerranRepublic](//terran-republic)  . . . October 18, 2005 at 17:53 CST (GMT -6) - * [==] * 
+* [Macropedia.TembaTwo](//temba-two)  . . . October 18, 2005 at 17:52 CST (GMT -6) - * [==] * 
+* [Macropedia.TawmerikDynasty](//tawmerik-dynasty)  . . . October 18, 2005 at 17:51 CST (GMT -6) - * [==] * 
+* [Macropedia.TaoSunni](//tao-sunni)  . . . October 18, 2005 at 17:51 CST (GMT -6) - * [==] * 
+* [Macropedia.SedrenTawmerik](//sedren-tawmerik)  . . . October 18, 2005 at 17:50 CST (GMT -6) - * [==] * 
+* [Macropedia.SabanianEmpire](//sabanian-empire)  . . . October 18, 2005 at 17:40 CST (GMT -6) - * [==] * 
+* [Macropedia.SoroMeldurKafrahBank](//soro-meldur-kafrah-bank)  . . . October 18, 2005 at 17:40 CST (GMT -6) - * [==] * 
+* [Macropedia.StellarTreaty](//stellar-treaty)  . . . October 18, 2005 at 17:36 CST (GMT -6) - * [==] * 
+* [Macropedia.SohiaFamily](//sohia-family)  . . . October 18, 2005 at 17:33 CST (GMT -6) - * [==] * 
+* [Macropedia.SESTreL](//s-es-tre-l)  . . . October 18, 2005 at 17:33 CST (GMT -6) - * [==] * 
+* [Macropedia.RightsOfTheImperialCitizen](//rights-of-the-imperial-citizen)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
+* [Macropedia.RanksAndTitlesOfTheEmpire](//ranks-and-titles-of-the-empire)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
+* [Macropedia.RiojierCommonwealth](//riojier-commonwealth)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
+* [Macropedia.RouteMappingCommission](//route-mapping-commission)  . . . October 18, 2005 at 17:32 CST (GMT -6) - * [==] * 
+* [Macropedia.ReformedBankOfTheEmpire](//reformed-bank-of-the-empire)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
+* [Macropedia.RetriGahani](//retri-gahani)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
+* [Macropedia.RethTawmerikI](//reth-tawmerik-i)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
+* [Macropedia.RaoulTammerik](//raoul-tammerik)  . . . October 18, 2005 at 17:30 CST (GMT -6) - * [==] * 
+* [Macropedia.RouphiAcademy](//rouphi-academy)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
+* [Macropedia.QuixoticMaelstrom](//quixotic-maelstrom)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
+* [Macropedia.QuijradLkradaWars](//quijrad-lkrada-wars)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
+* [Macropedia.QinLopShu](//qin-lop-shu)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
+* [Macropedia.QannaDabrianTwo](//qanna-dabrian-two)  . . . October 18, 2005 at 17:29 CST (GMT -6) - * [==] * 
+* [Macropedia.QannaDabrian](//qanna-dabrian)  . . . October 18, 2005 at 17:28 CST (GMT -6) - * [==] * 
+* [Macropedia.QadanRom](//qadan-rom)  . . . October 18, 2005 at 17:28 CST (GMT -6) - * [==] * 
+* [Macropedia.Purivi-DonarSystem](//purivi-donar-system)  . . . October 18, 2005 at 17:28 CST (GMT -6) - * [==] * 
+* [Macropedia.PrimitivePopulationRegression](//primitive-population-regression)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
+* [Macropedia.PopelofProject](//popelof-project)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
+* [Macropedia.PetrasGodane](//petras-godane)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
+* [Macropedia.PerkentovCovenent](//perkentov-covenent)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
+* [Macropedia.Periphery](//periphery)  . . . October 18, 2005 at 17:27 CST (GMT -6) - * [==] * 
+* [Macropedia.PerezFamily](//perez-family)  . . . October 18, 2005 at 17:26 CST (GMT -6) - * [==] * 
+* [Macropedia.PeaceAndOrderLaws](//peace-and-order-laws)  . . . October 18, 2005 at 17:26 CST (GMT -6) - * [==] * 
+* [Macropedia.PanTerranDefenseTreatyCouncil](//pan-terran-defense-treaty-council)  . . . October 18, 2005 at 17:25 CST (GMT -6) - * [==] * 
+* [Macropedia.OradianShippingConglomerate](//oradian-shipping-conglomerate)  . . . October 18, 2005 at 17:25 CST (GMT -6) - * [==] * 
+* [Macropedia.OdniPlanyeti](//odni-planyeti)  . . . October 18, 2005 at 17:24 CST (GMT -6) - * [==] * 
+* [Macropedia.NovyaSiberiaBelshaneWar](//novya-siberia-belshane-war)  . . . October 18, 2005 at 17:24 CST (GMT -6) - * [==] * 
+* [Macropedia.NomonPirates](//nomon-pirates)  . . . October 18, 2005 at 17:23 CST (GMT -6) - * [==] * 
+* [Macropedia.NindusAzrahnFelard](//nindus-azrahn-felard)  . . . October 18, 2005 at 17:23 CST (GMT -6) - * [==] * 
+* [Macropedia.NewDiaspora](//new-diaspora)  . . . October 18, 2005 at 17:22 CST (GMT -6) - * [==] * 
+* [Macropedia.NeoTawmeriks](//neo-tawmeriks)  . . . October 18, 2005 at 17:22 CST (GMT -6) - * [==] * 
+* [Macropedia.NazirAl-Shamuth](//nazir-al-shamuth)  . . . October 18, 2005 at 17:22 CST (GMT -6) - * [==] * 
+* [Macropedia.NormalizedAnthorph](//normalized-anthorph)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
+* [Macropedia.NevianSchmizt](//nevian-schmizt)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
+* [Macropedia.MnovelliiCollective](//mnovellii-collective)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
+* [Macropedia.MorshFurnoklin](//morsh-furnoklin)  . . . October 18, 2005 at 17:21 CST (GMT -6) - * [==] * 
+* [Macropedia.MerithianRevolution](//merithian-revolution)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
+* [Macropedia.MuzgersunsHistory](//muzgersuns-history)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
+* [Macropedia.MessenFremezulejo](//messen-fremezulejo)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
+* [Macropedia.MysteriesOfTheDiaspora](//mysteries-of-the-diaspora)  . . . October 18, 2005 at 17:20 CST (GMT -6) - * [==] * 
+* [Macropedia.MuridianAvengers](//muridian-avengers)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
+* [Macropedia.MuzigleFiasco](//muzigle-fiasco)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
+* [Macropedia.MinistryOfCulturalDevelopment](//ministry-of-cultural-development)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
+* [Macropedia.MotherMemoryCore](//mother-memory-core)  . . . October 18, 2005 at 17:19 CST (GMT -6) - * [==] * 
+* [Macropedia.MacrodonicCollapse](//macrodonic-collapse)  . . . October 18, 2005 at 17:09 CST (GMT -6) - * [==] * 
+* [Macropedia.LendaTawmerik](//lenda-tawmerik)  . . . October 18, 2005 at 17:08 CST (GMT -6) - * [==] * 
+* [Macropedia.LastChargeOfLightHorse](//last-charge-of-light-horse)  . . . October 18, 2005 at 16:47 CST (GMT -6) - * [==] * 
+* [Macropedia.LiuNoRiMasters](//liu-no-ri-masters)  . . . October 18, 2005 at 16:47 CST (GMT -6) - * [==] * 
+* [Macropedia.LibrarianSociety](//librarian-society)  . . . October 18, 2005 at 16:47 CST (GMT -6) - * [==] * 
+* [Macropedia.Lemardians](//lemardians)  . . . October 18, 2005 at 16:46 CST (GMT -6) - * [==] * 
+* [Macropedia.LangothianRangers](//langothian-rangers)  . . . October 18, 2005 at 16:46 CST (GMT -6) - * [==] * 
+* [Macropedia.KaldarEsraYathara](//kaldar-esra-yathara)  . . . October 18, 2005 at 16:46 CST (GMT -6) - * [==] * 
+* [Macropedia.KuberianMovement](//kuberian-movement)  . . . October 18, 2005 at 16:45 CST (GMT -6) - * [==] * 
+* [Macropedia.KrezilStockMarketCrash](//krezil-stock-market-crash)  . . . October 18, 2005 at 16:45 CST (GMT -6) - * [==] * 
+* [Macropedia.KlisterUniversity](//klister-university)  . . . October 18, 2005 at 16:44 CST (GMT -6) - * [==] * 
+* [Macropedia.KingTraihLeague](//king-traih-league)  . . . October 18, 2005 at 16:44 CST (GMT -6) - * [==] * 
+* [Macropedia.KemenFebrerSuwor](//kemen-febrer-suwor)  . . . October 18, 2005 at 16:44 CST (GMT -6) - * [==] * 
+* [Macropedia.Kazam-Re](//kazam-re)  . . . October 18, 2005 at 16:43 CST (GMT -6) - * [==] * 
+* [Macropedia.KauriumGovernment](//kaurium-government)  . . . October 18, 2005 at 16:43 CST (GMT -6) - * [==] * 
+* [Macropedia.KabalNebrotensia](//kabal-nebrotensia)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
+* [Macropedia.JubalFour](//jubal-four)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
+* [Macropedia.JubalThree](//jubal-three)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
+* [Macropedia.JubalTwo](//jubal-two)  . . . October 18, 2005 at 16:42 CST (GMT -6) - * [==] * 
+* [Macropedia.JiaoBannerSphere](//jiao-banner-sphere)  . . . October 18, 2005 at 16:41 CST (GMT -6) - * [==] * 
+* [Macropedia.JanoosWelkred](//janoos-welkred)  . . . October 18, 2005 at 16:41 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperialCourtOfCassation](//imperial-court-of-cassation)  . . . October 18, 2005 at 16:41 CST (GMT -6) - * [==] * 
+* [Macropedia.IadianMassacre](//iadian-massacre)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
+* [Macropedia.Imudring](//imudring)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
+* [Macropedia.IvanDabrian](//ivan-dabrian)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperialInterregnum](//imperial-interregnum)  . . . October 18, 2005 at 16:40 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperialCongress](//imperial-congress)  . . . October 18, 2005 at 16:39 CST (GMT -6) - * [==] * 
+* [Macropedia.ImperialCoreWorlds](//imperial-core-worlds)  . . . October 18, 2005 at 16:39 CST (GMT -6) - * [==] * 
+* [Macropedia.HundredBloodyDays](//hundred-bloody-days)  . . . October 18, 2005 at 16:39 CST (GMT -6) - * [==] * 
+* [Macropedia.HjansKrebLakol](//hjans-kreb-lakol)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
+* [Macropedia.HelsmuntInstitute](//helsmunt-institute)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
+* [Macropedia.Heljyks](//heljyks)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
+* [Macropedia.HegemonicEconomicTradeGroup](//hegemonic-economic-trade-group)  . . . October 18, 2005 at 16:38 CST (GMT -6) - * [==] * 
+* [Macropedia.HagurinCharacterSet](//hagurin-character-set)  . . . October 18, 2005 at 16:37 CST (GMT -6) - * [==] * 
+* [Macropedia.GawdainTawmerik](//gawdain-tawmerik)  . . . October 18, 2005 at 16:37 CST (GMT -6) - * [==] * 
+* [Macropedia.GruyonhDoyu](//gruyonh-doyu)  . . . October 18, 2005 at 16:37 CST (GMT -6) - * [==] * 
+* [Macropedia.GravitoMagneticSensorSheaths](//gravito-magnetic-sensor-sheaths)  . . . October 18, 2005 at 16:36 CST (GMT -6) - * [==] * 
+* [Macropedia.GrandReforms](//grand-reforms)  . . . October 18, 2005 at 16:36 CST (GMT -6) - * [==] * 
+* [Macropedia.GhenChanghLiu](//ghen-changh-liu)  . . . October 18, 2005 at 16:36 CST (GMT -6) - * [==] * 
+* [Macropedia.GesceamianChoent](//gesceamian-choent)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
+* [Macropedia.GieliadenSohia](//gieliaden-sohia)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
+* [Macropedia.GeneticallyEnhancedPeoples](//genetically-enhanced-peoples)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
+* [Macropedia.GalacticLibraryOfLanguageAndCulture](//galactic-library-of-language-and-culture)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
+* [Macropedia.GahaniBariMonastery](//gahani-bari-monastery)  . . . October 18, 2005 at 16:35 CST (GMT -6) - * [==] * 
+* [Macropedia.GahanianSeers](//gahanian-seers)  . . . October 18, 2005 at 16:34 CST (GMT -6) - * [==] * 
+* [Macropedia.FurnoklinTaschera](//furnoklin-taschera)  . . . October 18, 2005 at 16:34 CST (GMT -6) - * [==] * 
+* [Macropedia.FullyIntegratedCorporation](//fully-integrated-corporation)  . . . October 18, 2005 at 16:34 CST (GMT -6) - * [==] * 
+* [Macropedia.FrontierScoutFleet](//frontier-scout-fleet)  . . . October 18, 2005 at 16:33 CST (GMT -6) - * [==] * 
+* [Macropedia.FrontierRebellion](//frontier-rebellion)  . . . October 18, 2005 at 16:33 CST (GMT -6) - * [==] * 
+* [Macropedia.FractalShielding](//fractal-shielding)  . . . October 18, 2005 at 16:33 CST (GMT -6) - * [==] * 
+* [Macropedia.FemaronFelard](//femaron-felard)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
+* [Macropedia.FasantauriSystem](//fasantauri-system)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
+* [Macropedia.ElenaraiFathame](//elenarai-fathame)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
+* [Macropedia.EnteringFirstDecline](//entering-first-decline)  . . . October 18, 2005 at 16:32 CST (GMT -6) - * [==] * 
+* [Macropedia.EnhancedAutonomousResearchLaboratory](//enhanced-autonomous-research-laboratory)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
+* [Macropedia.EnglePogroms](//engle-pogroms)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
+* [Macropedia.EndyphadKonjrez](//endyphad-konjrez)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
+* [Macropedia.EmilDabrian](//emil-dabrian)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
+* [Macropedia.ElkarLemard](//elkar-lemard)  . . . October 18, 2005 at 16:31 CST (GMT -6) - * [==] * 
+* [Macropedia.EkreiterPlague](//ekreiter-plague)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
+* [Macropedia.DurinBonish](//durin-bonish)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
+* [Macropedia.DioEnMashino](//dio-en-mashino)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
+* [Macropedia.DinzwarGefera](//dinzwar-gefera)  . . . October 18, 2005 at 16:30 CST (GMT -6) - * [==] * 
+* [Macropedia.DenudedEarthTheory](//denuded-earth-theory)  . . . October 18, 2005 at 16:29 CST (GMT -6) - * [==] * 
+* [Macropedia.DeltaiCathianLeague](//deltai-cathian-league)  . . . October 18, 2005 at 16:29 CST (GMT -6) - * [==] * 
+* [Macropedia.DaoJihnCorp](//dao-jihn-corp)  . . . October 18, 2005 at 16:29 CST (GMT -6) - * [==] * 
+* [Macropedia.Dalludna](//dalludna)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
+* [Macropedia.DabrianDynasty](//dabrian-dynasty)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
+* [Macropedia.CounselOfConcernedScientists](//counsel-of-concerned-scientists)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
+* [Macropedia.CorriganSystem](//corrigan-system)  . . . October 18, 2005 at 16:28 CST (GMT -6) - * [==] * 
+* [Macropedia.ConspiracyOfAges](//conspiracy-of-ages)  . . . October 18, 2005 at 16:27 CST (GMT -6) - * [==] * 
+* [Macropedia.ConferenceOfReligionAndScience](//conference-of-religion-and-science)  . . . October 18, 2005 at 16:27 CST (GMT -6) - * [==] * 
+* [Macropedia.ConfederationParty](//confederation-party)  . . . October 18, 2005 at 16:27 CST (GMT -6) - * [==] * 
+* [Macropedia.CommitteeOfTen-ThousandFlowers](//committee-of-ten-thousand-flowers)  . . . October 18, 2005 at 16:26 CST (GMT -6) - * [==] * 
+* [Macropedia.ChovimFamily](//chovim-family)  . . . October 18, 2005 at 16:26 CST (GMT -6) - * [==] * 
+* [Macropedia.ChogiaFaith](//chogia-faith)  . . . October 18, 2005 at 16:25 CST (GMT -6) - * [==] * 
+* [Macropedia.CharlBovit](//charl-bovit)  . . . October 18, 2005 at 16:25 CST (GMT -6) - * [==] * 
+* [Macropedia.Celtainu](//celtainu)  . . . October 18, 2005 at 16:24 CST (GMT -6) - * [==] * 
+* [Macropedia.CathianNavy](//cathian-navy)  . . . October 18, 2005 at 16:24 CST (GMT -6) - * [==] * 
+* [Macropedia.CanticleOfHope](//canticle-of-hope)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
+* [Macropedia.BitaniumFibreExplorationCorporation](//bitanium-fibre-exploration-corporation)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
+* [Macropedia.BenitaPerez](//benita-perez)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
+* [Macropedia.BangHaiNokIncident](//bang-hai-nok-incident)  . . . October 18, 2005 at 16:23 CST (GMT -6) - * [==] * 
+* [Macropedia.BaelianFiasco](//baelian-fiasco)  . . . October 18, 2005 at 16:22 CST (GMT -6) - * [==] * 
+* [Macropedia.AscensionCults](//ascension-cults)  . . . October 18, 2005 at 16:22 CST (GMT -6) - * [==] * 
+* [Macropedia.ArturoSanDegas](//arturo-san-degas)  . . . October 18, 2005 at 16:21 CST (GMT -6) - * [==] * 
+* [Macropedia.AntiusTrevusOne](//antius-trevus-one)  . . . October 18, 2005 at 16:21 CST (GMT -6) - * [==] * 
+* [Macropedia.AnthorphFreeState](//anthorph-free-state)  . . . October 18, 2005 at 16:20 CST (GMT -6) - * [==] * 
+* [Macropedia.Anthorph](//anthorph)  . . . October 18, 2005 at 16:20 CST (GMT -6) - * [==] * 
+* [Macropedia.AlistairCormwite](//alistair-cormwite)  . . . October 18, 2005 at 16:20 CST (GMT -6) - * [==] * 
+* [Macropedia.AlaerianCult](//alaerian-cult)  . . . October 18, 2005 at 16:19 CST (GMT -6) - * [==] * 
+* [Macropedia.AcademyOfTheImperialFleet](//academy-of-the-imperial-fleet)  . . . October 18, 2005 at 16:19 CST (GMT -6) - * [==] * 
+* [Macropedia.PeaceOrderLaws](//peace-order-laws)  . . . October 08, 2005 at 12:06 CST (GMT -6) - * [=fully named to Peace and Order Laws=] * 
+* [Macropedia.ConspiricyOfAges](//conspiricy-of-ages)  . . . October 08, 2005 at 11:05 CST (GMT -6) - * [=misspelled title. =] * 
 * [NaturalSciences.GravatonicInterloquiterEquation](/natural-sciences/gravatonic-interloquiter-equation)  . . . October 01, 2005 at 17:14 CST (GMT -6) - * [==] * 
-* [Macropedia.EkriterPlague](/macropedia/ekriter-plague)  . . . October 01, 2005 at 11:45 CST (GMT -6) - * [==] * 
-* [Macropedia.CamridZoromEffect](/macropedia/camrid-zorom-effect)  . . . October 01, 2005 at 11:43 CST (GMT -6) - * [==] * 
-* [Macropedia.RethTamerikI](/macropedia/reth-tamerik-i)  . . . October 01, 2005 at 11:42 CST (GMT -6) - * [==] * 
+* [Macropedia.EkriterPlague](//ekriter-plague)  . . . October 01, 2005 at 11:45 CST (GMT -6) - * [==] * 
+* [Macropedia.CamridZoromEffect](//camrid-zorom-effect)  . . . October 01, 2005 at 11:43 CST (GMT -6) - * [==] * 
+* [Macropedia.RethTamerikI](//reth-tamerik-i)  . . . October 01, 2005 at 11:42 CST (GMT -6) - * [==] * 
 * [Scholar.ChoMinhTelRan](/scholar/cho-minh-tel-ran)  . . . September 17, 2005 at 14:56 CST (GMT -6) - * [==] * 
 * [Scholar.ChangSingh](/scholar/chang-singh)  . . . September 17, 2005 at 14:53 CST (GMT -6) - * [==] * 
-* [Macropedia.Ultimaatum](/macropedia/ultimaatum)  . . . September 17, 2005 at 13:47 CST (GMT -6) - * [==] * 
+* [Macropedia.Ultimaatum](//ultimaatum)  . . . September 17, 2005 at 13:47 CST (GMT -6) - * [==] * 
 * [Category.Phantoms](/category/phantoms)  . . . September 13, 2005 at 19:21 CST (GMT -6) - * [==] * 
-* [Macropedia.WarsExpansion](/macropedia/wars-expansion)  . . . September 13, 2005 at 19:09 CST (GMT -6) - * [=moved content to "better" name, so deleting.=] * 
-* [Macropedia.CommitteeOfTenThousandFlowers](/macropedia/committee-of-ten-thousand-flowers)  . . . September 04, 2005 at 16:12 CST (GMT -6) - * [==] * 
+* [Macropedia.WarsExpansion](//wars-expansion)  . . . September 13, 2005 at 19:09 CST (GMT -6) - * [=moved content to "better" name, so deleting.=] * 
+* [Macropedia.CommitteeOfTenThousandFlowers](//committee-of-ten-thousand-flowers)  . . . September 04, 2005 at 16:12 CST (GMT -6) - * [==] * 
 * [StarSystems.Dazamine](/star-systems/dazamine)  . . . September 01, 2005 at 15:28 CST (GMT -6) - * [==] * 
 * [Main.FudgeDisclaimer](/main/fudge-disclaimer)  . . . August 08, 2005 at 08:06 CST (GMT -6) - * [=fixed title=] * 
 * [Religion.AlaerianCult](/religion/alaerian-cult)  . . . August 07, 2005 at 10:58 CST (GMT -6) - * [==] * 
@@ -518,8 +518,8 @@ group: Contributions
 * [CurrentEvents.2005Jul11](/current-events/2005jul11)  . . . July 11, 2005 at 22:51 CST - * [=fixed title=] * 
 * [CurrentEvents.Past](/current-events/past)  . . . July 11, 2005 at 22:49 CST - * [=added entry=] * 
 * [StarSystems.Voshium](/star-systems/voshium)  . . . July 10, 2005 at 18:24 CST - * [==] * 
-* [Macropedia.PuriviDonarSystem](/macropedia/purivi-donar-system)  . . . July 10, 2005 at 18:06 CST - * [=fixed title and categories=] * 
-* [Macropedia.NazirAlShamuth](/macropedia/nazir-al-shamuth)  . . . July 10, 2005 at 18:04 CST - * [=fixed title and categories=] * 
+* [Macropedia.PuriviDonarSystem](//purivi-donar-system)  . . . July 10, 2005 at 18:06 CST - * [=fixed title and categories=] * 
+* [Macropedia.NazirAlShamuth](//nazir-al-shamuth)  . . . July 10, 2005 at 18:04 CST - * [=fixed title and categories=] * 
 * [StarSystems.FauSystem](/star-systems/fau-system)  . . . July 10, 2005 at 17:23 CST - * [=Named the systems=] * 
 * [SocialSciences.SocialSciences](/social-sciences/social-sciences)  . . . July 07, 2005 at 08:06 CST - * [==] * 
 * [StarSystems.NovyaSiberia](/star-systems/novya-siberia)  . . . July 06, 2005 at 22:16 CST - * [=applied Template=] * 
@@ -547,9 +547,9 @@ group: Contributions
 * [Cosmology.BraneHopping](/cosmology/brane-hopping)  . . . June 19, 2005 at 14:01 CST - * [=deleting - it exists elsewhere=] * 
 * [Lexicon.LexiconEntryTemplate](/lexicon/lexicon-entry-template)  . . . June 19, 2005 at 14:00 CST - * [=deleting=] * 
 * [Lexicon.LexiconEntryTemplateSource](/lexicon/lexicon-entry-template-source)  . . . June 19, 2005 at 14:00 CST - * [=deleting=] * 
-* [Macropedia.EntryTemplate](/macropedia/entry-template)  . . . June 14, 2005 at 18:38 CST - * [==] * 
+* [Macropedia.EntryTemplate](//entry-template)  . . . June 14, 2005 at 18:38 CST - * [==] * 
 * [Category.PhantomIsaacTaub](/category/phantom-isaac-taub)  . . . June 12, 2005 at 14:44 CST - * [==] * 
-* [MacropediaImperium.HomePage](/macropedia-imperium/home-page)  . . . June 09, 2005 at 14:54 CST - * [=removing=] * 
+* [MacropediaImperium.HomePage](/-imperium/home-page)  . . . June 09, 2005 at 14:54 CST - * [=removing=] * 
 * [Main.AllRecentChanges](/main/all-recent-changes)  . . . June 06, 2005 at 17:07 CST - * [==] * 
 * [Contributions.MateuszCzaplinski](/contributions/mateusz-czaplinski)  . . . June 06, 2005 at 17:06 CST - * [==] * 
 * [Mechanics.TestsChallengesTestsAndChallenges](/mechanics/tests-challenges-tests-and-challenges)  . . . June 06, 2005 at 17:03 CST - * [=removing=] * 
@@ -558,17 +558,17 @@ group: Contributions
 * [Main.Parameters](/main/parameters)  . . . June 05, 2005 at 16:40 CST - * [=removing=] * 
 * [Main.NotesForContributers](/main/notes-for-contributers)  . . . June 05, 2005 at 16:39 CST - * [=updating notes.=] * 
 * [Blog.Blog](/blog/blog)  . . . June 05, 2005 at 16:34 CST - * [=removing=] * 
-* [Macropedia.ImperiumEditionSchedule](/macropedia/imperium-edition-schedule)  . . . May 28, 2005 at 02:11 CST - * [=Incremented turn due date . . .=] * 
+* [Macropedia.ImperiumEditionSchedule](//imperium-edition-schedule)  . . . May 28, 2005 at 02:11 CST - * [=Incremented turn due date . . .=] * 
 * [Main.SiteGenerator](/main/site-generator)  . . . May 01, 2005 at 14:58 CST - * [=removed accidental wikiwords=] * 
 * [Main.Login](/main/login)  . . . April 23, 2005 at 17:54 CST - * [==] * 
 * [Mechanics.StarSystemDesign](/mechanics/star-system-design)  . . . April 13, 2005 at 08:09 CST - * [=fixed markup.=] * 
 * [StarSystems.Vadia](/star-systems/vadia)  . . . April 13, 2005 at 08:02 CST - * [=fixed title=] * 
-* [Macropedia.ImperiumEditionTurnA](/macropedia/imperium-edition-turn-a)  . . . April 03, 2005 at 19:53 CST - * [==] * 
+* [Macropedia.ImperiumEditionTurnA](//imperium-edition-turn-a)  . . . April 03, 2005 at 19:53 CST - * [==] * 
 * [Generalities.Generalities](/generalities/generalities)  . . . April 03, 2005 at 19:48 CST - * [=Removed heading=] * 
-* [Macropedia.VosiumInsurrection](/macropedia/vosium-insurrection)  . . . March 05, 2005 at 14:43 CST - * [=phanton setup=] * 
+* [Macropedia.VosiumInsurrection](//vosium-insurrection)  . . . March 05, 2005 at 14:43 CST - * [=phanton setup=] * 
 * [StarSystems.StarSystems](/star-systems/star-systems)  . . . January 28, 2005 at 18:14 CST - * [=added system links.=] * 
-* [Macropedia.HegimonicEconomicTradeGroup](/macropedia/hegimonic-economic-trade-group)  . . . January 28, 2005 at 16:55 CST - * [=misspelt name=] * 
-* [Macropedia.NormalizedAnthorphs](/macropedia/normalized-anthorphs)  . . . January 23, 2005 at 20:03 CST - * [=added phantom reference=] * 
+* [Macropedia.HegimonicEconomicTradeGroup](//hegimonic-economic-trade-group)  . . . January 28, 2005 at 16:55 CST - * [=misspelt name=] * 
+* [Macropedia.NormalizedAnthorphs](//normalized-anthorphs)  . . . January 23, 2005 at 20:03 CST - * [=added phantom reference=] * 
 * [Mileu.Mileu](/mileu/mileu)  . . . January 20, 2005 at 08:30 CST - * [=deleting page. It was a typo=] * 
 * [SocialSciences.CalendarsAndTime](/social-sciences/calendars-and-time)  . . . January 18, 2005 at 10:39 CST - * [=Initially Written=] * 
 * [Lexicon.LexiconTemplate](/lexicon/lexicon-template)  . . . January 15, 2005 at 14:34 CST - * [=tweaked=] * 
@@ -583,13 +583,13 @@ group: Contributions
 * [Technology.AIComputers](/technology/a-icomputers)  . . . December 30, 2004 at 17:09 CST - * [=reorganized and embelished=] * 
 * [Main.Copyrights](/main/copyrights)  . . . December 30, 2004 at 15:16 CST - * [=Initially Written=] * 
 * [Main.Dictionary](/main/dictionary)  . . . December 30, 2004 at 13:51 CST - * [==] * 
-* [Macropedia.HomePage](/macropedia/home-page)  . . . December 20, 2004 at 23:34 CST - * [=Removed \"current project\" link and flagged the current project.=] * 
-* [Macropedia.SampleEdition](/macropedia/sample-edition)  . . . December 20, 2004 at 23:31 CST - * [==] * 
+* [Macropedia.HomePage](//home-page)  . . . December 20, 2004 at 23:34 CST - * [=Removed \"current project\" link and flagged the current project.=] * 
+* [Macropedia.SampleEdition](//sample-edition)  . . . December 20, 2004 at 23:31 CST - * [==] * 
 * [Scholar.AlistairCormwite](/scholar/alistair-cormwite)  . . . December 20, 2004 at 23:15 CST - * [=Initially Written=] * 
 * [CurrentEvents.CurrentEventsTalk](/current-events/current-events-talk)  . . . December 18, 2004 at 11:11 CST - * [==] * 
 * [CurrentEvents.GroupAttributes](/current-events/group-attributes)  . . . December 18, 2004 at 10:57 CST - * [==] * 
 * [CurrentEvents.Recent](/current-events/recent)  . . . December 18, 2004 at 10:54 CST - * [=Initially Written=] * 
-* [Macropedia.Terradom](/macropedia/terradom)  . . . December 16, 2004 at 18:12 CST - * [==] * 
+* [Macropedia.Terradom](//terradom)  . . . December 16, 2004 at 18:12 CST - * [==] * 
 * [Technology.MicroDrives](/technology/micro-drives)  . . . December 14, 2004 at 21:32 CST - * [==] * 
 * [Chronology.HyperspaceVortices](/chronology/hyperspace-vortices)  . . . December 14, 2004 at 15:15 CST - * [=Editing Contributer Byline=] * 
 * [Technology.RelativisticDrives](/technology/relativistic-drives)  . . . December 14, 2004 at 15:10 CST - * [=Transcribed from old site.=] * 

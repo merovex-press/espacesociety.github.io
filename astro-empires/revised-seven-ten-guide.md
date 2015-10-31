@@ -2,7 +2,7 @@
 layout: page
 title: "Revised Seven Ten Guide"
 date: 2008-11-22T16:36:54+00:00
-comments: true
+permalink: /astro-empires/revised-seven-ten-guide/
 sharing: true
 footer: true
 group: AstroEmpires

@@ -2,7 +2,7 @@
 layout: page
 title: "C Ms Menu"
 date: 2005-12-30T17:02:41+00:00
-comments: true
+permalink: /site/c-ms-menu/
 sharing: true
 footer: true
 group: Site

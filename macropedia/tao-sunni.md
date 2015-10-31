@@ -2,7 +2,7 @@
 layout: page
 title: "Tao Sunni"
 date: 2005-10-18T21:51:44+00:00
-comments: true
+permalink: /macropedia/tao-sunni/
 sharing: true
 footer: true
 group: Macropedia

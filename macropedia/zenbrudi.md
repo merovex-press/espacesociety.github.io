@@ -2,7 +2,7 @@
 layout: page
 title: "Zenbrudi"
 date: 2005-10-18T22:01:01+00:00
-comments: true
+permalink: /macropedia/zenbrudi/
 sharing: true
 footer: true
 group: Macropedia

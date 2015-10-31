@@ -2,7 +2,7 @@
 layout: page
 title: "Page Actions"
 date: 2005-12-30T15:04:55+00:00
-comments: true
+permalink: /site/page-actions/
 sharing: true
 footer: true
 group: Site

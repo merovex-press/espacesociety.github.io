@@ -2,7 +2,7 @@
 layout: page
 title: "Stories"
 date: 2005-08-23T19:33:19+00:00
-comments: true
+permalink: /aaron-clausen/stories/
 sharing: true
 footer: true
 group: AaronClausen

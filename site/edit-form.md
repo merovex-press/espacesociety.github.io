@@ -2,7 +2,7 @@
 layout: page
 title: "Edit Form"
 date: 2005-09-21T14:27:50+00:00
-comments: true
+permalink: /site/edit-form/
 sharing: true
 footer: true
 group: Site

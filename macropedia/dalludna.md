@@ -2,7 +2,7 @@
 layout: page
 title: "Dalludna"
 date: 2005-09-03T15:16:49+00:00
-comments: true
+permalink: /macropedia/dalludna/
 sharing: true
 footer: true
 group: Macropedia

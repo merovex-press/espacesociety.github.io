@@ -2,7 +2,7 @@
 layout: page
 title: "Heljyks"
 date: 2005-09-13T23:06:41+00:00
-comments: true
+permalink: /macropedia/heljyks/
 sharing: true
 footer: true
 group: Macropedia

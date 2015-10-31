@@ -2,7 +2,7 @@
 layout: page
 title: "Brane Hopping"
 date: 2005-07-31T20:33:11+00:00
-comments: true
+permalink: /natural-sciences/brane-hopping/
 sharing: true
 footer: true
 group: NaturalSciences

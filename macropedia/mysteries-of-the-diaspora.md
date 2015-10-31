@@ -2,7 +2,7 @@
 layout: page
 title: "Mysteries Of The Diaspora"
 date: 2005-10-18T21:20:17+00:00
-comments: true
+permalink: /macropedia/mysteries-of-the-diaspora/
 sharing: true
 footer: true
 group: Macropedia

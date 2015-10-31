@@ -2,7 +2,7 @@
 layout: page
 title: "Recommended Skills-Missiles"
 date: 2011-11-16T23:56:20+00:00
-comments: true
+permalink: /eve-online/recommended-skills-missiles/
 sharing: true
 footer: true
 group: EveOnline

@@ -2,7 +2,7 @@
 layout: page
 title: "Gruyonh Doyu"
 date: 2005-10-18T20:37:05+00:00
-comments: true
+permalink: /macropedia/gruyonh-doyu/
 sharing: true
 footer: true
 group: Macropedia

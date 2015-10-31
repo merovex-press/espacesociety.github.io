@@ -2,7 +2,7 @@
 layout: page
 title: "Kemen Febrer Suwor"
 date: 2005-10-01T20:48:15+00:00
-comments: true
+permalink: /macropedia/kemen-febrer-suwor/
 sharing: true
 footer: true
 group: Macropedia

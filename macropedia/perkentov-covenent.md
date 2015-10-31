@@ -2,7 +2,7 @@
 layout: page
 title: "Perkentov Covenent"
 date: 2005-08-22T18:06:02+00:00
-comments: true
+permalink: /macropedia/perkentov-covenent/
 sharing: true
 footer: true
 group: Macropedia

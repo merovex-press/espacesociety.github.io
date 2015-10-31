@@ -2,7 +2,7 @@
 layout: page
 title: "Imperium Equipment"
 date: 2006-02-07T21:03:28+00:00
-comments: true
+permalink: /macropedia/imperium-equipment/
 sharing: true
 footer: true
 group: Macropedia

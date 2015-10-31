@@ -2,7 +2,7 @@
 layout: page
 title: "An Argument For The Warrior"
 date: 2011-03-12T16:58:47+00:00
-comments: true
+permalink: /_posts/2011-03-12-warriors-argument/
 sharing: true
 footer: true
 group: AstroEmpires

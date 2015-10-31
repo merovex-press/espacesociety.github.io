@@ -2,7 +2,7 @@
 layout: page
 title: "Gawdain Tawmerik"
 date: 2005-08-12T22:49:21+00:00
-comments: true
+permalink: /macropedia/gawdain-tawmerik/
 sharing: true
 footer: true
 group: Macropedia

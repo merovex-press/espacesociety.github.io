@@ -2,7 +2,7 @@
 layout: page
 title: "Fleet Formation"
 date: 2007-10-04T00:42:50+00:00
-comments: true
+permalink: /astro-empires/fleet-formation/
 sharing: true
 footer: true
 group: AstroEmpires

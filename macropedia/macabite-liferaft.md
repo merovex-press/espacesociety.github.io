@@ -2,7 +2,7 @@
 layout: page
 title: "Macabite Liferaft"
 date: 2006-04-04T19:46:14+00:00
-comments: true
+permalink: /macropedia/macabite-liferaft/
 sharing: true
 footer: true
 group: Macropedia

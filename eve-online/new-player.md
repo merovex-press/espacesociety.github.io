@@ -2,7 +2,7 @@
 layout: page
 title: "New Player"
 date: 2011-11-06T01:59:12+00:00
-comments: true
+permalink: /eve-online/new-player/
 sharing: true
 footer: true
 group: EveOnline

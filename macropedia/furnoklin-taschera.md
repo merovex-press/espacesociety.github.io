@@ -2,7 +2,7 @@
 layout: page
 title: "Furnoklin Taschera"
 date: 2005-10-18T20:34:37+00:00
-comments: true
+permalink: /macropedia/furnoklin-taschera/
 sharing: true
 footer: true
 group: Macropedia

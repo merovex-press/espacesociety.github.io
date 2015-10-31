@@ -2,7 +2,7 @@
 layout: page
 title: "Guild Policy"
 date: 2007-10-12T05:10:28+00:00
-comments: true
+permalink: /astro-empires/guild-policy/
 sharing: true
 footer: true
 group: AstroEmpires

@@ -2,7 +2,7 @@
 layout: page
 title: "Ekreiter Plague"
 date: 2005-08-28T16:09:58+00:00
-comments: true
+permalink: /macropedia/ekreiter-plague/
 sharing: true
 footer: true
 group: Macropedia

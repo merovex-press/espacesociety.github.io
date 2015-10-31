@@ -2,7 +2,7 @@
 layout: page
 title: "Terran Republic Timeline"
 date: 2005-08-21T15:58:07+00:00
-comments: true
+permalink: /macropedia/terran-republic-timeline/
 sharing: true
 footer: true
 group: Macropedia

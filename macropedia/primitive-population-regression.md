@@ -2,7 +2,7 @@
 layout: page
 title: "Primitive Population Regression"
 date: 2005-10-18T21:27:57+00:00
-comments: true
+permalink: /macropedia/primitive-population-regression/
 sharing: true
 footer: true
 group: Macropedia

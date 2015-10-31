@@ -2,7 +2,7 @@
 layout: page
 title: "Graduated Skill"
 date: 2005-07-16T17:13:00+00:00
-comments: true
+permalink: /fudge-rules/graduated-skill/
 sharing: true
 footer: true
 group: FudgeRules

@@ -2,7 +2,7 @@
 layout: page
 title: "About Us"
 date: 2010-10-16T16:49:49+00:00
-comments: true
+permalink: /main/about-us/
 sharing: true
 footer: true
 group: Main

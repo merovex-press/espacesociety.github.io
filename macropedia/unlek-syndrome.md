@@ -2,7 +2,7 @@
 layout: page
 title: "Unlek Syndrome"
 date: 2005-10-18T21:54:59+00:00
-comments: true
+permalink: /macropedia/unlek-syndrome/
 sharing: true
 footer: true
 group: Macropedia

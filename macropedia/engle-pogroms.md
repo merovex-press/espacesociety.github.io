@@ -2,7 +2,7 @@
 layout: page
 title: "Engle Pogroms"
 date: 2005-10-18T20:31:39+00:00
-comments: true
+permalink: /macropedia/engle-pogroms/
 sharing: true
 footer: true
 group: Macropedia

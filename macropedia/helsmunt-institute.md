@@ -2,7 +2,7 @@
 layout: page
 title: "Helsmunt Institute"
 date: 2005-10-18T20:38:42+00:00
-comments: true
+permalink: /macropedia/helsmunt-institute/
 sharing: true
 footer: true
 group: Macropedia

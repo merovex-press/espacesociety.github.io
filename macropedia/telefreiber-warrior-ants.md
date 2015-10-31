@@ -2,7 +2,7 @@
 layout: page
 title: "Telefreiber Warrior Ants"
 date: 2006-03-08T18:19:12+00:00
-comments: true
+permalink: /macropedia/telefreiber-warrior-ants/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Very Advanced Structures"
 date: 2008-11-16T00:20:04+00:00
-comments: true
+permalink: /astro-empires/very-advanced-structures/
 sharing: true
 footer: true
 group: AstroEmpires

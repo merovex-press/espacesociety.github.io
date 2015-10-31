@@ -2,7 +2,7 @@
 layout: page
 title: "Broad Attributes"
 date: 2005-07-04T22:28:59+00:00
-comments: true
+permalink: /fudge-rules/broad-attributes/
 sharing: true
 footer: true
 group: FudgeRules

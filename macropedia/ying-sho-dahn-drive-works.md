@@ -2,7 +2,7 @@
 layout: page
 title: "Ying Sho Dahn Drive Works"
 date: 2005-10-18T22:00:04+00:00
-comments: true
+permalink: /macropedia/ying-sho-dahn-drive-works/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "The Ten-Seven Guide"
 date: 2007-10-18T13:52:48+00:00
-comments: true
+permalink: /astro-empires/the-ten-seven-guide/
 sharing: true
 footer: true
 group: AstroEmpires

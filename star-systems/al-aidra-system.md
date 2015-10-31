@@ -2,7 +2,7 @@
 layout: page
 title: "Al Aidra System"
 date: 2005-07-02T01:12:08+00:00
-comments: true
+permalink: /star-systems/al-aidra-system/
 sharing: true
 footer: true
 group: StarSystems

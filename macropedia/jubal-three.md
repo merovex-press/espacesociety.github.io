@@ -2,7 +2,7 @@
 layout: page
 title: "Jubal Three"
 date: 2005-10-15T02:10:08+00:00
-comments: true
+permalink: /macropedia/jubal-three/
 sharing: true
 footer: true
 group: Macropedia

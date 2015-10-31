@@ -2,7 +2,7 @@
 layout: page
 title: "Xelicar"
 date: 2005-07-13T21:27:00+00:00
-comments: true
+permalink: /star-systems/xelicar/
 sharing: true
 footer: true
 group: StarSystems

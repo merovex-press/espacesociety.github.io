@@ -2,7 +2,7 @@
 layout: page
 title: "Character Basics"
 date: 2005-10-04T02:32:20+00:00
-comments: true
+permalink: /d20rules/character-basics/
 sharing: true
 footer: true
 group: D20Rules

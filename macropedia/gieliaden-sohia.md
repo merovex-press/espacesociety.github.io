@@ -2,7 +2,7 @@
 layout: page
 title: "Gieliaden Sohia"
 date: 2005-10-18T20:35:38+00:00
-comments: true
+permalink: /macropedia/gieliaden-sohia/
 sharing: true
 footer: true
 group: Macropedia

@@ -2,7 +2,7 @@
 layout: page
 title: "Zelther Rathian Group"
 date: 2005-09-17T17:33:30+00:00
-comments: true
+permalink: /macropedia/zelther-rathian-group/
 sharing: true
 footer: true
 group: Macropedia

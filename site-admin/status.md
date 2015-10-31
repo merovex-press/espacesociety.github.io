@@ -2,7 +2,7 @@
 layout: page
 title: "Status"
 date: 2011-07-31T18:00:39+00:00
-comments: true
+permalink: /site-admin/status/
 sharing: true
 footer: true
 group: SiteAdmin

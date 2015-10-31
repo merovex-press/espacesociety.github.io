@@ -2,7 +2,7 @@
 layout: page
 title: "Cruiser Heavy Cruiser Debate"
 date: 2010-02-10T15:40:24+00:00
-comments: true
+permalink: /astro-empires/cruiser-heavy-cruiser-debate/
 sharing: true
 footer: true
 group: AstroEmpires

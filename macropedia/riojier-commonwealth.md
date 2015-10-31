@@ -2,7 +2,7 @@
 layout: page
 title: "Riojier Commonwealth"
 date: 2005-10-18T21:32:17+00:00
-comments: true
+permalink: /macropedia/riojier-commonwealth/
 sharing: true
 footer: true
 group: Macropedia

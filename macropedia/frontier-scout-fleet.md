@@ -2,7 +2,7 @@
 layout: page
 title: "Frontier Scout Fleet"
 date: 2005-08-07T05:38:59+00:00
-comments: true
+permalink: /macropedia/frontier-scout-fleet/
 sharing: true
 footer: true
 group: Macropedia

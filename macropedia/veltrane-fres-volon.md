@@ -2,7 +2,7 @@
 layout: page
 title: "Veltrane Fres Volon"
 date: 2005-10-18T21:56:29+00:00
-comments: true
+permalink: /macropedia/veltrane-fres-volon/
 sharing: true
 footer: true
 group: Macropedia

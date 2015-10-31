@@ -2,7 +2,7 @@
 layout: page
 title: "Isaac Taub"
 date: 2005-09-03T15:17:23+00:00
-comments: true
+permalink: /scholar/isaac-taub/
 sharing: true
 footer: true
 group: Scholar

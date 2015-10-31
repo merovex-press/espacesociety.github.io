@@ -2,7 +2,7 @@
 layout: page
 title: "Gahani Bari Monastery"
 date: 2005-09-03T16:02:33+00:00
-comments: true
+permalink: /macropedia/gahani-bari-monastery/
 sharing: true
 footer: true
 group: Macropedia

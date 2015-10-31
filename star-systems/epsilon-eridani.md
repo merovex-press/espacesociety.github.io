@@ -2,7 +2,7 @@
 layout: page
 title: "Corrigan System (Epsilon Eridani)"
 date: 2005-06-28T23:00:15+00:00
-comments: true
+permalink: /star-systems/epsilon-eridani/
 sharing: true
 footer: true
 group: StarSystems

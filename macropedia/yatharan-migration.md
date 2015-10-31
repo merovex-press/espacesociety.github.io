@@ -2,7 +2,7 @@
 layout: page
 title: "Yatharan Migration"
 date: 2005-09-17T18:55:35+00:00
-comments: true
+permalink: /macropedia/yatharan-migration/
 sharing: true
 footer: true
 group: Macropedia

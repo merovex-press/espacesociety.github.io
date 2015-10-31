@@ -2,7 +2,7 @@
 layout: page
 title: "Start Guide3"
 date: 2007-09-04T21:44:11+00:00
-comments: true
+permalink: /astro-empires/start-guide3/
 sharing: true
 footer: true
 group: AstroEmpires
