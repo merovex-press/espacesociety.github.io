@@ -1,21 +1,21 @@
-<header class="navigation" role="banner">
-  <div class="navigation-wrapper">
-    <a href="{{ site.baseurl }}" class="logo">
-      {% if site.logo %}
-      <img src="{{ site.logo | prepend: site.baseurl }}" alt="{{ site.title }}">
-      {% else %}
-      <span>{{ site.title }}</span>
-      {% endif %}
+<div id='skiptocontent' class='container'><a href='#content'>Skip to main content</a></div>
+<header class='navbar navbar-dark bg-inverse navbar-static-top bd-navbar' role='banner'>
+  <div class='clearfix'>
+    <button class='navbar-toggler pull-right hidden-sm-up' type='button' data-toggle='collapse' data-target='#bd-main-nav'>
+      &#9776;
+    </button>
+    <a class='navbar-brand hidden-sm-up' href='/'>
+      {{site.title}}
     </a>
-    <a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">
-      <i class="fa fa-bars"></i>
-    </a>
-    <nav role="navigation">
-      <ul id="js-navigation-menu" class="navigation-menu show">
+  </div>
+  <div class='collapse navbar-toggleable-xs' id='bd-main-nav'>
+    <a class='navbar-brand nav-item nav-link hidden-xs-down' href='/' >{{site.title}}<span class='sub'></span></a>
+    <nav class='nav navbar-nav'>
+      <ul class='nav navbar-nav xpull-right'>
         {% for page in site.pages %}
-          {% if page.title and page.main_nav != false %}
-          <li class="nav-link"><a href="{{ page.url | remove_first: '/' | prepend: site.baseurl }}">{{ page.title }}</a>
-          {% endif %}
+        {% if page.title and page.main_nav == true %}
+          <li class='nav-item'><a class='nav-link' href='{{ page.url | prepend: site.baseurl }}'>{{ page.title }}</a></li>
+        {% endif %}
         {% endfor %}
       </ul>
     </nav>

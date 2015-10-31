@@ -1,52 +1,96 @@
 ---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
+/* Artsy Fonts */
+@import url(http://fonts.googleapis.com/css?family=Kalam|Kaushan+Script|Neucha);
+/* Sans-Serif Fonts */
+@import url(http://fonts.googleapis.com/css?family=Alegreya+Sans,Open+Sans:400italic,700italic,400,700|Source+Sans+Pro|Droid+Sans|Montserrat|Lato|Nunito:400,300,700);
+/* Serif Fonts */
+@import url(http://fonts.googleapis.com/css?family=Droid+Serif:400italic,700italic,400,700|Chango|Vollkorn|Syncopate|Merriweather|Libre+Baskerville|Crimson+Text|Heuristica);
+
 @charset "utf-8";
 
+@import "solar-dark/_colors";
 
+$background-color: $base03;
 
-// Our variables
-$base-font-family: Helvetica, Arial, sans-serif;
-$base-font-size:   16px;
-$small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$navbar-background: #172734;
+$navbar-darken: darken($navbar-background, 10);
+$navbar-lighten: lighten($navbar-background, 15);
+$link-color: $blue;
+$link-color-hover: lighten($blue, 5%);
 
-$spacing-unit:     30px;
-
-$text-color:       #111;
-$background-color: #fdfdfd;
-$brand-color:      #2a7ae2;
-
-$grey-color:       #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark:  darken($grey-color, 25%);
-
-// Width of the content area
-$content-width:    800px;
-
-$on-palm:          600px;
-$on-laptop:        800px;
-
-
-
-// Using media queries with like this:
-// @include media-query($on-palm) {
-//     .wrapper {
-//         padding-right: $spacing-unit / 2;
-//         padding-left: $spacing-unit / 2;
-//     }
-// }
-@mixin media-query($device) {
-    @media screen and (max-width: $device) {
-        @content;
-    }
+@mixin btn-color($trans) {
+	border-color: $trans;
+	background-color: lighten($trans, 5%) !important;
+	text-decoration: none !important;
+	&:hover {background-color: darken($trans, 2%) !important; }
+}
+@mixin alert-color($trans) {
+	border-color: lighten($trans, 30%);
+	background-color: lighten($trans,40%) !important;
+	color: darken($trans, 20%) !important;
 }
 
+.btn-success {@include btn-color($green); }
+.btn-danger  {@include btn-color($orange); }
+.btn-primary {@include btn-color($blue); }
+.btn-info {@include btn-color(#99A); }
+.alert-info { @include alert-color($blue); }
+.alert-danger { @include alert-color($orange); }
 
-
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import
-        "base",
-        "layout",
-        "syntax-highlighting"
-;
+body {
+  font-size: 1.0rem !important;
+  font-family: 'Alegreya Sans', 'Droid Sans', Heuristica, 'Libre Baskerville',  Vollkorn, Serif !Important;
+  -webkit-font-smoothing: antialiased;
+  color: #DDD;
+  background: $background-color url() no-repeat top left fixed;
+  background-size: cover;
+}
+header.navbar {
+    a.nav-link {
+        font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+        &:focus, &:hover {
+          color: $yellow !important;
+          text-decoration: underline;
+        }
+    }
+    a.navbar-brand {
+      font-family:  "Helvetica Neue",Helvetica,Arial,cursive;
+      color: $yellow;
+      font-size: 1.2em;
+      font-weight: bold;
+      .sub { color: lighten($yellow, 10%); padding-left: 0.1em;}
+      &:hover, &:focus, &:active, .active {color: lighten($yellow, 30%); }
+  }
+  .navbar-toggler {
+    color: $white;
+    border: 1px solid $white;
+  }
+  background: $base03 url(https://s3.amazonaws.com/dausha/images/footer.jpg) no-repeat top left fixed;
+  background-size: cover;
+}
+#skiptocontent a {
+  padding:6px;
+  position: absolute;
+  top:-90px;
+  left:0px;
+  color:white;
+  border-right:1px solid white;
+  border-bottom:1px solid white;
+  border-bottom-right-radius:8px;
+  background:transparent;
+  -webkit-transition: top 1s ease-out, background 1s linear;
+  transition: top 1s ease-out, background 1s linear;
+  z-index: 8000;
+  &:focus {
+    position:absolute;
+    left:0px;
+    top:0px;
+    z-index: 8000;
+    background:#BF1722;
+    outline:0;  
+    -webkit-transition: top .1s ease-in, background .5s linear;
+    transition: top .1s ease-in, background .5s linear;
+  }
+}
