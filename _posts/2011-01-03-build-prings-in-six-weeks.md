@@ -31,8 +31,8 @@ sharing it if you're not interested. Leave a comment below, and I'll start
 documenting how I can my first set of prings finished on my first base, then
 build most within the next week.
 
-<div class='bs-callout bs-callout-info'>
-My math was off, it takes Seven weeks (six weeks is 42 days). But, I now have the [Planetary Ring Construction Guide](/astro-empires/planetary-ring-construction-guide) that documents my process
+<div class='alert alert-info'>
+My math was off, it takes Seven weeks (six weeks is 42 days). But, I now have the <a href='/astro-empires/planetary-ring-construction-guide'>Planetary Ring Construction Guide</a> that documents my process
 </div>
 
 
