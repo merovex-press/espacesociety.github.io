@@ -8,6 +8,8 @@ footer: true
 group: AstroEmpires
 ---
 
+{% include forbearance.html %}
+
 * **Updated July 2013.**
 
 This advanced base guide focuses on base specialization and location.
