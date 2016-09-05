@@ -17,8 +17,7 @@ group: FictionNotes
 
 And so on. I could not recommend Smiley's People and the two volumes of the "Karla Trilogy" that came before it (Tinker, Tailor Soldier Spy and Honourable Schoolboy) more highly.
 
-Rules for Insuring Privacy in an Organization
-=============================================
+## Rules for Insuring Privacy in an Organization
 
 CONSTANT AWARENESS OF THREATS.
 
@@ -37,33 +36,30 @@ and that is:  "The Moscow Rules". I don't  know what it specifically
 means. Nothing really, just a clever slogan. but anyway the rules are
 as follows.
 
-Moscow Rules for Counter Espionage Investigations
--------------------------------------------------
+## Moscow Rules for Counter Espionage Investigations
 
-# Assume that all Local Nationals's (LN)are hostile.
+# Assume that all Local Nationals (LN) are hostile.
 # Assume that an approach by a non-LN is hostile until proven otherwise.
 # Assume that there is always hostile physical surveillance unless counter-surveillance proves otherwise.
 # Assume that all telephone conversations are monitored by LN's.
 # Assume that all enclosed areas are bugged unless they are 'secure' rooms.
 # Assume that incoming and outgoing mail will be subject to hostile examination.
 # Assume that anything that is left unattended will be subject to examination by LN's.
-# Assume that locks left unguarded or unprotected will be manipulated or bypased and the material they protect will be compromised.
+# Assume that locks left unguarded or unprotected will be manipulated or bypassed and the material they protect will be compromised.
 # Assume that simple traps will not deceive LN's.
-# Assume that any guard can be recruited by LN's or is himself an LN agent.
+# Assume that any guard can be recruited by LN's or is an LN agent.
 # Assume that a pair of guards can be recruited by LN's or are themselves agents of LN's.
 
-Moscow Rules for Countermeasures Inspections
---------------------------------------------
+## Moscow Rules for Countermeasures Inspections
 
-# Assume that the eavesdropper is listening in the sensitve areas.
+# Assume that the eavesdropper is listening in the sensitive areas.
 # Assume that an eavesdropper has an agent near the sensitive area.
 # Assume that the eavesdropper is watching the entrances of the facility.
 # Assume that the eavesdropper can maintain a low vulnerability status when he is not listening.
 # Assume that the eavesdropper is guarding the NLJD band of frequencies.
 # Assume that the eavesdropper is watching for sweep receiver radiation.
 
-Translation into English
-------------------------
+## Translation into English
 
 Mr Whidden, then goes onto explain what each one of the above rules
 means in detail, but it is rather long-winded and I wont reprint it
@@ -71,8 +67,7 @@ in this text.  Most of the rules are very simpe to understand, but
 a few points warrant explanation which I'll put into my own words so
 I can explain it in more simplistic terms.
 
-Local Nationals
-~~~~~~~~~~~~~~~
+### Local Nationals
 
 The term  LN (Local National) means a person who is indigenous to a
 specific area.  This term has a greater meaning in the field of world
@@ -91,8 +86,7 @@ overt manner also if the intent is to destroy or cause harm or embarress
 the organization.
 
 
-Moscow Rules for Counter Espionage Investigations
-=================================================
+## Moscow Rules for Counter Espionage Investigations
 
 ### Rule One
 
@@ -102,17 +96,16 @@ This can be extended to include the very person who hired you.
 This is a logical conclusion when you strictly construe these rules;
 especially in a corporate situation.
 
-
 One interesting tactic has the security detail request that a TSCM
 countermeasures sweep be performed. They may request the sweep to
 satisfy a boss or to make the executives feel that the room is more
-secure after the sweep so they will have a confidential converation.
+secure after the sweep so they will have a confidential conversation.
 However, one or more of the security detail may be the actual
 perpetrator and either deactivate or remove the clandestine devices
 before the search, and reactivate or replace the device afterwards.
 What makes this tactic more powerful is the target will trust the agent
 for ordering the sweep. This also makes the agent's cover appear more
-legitimate becuase he ordered the sweep.
+legitimate because he ordered the sweep.
 One should consider Moscow Rules 10 & 11 to accept that "guards" and
 "security" should not never be given full trust.  
 
@@ -127,7 +120,7 @@ company who the sweeper feels is trustworthy.
 Rule 4 is an especially important one. "Assume all telephone
 conversations are monitored." Although it needs no elaboration, I cannot
 stress how important it is **never** to discuss anything sensitive
-over a telephone. This holds espeicially true when you have a cordless
+over a telephone. This holds especially true when you have a cordless
 or cellular phone.
 
 Also, it should also be noted in my personal opinion, that not even
@@ -165,10 +158,10 @@ must be extended to insure that no wires/fiber enter the room or leave
 the room as they can carry clandestine signals hidden on that wire (or
 at the very least all wires must be monitored for hidden signals). The
 room must have no loudspeakers which can act as microphones, the room
-preferable would have no windows and if it did would attenute any
+preferable would have no windows and if it did would attenuate any
 Infrared light so as to protect against RF/IR transmitters. And lastly
 the room would be acoustically secure which means there would be
-virtually no acoustic leakage (in otherwords no sound could be heard on
+virtually no acoustic leakage (in other words no sound could be heard on
 the other side of the wall using any types of devices such as
 microphones and high powered amplifiers.) Also, to be acoustically
 secure, the room should have sufficient random masking signals present
@@ -185,8 +178,8 @@ the wall from the opposite non-guarded side, as well as techniques of
 ### Rule 8
 
 Rule 8 also warrants elaboration. All mechanical locking mechanisms are
-easily bypassed by persons with experience in such fields - which very
-often includes an eavesdropper himself - or on occasion, an eavesdropper
+easily bypassed by persons with experience in such fields---which very
+often includes an eavesdropper himself---or on occasion, an eavesdropper
 may have a  "keyman"  which is a person who is an entry specialist
 (called "quick-entry" in the locksmithing field).
 
@@ -200,14 +193,14 @@ protection to further enhance accountability and security and tracking.
 
 All safes should be of the electronic type, NOT the mechanical
 combination type of yesteryear.  It is not a difficult task to bypass
-combination safes nowadays.  The top expert safecrackers can ply their
+combination safes nowadays.  The top expert safe-crackers can ply their
 trade in an hour to two hours time, and a device now exists on the
 market which cracks safes automatically using a computer controlled
 mechanism and does so in approximately 1 hour.  Electronic safes are
 virtually 100 percent secure and are the current standard on all
 government facilities where classified information is stored. The
 electronic safe itself should preferably have accountability and logging
-features built-in with seperate access codes for multiple users of that
+features built-in with separate access codes for multiple users of that
 safe.
 
 
@@ -231,7 +224,7 @@ When it is deemed necessary, a simple "disguise" is in order.  The TSCM
 Tech should blend in to look like all other employees, he should look
 and act like all employees, and in fact NO EMPLOYEES except a select few
 should even know the TSCM techs are who they are.  The TSCM tech should
-arrive in a vehichle preferable a "work" vehicle which can be disguised
+arrive in a vehicle preferable a "work" vehicle which can be disguised
 as either a maintenance or utility company vehicle.
 
 All equipment should be carried in, under concealment. This means that
@@ -242,22 +235,22 @@ eavesdropper that its no "ordinary" briefcase) into a building.
 
 One tactic I have personally used myself when doing the occasional sweep
 for a client,  is to arrive in a borrowed van which bears the name of
-some maintenance company.  My typical motife is to arrive as a
+some maintenance company.  My typical motif is to arrive as a
 "painter" and when I enter the office if its a large office I announce
 myself as such to the secretary. This of course must be made clear in
 advance to the client so that the secretary knows that the  "painter"
 (or "plumber" or "carpentry contractor" will arrive), again it should
 be stressed that not even secretaries should be made aware of the TSCM
 Techs identity or purpose of visit.  All equipment I carry in discreetly
-in a  painters spackle bag which is just large enough for most of my
+in a painter's spackle bag which is just large enough for most of my
 sweep gear. And for my spectrum analyzer which is too large for the
 spackle bag, I just haul that into the office discreetly wrapped up in a
 large painters cloth tarp. 
 
 Usually I strip the plates off of the van and I remove the inspection
 and registration sticker so as to avoid being "checked-out" by an LN
-agent who may find your van "suspicous".  This in actuallity IS NOT THE
-IDEAL METHOD. I merely do that for convenience purposes.  (because I am
+agent who may find your van "suspicious".  This in actuality *is not the
+ideal method*. I merely do that for convenience purposes. (because I am
 not rich I cant afford multiple vans and vehicles registered to multiple
 legitimate "ghost" companies which all must pay taxes and be registered
 with the state you do business in.) In fact its better to arrive in a
@@ -332,7 +325,7 @@ false alarm. One example is to modify the casing of the listening device,
 and RF filter all the leads when done in such a manner that they clandestine
 device will reflection a large portion of 3rd harmonics while keeping
 secondary harmonics to a minimum thus indicating to the NLJD user perhaps
-that the unit is picking up disimilar metals (sheetrock screws, nails, rebar,
+that the unit is picking up dissimilar metals (sheetrock screws, nails, rebar,
 etc.) rather than semiconductors.
 
 I shall not detail these particular processes as its irrelevant and unwise
@@ -348,16 +341,16 @@ in a real life situation I dont see it happening unless the
 eavesdropper is himself a former government employee.
 
 ALL electronic equipment generates EMI (Electromagnetic Interference)
-which is essentially spurious radiation emmited unintentionally. As such
-these radio wave emmisions are also generated from any type of "sweep"
+which is essentially spurious radiation emitted unintentionally. As such
+these radio wave emissions are also generated from any type of "sweep"
 equipment which the countermeasures technician may use.
-A sophisticated eavesdropper can detect these spurious emmisions and
+A sophisticated eavesdropper can detect these spurious emissions and
 take it as a sign that sweep equipment is being used and the sweep is
 now in progress. The eavesdropper then shuts his clandestine devices
 off remotely.
 
 In reality the ability to do this is actually quite simple. Its just
-that I find it unrealistic and I dont think many buggist in this country
+that I find it unrealistic and I don't think many buggist in this country
 go to all that trouble. Not unless its a super sophisticated operation,
 or unless the eavesdropper is being payed well to take such precautions.
 But then super sophisticated operations are not the norm. Not even close.
@@ -381,11 +374,9 @@ Moscow Rules for Telephone System Inspections
 Moscow Rules for Telephone System Inspections:
 ----------------------------------------------
 
-# The eavesdropper has a variety of techniques at his disposal which enable him to listen to 'room sounds' ("room audio" [note 1]) from a remote location. I will not discuss that in detail, because all the techniques involved in telephone and wireline attacks could fill an entire book in itself.  Generally however, their are two main techniques that could be employed. [Their are actually another 3 or 4 techniques but I shant get into discussing those for the sake of brevity.]
-
-## 'Hot-miked telephone' otherwise called a 'Hot-On-Hook telephone' is one method, which involves modifying an actual telephone which is in a targets location (in reality, the targets phone itself is not modified, but an identical replacement is brought in and switched with the original [this technique of switching phones of course warrants caution as the target could possibly notice the difference between the two by noting scuff marks, etc. that were on the original phone]. The modification consists of a circuit that will allow the eavesdropper to listen to room sounds while the phone is still "on-hook". The modification "drops-out" once the phone is picked up for use and is brought "off-hook" (in which case, the eavesdropper would then have a seperate circuit which could monitor the phone conversation.
-
-## The second most common method is called an "infinity transmitter", which in the 'olden days' circa 1960/70 was called a "harmonica bug".  This is a slight variation of the hot-miked telephone. It is similar in that it allows a person to listen to room audio from a remote location, however the system employed need not be part of the actual telephone. The device could be hidden anywhere along the phone line in close proximity to the target where a seperate microphone can listen to room audio which is then sent through the phone lines while the phone is 'on-hook'. When the phone is lifted 'off-hook', the device drops-out. The device is activated remotely by the eavesdropper by simply calling the targets phone line and then activating the device.
+1. The eavesdropper has a variety of techniques at his disposal which enable him to listen to 'room sounds' ("room audio" [note 1]) from a remote location. I will not discuss that in detail, because all the techniques involved in telephone and wireline attacks could fill an entire book in itself.  Generally however, their are two main techniques that could be employed. [Their are actually another 3 or 4 techniques but I shan't get into discussing those for the sake of brevity.]
+    1. 'Hot-miked telephone' otherwise called a 'Hot-On-Hook telephone' is one method, which involves modifying an actual telephone which is in a targets location (in reality, the targets phone itself is not modified, but an identical replacement is brought in and switched with the original [this technique of switching phones of course warrants caution as the target could possibly notice the difference between the two by noting scuff marks, etc. that were on the original phone]. The modification consists of a circuit that will allow the eavesdropper to listen to room sounds while the phone is still "on-hook". The modification "drops-out" once the phone is picked up for use and is brought "off-hook" (in which case, the eavesdropper would then have a seperate circuit which could monitor the phone conversation.
+    2. The second most common method is called an "infinity transmitter", which in the 'olden days' circa 1960/70 was called a "harmonica bug".  This is a slight variation of the hot-miked telephone. It is similar in that it allows a person to listen to room audio from a remote location, however the system employed need not be part of the actual telephone. The device could be hidden anywhere along the phone line in close proximity to the target where a seperate microphone can listen to room audio which is then sent through the phone lines while the phone is 'on-hook'. When the phone is lifted 'off-hook', the device drops-out. The device is activated remotely by the eavesdropper by simply calling the targets phone line and then activating the device.
 
 Room sounds could also be monitored by simply placing a microphone
 across any line pair, preferably a line pair which is not currently
@@ -458,7 +449,7 @@ inexpensive (and also has many advatages over audible tracers such as
 the ability to track wires through walls without having to open up the wall
 or structure for physical examination) or one could utilize an "ultrasonic"
 tracer device which sends an inaudible signal down the line. These
-aultrasonic tracers are an indespensible tool which come in two forms.
+ultrasonic tracers are an indespensible tool which come in two forms.
 The first is simply a aultrasonic tone tracer and merely produces a
 single tone for identifying line pairs. The second type of ultrasonic
 device actually modulates a voice signals onto a wire pair so that it
